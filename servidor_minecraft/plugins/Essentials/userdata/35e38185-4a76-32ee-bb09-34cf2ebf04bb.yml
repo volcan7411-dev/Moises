@@ -1,0 +1,103 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.71.169.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754596087691
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754589149669
+  login: 1754595944590
+money: '0'
+last-account-name: Lee
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 67.9212151752593
+  y: 66.0
+  z: -245.02276544091546
+  yaw: 80.48516845703125
+  pitch: 36.35030746459961
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 219.1337990238412
+  y: 57.0
+  z: 366.83320924453176
+  yaw: -21.0697021484375
+  pitch: 21.096464157104492
+homes:
+  mina:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 626.4526155809889
+    y: -49.0
+    z: -268.5611740353513
+    yaw: 95.5377197265625
+    pitch: 39.99308776855469
+  cueva:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 543.5714594277412
+    y: -29.0
+    z: -291.7218455709424
+    yaw: 54.37615966796875
+    pitch: 22.062204360961914
+  megacueva:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 723.4579010620093
+    y: 25.0
+    z: -414.74853045284334
+    yaw: -82.5521240234375
+    pitch: 31.26049041748047
+  amatista:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 875.335655481227
+    y: -25.0
+    z: -416.8501733441568
+    yaw: -14.868989944458008
+    pitch: 18.343406677246094
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 60.252418837763656
+    y: 72.0
+    z: -257.8410171201393
+    yaw: 4.109247207641602
+    pitch: 23.533544540405273
+  c:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 222.69999998807907
+    y: 57.0
+    z: 370.3335992417462
+    yaw: 88.4373779296875
+    pitch: 15.487075805664062
+  comida:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1471.857439545575
+    y: 75.0
+    z: -408.47936829535047
+    yaw: 53.95941925048828
+    pitch: 25.45987892150879
+  cofres:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1404.699999988079
+    y: 64.0
+    z: -243.67552607849515
+    yaw: 88.5908203125
+    pitch: 13.62800121307373

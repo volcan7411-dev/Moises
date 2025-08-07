@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.195.114.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754584191676
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754589156914
+  login: 1754596464475
+money: '0'
+last-account-name: Rixenta
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1342.6686084824846
+  y: 56.0
+  z: -252.68643670178264
+  yaw: 87.8990478515625
+  pitch: 85.49998474121094
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1314.2137902993384
+  y: 69.0
+  z: -277.41607261002787
+  yaw: -16.19970703125
+  pitch: 37.9500732421875

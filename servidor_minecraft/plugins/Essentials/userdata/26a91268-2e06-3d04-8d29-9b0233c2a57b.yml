@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.69.28.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754596279697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754590377911
+  login: 1754596118613
+money: '0'
+last-account-name: volcan741
+homes:
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1365.007505237418
+    y: 65.0
+    z: -295.30000001192093
+    yaw: -174.45166015625
+    pitch: 20.748062133789062
+  cuevagrande:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 64.83079096420792
+    y: -41.0
+    z: -10.68134386950485
+    yaw: 69.7384033203125
+    pitch: 21.166461944580078
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 65.59102126431252
+  y: -41.0
+  z: -12.47309830193215
+  yaw: 77.275390625
+  pitch: 8.410381317138672
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1398.9284903439402
+  y: 66.0
+  z: -245.00512460279575
+  yaw: 143.2378692626953
+  pitch: -3.9758007526397705

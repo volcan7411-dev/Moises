@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.228.144.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754596036291
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754589646667
+  login: 1754596027010
+money: '0'
+last-account-name: ADL33R
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1324.6156142098325
+  y: 63.0
+  z: -247.69999998807907
+  yaw: -5.77801513671875
+  pitch: 75.599853515625
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1396.0594632873685
+  y: 67.0
+  z: -248.69999998807907
+  yaw: 162.09002685546875
+  pitch: 32.01157760620117
+homes:
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1373.5502083580625
+    y: 68.0
+    z: -289.6325299980918
+    yaw: 90.2340087890625
+    pitch: 55.26180648803711
+  vic:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1374.6272245010587
+    y: 66.0
+    z: -224.5419878836131
+    yaw: 60.599708557128906
+    pitch: 47.549861907958984
+  megacueva:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 64.06435805517579
+    y: -41.0
+    z: -12.163943397751211
+    yaw: 87.47439575195312
+    pitch: 32.54448699951172

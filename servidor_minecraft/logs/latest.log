@@ -1,0 +1,80 @@
+[19:45:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:45:18] [ServerMain/INFO]: Loaded 7 recipes
+[19:45:19] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[19:45:19] [Server thread/INFO]: Loading properties
+[19:45:19] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[19:45:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:45:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:45:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:45:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:45:19] [Server thread/INFO]: Default game type: SURVIVAL
+[19:45:19] [Server thread/INFO]: Generating keypair
+[19:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:45:20] [Server thread/INFO]: Using epoll channel type
+[19:45:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:45:20] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[19:45:20] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
+[19:45:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
+[19:45:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:45:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
+[19:45:21] [Server thread/INFO]:         __    
+[19:45:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
+[19:45:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:45:21] [Server thread/INFO]: 
+[19:45:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:45:22] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:45:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:45:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:45:23] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1588ms)
+[19:45:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:45:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:45:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:45:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:45:23] [Server thread/INFO]: Preparing level "world"
+[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:45:23] [Server thread/INFO]: Time elapsed: 332 ms
+[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:45:23] [Server thread/INFO]: Time elapsed: 44 ms
+[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:45:23] [Server thread/INFO]: Time elapsed: 35 ms
+[19:45:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
+[19:45:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:45:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:45:26] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[19:45:26] [Server thread/INFO]: [Essentials] Using locale en
+[19:45:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:45:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:45:27] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[19:45:27] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[19:45:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:45:27] [Server thread/INFO]: Running delayed init tasks
+[19:45:27] [Server thread/INFO]: Done (8.380s)! For help, type "help"
+[19:45:27] [Server thread/INFO]: Timings Reset
+[19:45:27] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:45:28] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
+[19:45:28] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[19:45:44] [User Authenticator #0/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[19:45:44] [Server thread/INFO]: Lee joined the game
+[19:45:44] [Server thread/INFO]: Lee[/127.71.169.146:59787] logged in with entity id 164 at ([world]219.1337990238412, 57.0, 366.83320924453176)
+[19:45:46] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[19:45:46] [Server thread/INFO]: rafaxtpa joined the game
+[19:45:46] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58609] logged in with entity id 311 at ([world]215.4132483638129, 57.0, 365.32820393086405)
+[19:46:53] [Server thread/INFO]: Lee issued server command: /home casa
+[19:47:06] [User Authenticator #1/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[19:47:06] [Server thread/INFO]: ADL33R joined the game
+[19:47:06] [Server thread/INFO]: ADL33R[/127.228.144.141:42999] logged in with entity id 1037 at ([world]1324.6156142098325, 63.0, -247.69999998807907)
+[19:47:16] [Server thread/INFO]: ADL33R issued server command: /home casa
+[19:48:07] [Server thread/INFO]: Lee issued server command: /home c
+[19:48:38] [User Authenticator #2/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[19:48:38] [Server thread/INFO]: volcan741 joined the game
+[19:48:38] [Server thread/INFO]: volcan741[/127.69.28.83:59051] logged in with entity id 2246 at ([world]1398.9284903439402, 66.0, -245.00512460279575)
+[19:48:48] [Async Chat Thread - #1/INFO]: [Not Secure] <volcan741> zzz
+[19:50:51] [Server thread/INFO]: volcan741 issued server command: /home cuevagrande
+[19:51:16] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R volcan741
+[19:51:19] [Server thread/INFO]: volcan741 issued server command: /home casa
+[19:51:35] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva
+[19:54:24] [User Authenticator #3/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
+[19:54:24] [Server thread/INFO]: Rixenta joined the game
+[19:54:24] [Server thread/INFO]: Rixenta[/127.195.114.124:49323] logged in with entity id 5269 at ([world]1314.2137902993384, 69.0, -277.41607261002787)

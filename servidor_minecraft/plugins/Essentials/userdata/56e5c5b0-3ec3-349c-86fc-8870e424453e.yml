@@ -1,0 +1,151 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.92.134.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754589553088
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754589653413
+  login: 1754595946553
+money: '0'
+last-account-name: rafaxtpa
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 215.4132483638129
+  y: 57.0
+  z: 365.32820393086405
+  yaw: -33.68431854248047
+  pitch: 12.137621879577637
+homes:
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 60.30000001192093
+    y: 72.0
+    z: -254.9516894551343
+    yaw: -0.115966796875
+    pitch: 37.468875885009766
+  cueva2:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 721.6195022447235
+    y: 26.0
+    z: -406.61752026936614
+    yaw: -139.43487548828125
+    pitch: 25.693296432495117
+  cueva3:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 728.4437966577935
+    y: -17.0
+    z: -466.26409579807904
+    yaw: -89.65518188476562
+    pitch: 40.6209602355957
+  obsidiana:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 753.1585013395232
+    y: -54.0
+    z: -451.7576716275023
+    yaw: -8.693603515625
+    pitch: 27.72905158996582
+  casa1:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 218.2586054854121
+    y: 57.0
+    z: 365.6862434274402
+    yaw: -17.937744140625
+    pitch: 22.840505599975586
+  comida:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1471.3274305265745
+    y: 75.0
+    z: -406.4302875637604
+    yaw: 80.5543212890625
+    pitch: 27.275955200195312
+  vaca:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1469.6862388043974
+    y: 76.0
+    z: -409.5242431005401
+    yaw: 80.5543212890625
+    pitch: 27.275955200195312
+  oveja:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1464.5187795974996
+    y: 77.0
+    z: -410.91961345692783
+    yaw: 80.5543212890625
+    pitch: 27.275955200195312
+  aldea:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1399.571021122387
+    y: 63.0
+    z: -352.12013849528137
+    yaw: 55.89892578125
+    pitch: 9.257684707641602
+  aldeanos:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1406.9578804050611
+    y: 70.0
+    z: -306.6823624152569
+    yaw: 56.271026611328125
+    pitch: 14.762073516845703
+  caca:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1395.3054967930582
+    y: 69.0
+    z: -270.5954873062453
+    yaw: -88.1123046875
+    pitch: 14.46048641204834
+  cofre:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1404.406940118225
+    y: 65.0
+    z: -244.02337234781467
+    yaw: 162.01058959960938
+    pitch: -10.276145935058594
+  nether:
+    world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
+    world-name: world_nether
+    x: -120.5
+    y: 71.0
+    z: 37.5
+    yaw: 83.62004089355469
+    pitch: 67.77558898925781
+  nether2:
+    world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
+    world-name: world_nether
+    x: -247.33448857016413
+    y: 70.0
+    z: -5.936394178607843
+    yaw: 152.67947387695312
+    pitch: 7.675152778625488
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 214.5
+  y: 56.5625
+  z: 364.5
+  yaw: -90.0
+  pitch: 0.0
