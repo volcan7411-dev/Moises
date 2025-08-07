@@ -1,0 +1,103 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.127.242.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754608050969
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1754607643257
+money: '0'
+last-account-name: Magma852
+homes:
+  aldea:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 51.12852768753232
+    y: 76.0
+    z: -357.24367628285245
+    yaw: 15.2596435546875
+    pitch: 11.164823532104492
+  home:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 67.44446565082237
+    y: 20.0
+    z: -576.6999999880791
+    yaw: 2.444671630859375
+    pitch: 16.054399490356445
+  nether:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 7.447438547014774
+    y: -20.0
+    z: -607.635503659977
+    yaw: -170.7293701171875
+    pitch: 8.666426658630371
+  mina:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 31.913081383381392
+    y: -16.0
+    z: -594.1790864029846
+    yaw: -152.30706787109375
+    pitch: 19.345417022705078
+  diam:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 0.31491929169280086
+    y: -54.0
+    z: -775.5492330260074
+    yaw: 89.35110473632812
+    pitch: 10.608534812927246
+  mina2:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: -172.73623227012666
+    y: -54.0
+    z: -776.6999999880791
+    yaw: -56.95964431762695
+    pitch: 8.48792552947998
+  diam2:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 16.21160152186327
+    y: -53.0
+    z: -612.539802114524
+    yaw: -175.091064453125
+    pitch: 9.260785102844238
+  forest:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: -23.100311069118387
+    y: 77.0
+    z: -409.1114602824587
+    yaw: -172.36953735351562
+    pitch: -10.230446815490723
+  casaderef:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1398.2115912295894
+    y: 66.0
+    z: -244.25248916533099
+    yaw: -84.82708740234375
+    pitch: 20.676319122314453
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 66.4492240147291
+  y: 20.0
+  z: -578.7001480569332
+  yaw: 56.759605407714844
+  pitch: 18.568031311035156

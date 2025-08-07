@@ -1,200 +1,112 @@
-[19:45:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:45:18] [ServerMain/INFO]: Loaded 7 recipes
-[19:45:19] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[19:45:19] [Server thread/INFO]: Loading properties
-[19:45:19] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
-[19:45:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:45:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:45:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[22:58:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:58:16] [ServerMain/INFO]: Loaded 7 recipes
+[22:58:16] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:58:16] [Server thread/INFO]: Loading properties
+[22:58:17] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[22:58:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:58:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:58:17] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[19:45:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[19:45:19] [Server thread/INFO]: Default game type: SURVIVAL
-[19:45:19] [Server thread/INFO]: Generating keypair
-[19:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:45:20] [Server thread/INFO]: Using epoll channel type
-[19:45:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:45:20] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[19:45:20] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
-[19:45:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
-[19:45:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:45:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
-[19:45:21] [Server thread/INFO]:         __    
-[19:45:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
-[19:45:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:45:21] [Server thread/INFO]: 
-[19:45:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:45:22] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:45:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:45:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:45:23] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1588ms)
-[19:45:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:45:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:45:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:45:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:45:23] [Server thread/INFO]: Preparing level "world"
-[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:45:23] [Server thread/INFO]: Time elapsed: 332 ms
-[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:45:23] [Server thread/INFO]: Time elapsed: 44 ms
-[19:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:45:23] [Server thread/INFO]: Time elapsed: 35 ms
-[19:45:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
-[19:45:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[19:45:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[19:45:26] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[19:45:26] [Server thread/INFO]: [Essentials] Using locale en
-[19:45:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[19:45:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[19:45:27] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[19:45:27] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[19:45:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[19:45:27] [Server thread/INFO]: Running delayed init tasks
-[19:45:27] [Server thread/INFO]: Done (8.380s)! For help, type "help"
-[19:45:27] [Server thread/INFO]: Timings Reset
-[19:45:27] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[19:45:28] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
-[19:45:28] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[19:45:44] [User Authenticator #0/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
-[19:45:44] [Server thread/INFO]: Lee joined the game
-[19:45:44] [Server thread/INFO]: Lee[/127.71.169.146:59787] logged in with entity id 164 at ([world]219.1337990238412, 57.0, 366.83320924453176)
-[19:45:46] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[19:45:46] [Server thread/INFO]: rafaxtpa joined the game
-[19:45:46] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58609] logged in with entity id 311 at ([world]215.4132483638129, 57.0, 365.32820393086405)
-[19:46:53] [Server thread/INFO]: Lee issued server command: /home casa
-[19:47:06] [User Authenticator #1/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[19:47:06] [Server thread/INFO]: ADL33R joined the game
-[19:47:06] [Server thread/INFO]: ADL33R[/127.228.144.141:42999] logged in with entity id 1037 at ([world]1324.6156142098325, 63.0, -247.69999998807907)
-[19:47:16] [Server thread/INFO]: ADL33R issued server command: /home casa
-[19:48:07] [Server thread/INFO]: Lee issued server command: /home c
-[19:48:38] [User Authenticator #2/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
-[19:48:38] [Server thread/INFO]: volcan741 joined the game
-[19:48:38] [Server thread/INFO]: volcan741[/127.69.28.83:59051] logged in with entity id 2246 at ([world]1398.9284903439402, 66.0, -245.00512460279575)
-[19:48:48] [Async Chat Thread - #1/INFO]: [Not Secure] <volcan741> zzz
-[19:50:51] [Server thread/INFO]: volcan741 issued server command: /home cuevagrande
-[19:51:16] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R volcan741
-[19:51:19] [Server thread/INFO]: volcan741 issued server command: /home casa
-[19:51:35] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva
-[19:54:24] [User Authenticator #3/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
-[19:54:24] [Server thread/INFO]: Rixenta joined the game
-[19:54:24] [Server thread/INFO]: Rixenta[/127.195.114.124:49323] logged in with entity id 5269 at ([world]1314.2137902993384, 69.0, -277.41607261002787)
-[19:57:42] [Server thread/INFO]: ADL33R was shot by Skeleton
-[19:59:29] [Server thread/INFO]: Rixenta fell from a high place
-[19:59:36] [Server thread/INFO]: Rixenta issued server command: /tpa volcan741
-[19:59:39] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[20:00:06] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> zzz
-[20:00:08] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> labubu
-[20:00:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Lee> vale bro
-[20:00:18] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[20:00:21] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
-[20:02:01] [Server thread/INFO]: Rixenta lost connection: Disconnected
-[20:02:01] [Server thread/INFO]: Rixenta left the game
-[20:03:05] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R
-[20:03:17] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:03:22] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[20:03:39] [Server thread/INFO]: Lee has made the advancement [Hot Stuff]
-[20:03:43] [Server thread/INFO]: Lee issued server command: /home c
-[20:04:00] [Server thread/INFO]: volcan741 has made the advancement [What a Deal!]
-[20:04:30] [Server thread/INFO]: Lee issued server command: /home c
-[20:04:49] [Server thread/INFO]: Lee tried to swim in lava
-[20:05:06] [Server thread/INFO]: Lee issued server command: /home c
-[20:05:18] [Server thread/INFO]: Lee tried to swim in lava
-[20:05:32] [Server thread/INFO]: Lee issued server command: /home c
-[20:05:42] [Server thread/INFO]: Lee tried to swim in lava
-[20:05:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Lee> home c
-[20:05:56] [Server thread/INFO]: Lee tried to swim in lava
-[20:06:10] [Server thread/INFO]: Lee issued server command: /home c
-[20:06:22] [Server thread/INFO]: Lee tried to swim in lava
-[20:06:26] [Server thread/INFO]: ADL33R lost connection: Disconnected
-[20:06:26] [Server thread/INFO]: ADL33R left the game
-[20:06:33] [Async Chat Thread - #5/INFO]: [Not Secure] <rafaxtpa> vale
-[20:06:37] [Server thread/INFO]: Lee issued server command: /home c
-[20:06:50] [Server thread/INFO]: Lee tried to swim in lava
-[20:07:23] [Server thread/INFO]: Lee issued server command: /home c
-[20:07:37] [Server thread/INFO]: Lee tried to swim in lava
-[20:09:47] [Server thread/INFO]: rafaxtpa tried to swim in lava to escape Lee
-[20:10:03] [Server thread/INFO]: rafaxtpa was slain by Lee
-[20:10:04] [Server thread/INFO]: Lee tried to swim in lava to escape rafaxtpa
-[20:10:24] [User Authenticator #4/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[20:10:24] [Server thread/INFO]: ADL33R joined the game
-[20:10:24] [Server thread/INFO]: ADL33R[/127.228.144.141:54587] logged in with entity id 13968 at ([world]-12.942944355038602, 79.0, -53.40479370082916)
-[20:10:28] [Server thread/INFO]: ADL33R issued server command: /home
-[20:10:32] [Server thread/INFO]: ADL33R issued server command: /home c
-[20:10:39] [Server thread/INFO]: rafaxtpa was slain by Zombified Piglin
-[20:10:40] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:12:18] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[20:12:54] [Server thread/INFO]: Lee issued server command: /tpa volcan741
-[20:13:20] [Server thread/INFO]: ADL33R lost connection: Disconnected
-[20:13:20] [Server thread/INFO]: ADL33R left the game
-[20:13:55] [Server thread/INFO]: Lee issued server command: /tpa volcan741
-[20:14:19] [User Authenticator #5/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[20:14:19] [Server thread/INFO]: ADL33R joined the game
-[20:14:19] [Server thread/INFO]: ADL33R[/127.228.144.141:36593] logged in with entity id 15161 at ([world]1392.8036413948055, 71.0, -255.01135970955903)
-[20:14:55] [Server thread/INFO]: volcan741 issued server command: /tp Lee
-[20:15:01] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:16:35] [Server thread/INFO]: Lee issued server command: /home cueva
-[20:16:54] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:16:57] [Server thread/INFO]: Lee fell from a high place
-[20:17:01] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:18:33] [Server thread/INFO]: Lee fell from a high place
-[20:18:52] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:19:09] [Server thread/INFO]: Lee fell from a high place
-[20:19:14] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:19:17] [Server thread/INFO]: ADL33R lost connection: Disconnected
-[20:19:17] [Server thread/INFO]: ADL33R left the game
-[20:19:40] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:19:53] [Async Chat Thread - #6/INFO]: [Not Secure] <rafaxtpa> Dinnerbone
-[20:20:05] [Server thread/INFO]: Lee was doomed to fall by Spider
-[20:20:09] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:21:01] [Server thread/INFO]: Lee issued server command: /home megacueva
-[20:22:41] [Server thread/INFO]: Lee issued server command: /home c
-[20:25:10] [Async Chat Thread - #8/INFO]: [Not Secure] <rafaxtpa> Dinnerbone
-[20:25:37] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[20:26:32] [Server thread/INFO]: Lee issued server command: /home comida
-[20:28:15] [Server thread/INFO]: rafaxtpa issued server command: /home cofre
-[20:28:35] [Server thread/INFO]: rafaxtpa was slain by volcan741
-[20:28:42] [Server thread/INFO]: rafaxtpa issued server command: /home aldeanos
-[20:28:50] [Server thread/INFO]: volcan741 issued server command: /ermhome rafaxtpa:
-[20:28:56] [Server thread/INFO]: volcan741 issued server command: /home rafaxtpa:cofre
-[20:29:12] [Server thread/INFO]: volcan741 issued server command: /eremhome rafaxtpa:cofre
-[20:29:30] [Server thread/INFO]: Lee issued server command: /home cofre
-[20:29:33] [Server thread/INFO]: Lee issued server command: /home cofres
-[20:29:41] [Server thread/INFO]: volcan741 issued server command: /eremhome Lee:cofres
-[20:32:40] [Server thread/INFO]: Lee issued server command: /home c
-[20:32:58] [Server thread/INFO]: rafaxtpa issued server command: /home aldea
-[20:33:02] [Server thread/INFO]: rafaxtpa issued server command: /home caca
-[20:33:36] [Server thread/INFO]: rafaxtpa issued server command: /home cofre
-[20:33:50] [Server thread/INFO]: volcan741 issued server command: /tp Lee
-[20:34:21] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[20:34:33] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:35:24] [Server thread/INFO]: rafaxtpa has made the advancement [Cover Me with Diamonds]
-[20:35:25] [Server thread/INFO]: Lee issued server command: /home c
-[20:35:42] [Server thread/INFO]: Lee issued server command: /home casa
-[20:39:53] [Server thread/INFO]: Lee issued server command: /home comida
-[20:40:20] [Server thread/INFO]: volcan741 issued server command: /home Lee:c
-[20:40:24] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:40:28] [Server thread/INFO]: volcan741 issued server command: /home
-[20:40:37] [Server thread/INFO]: volcan741 issued server command: /home Lee:comida
-[20:40:44] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:40:50] [Server thread/INFO]: Lee has made the advancement [What a Deal!]
-[20:43:56] [Server thread/INFO]: rafaxtpa issued server command: /ban-ip Lee
-[20:44:00] [Server thread/INFO]: rafaxtpa issued server command: /help
-[20:44:00] [Server thread/INFO]: [Essentials] rafaxtpa was denied access to command.
-[20:44:23] [Server thread/INFO]: Lee issued server command: /home c
-[20:44:48] [Server thread/INFO]: Lee lost connection: Disconnected
-[20:44:48] [Server thread/INFO]: Lee left the game
-[20:47:53] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[20:52:53] [Server thread/INFO]: volcan741 lost connection: Disconnected
-[20:52:53] [Server thread/INFO]: volcan741 left the game
-[20:52:54] [User Authenticator #6/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
-[20:52:55] [Server thread/INFO]: volcan741 joined the game
-[20:52:55] [Server thread/INFO]: volcan741[/127.127.82.182:60383] logged in with entity id 32177 at ([world]1399.0332002210714, 66.0, -243.56735062070538)
-[20:53:06] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[20:53:10] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
-[20:53:53] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:53:55] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[20:54:16] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> si es
-[20:56:43] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
-[20:56:43] [Server thread/INFO]: rafaxtpa left the game
-[20:56:58] [Server thread/INFO]: volcan741 lost connection: Disconnected
-[20:56:58] [Server thread/INFO]: volcan741 left the game
+[22:58:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:58:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:58:17] [Server thread/INFO]: Generating keypair
+[22:58:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:58:17] [Server thread/INFO]: Using epoll channel type
+[22:58:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:58:17] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:58:18] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
+[22:58:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
+[22:58:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:58:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
+[22:58:19] [Server thread/INFO]:         __    
+[22:58:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
+[22:58:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:58:19] [Server thread/INFO]: 
+[22:58:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:58:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:58:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:58:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:58:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1573ms)
+[22:58:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:58:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:58:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:58:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:58:20] [Server thread/INFO]: Preparing level "world"
+[22:58:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:58:21] [Server thread/INFO]: Time elapsed: 218 ms
+[22:58:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:58:21] [Server thread/INFO]: Time elapsed: 60 ms
+[22:58:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:58:21] [Server thread/INFO]: Time elapsed: 51 ms
+[22:58:21] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
+[22:58:21] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:58:21] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:58:22] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[22:58:22] [Server thread/INFO]: [Essentials] Using locale en
+[22:58:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:58:23] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:58:23] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[22:58:23] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[22:58:23] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:58:23] [Server thread/INFO]: Running delayed init tasks
+[22:58:23] [Server thread/INFO]: Done (6.776s)! For help, type "help"
+[22:58:23] [Server thread/INFO]: Timings Reset
+[22:58:23] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:58:23] [User Authenticator #0/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[22:58:23] [User Authenticator #2/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[22:58:23] [User Authenticator #1/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
+[22:58:23] [User Authenticator #3/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[22:58:24] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
+[22:58:24] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[22:58:24] [Server thread/INFO]: refkunMC joined the game
+[22:58:24] [Server thread/INFO]: refkunMC[/127.236.40.244:35965] logged in with entity id 1 at ([world]1385.5975069136662, 66.0, -245.69999998807907)
+[22:58:24] [Server thread/INFO]: Rixenta joined the game
+[22:58:24] [Server thread/INFO]: Rixenta[/127.195.114.124:42465] logged in with entity id 2 at ([world]1283.5099297872882, 86.0, -196.94276488573558)
+[22:58:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fa396fe[id=56e5c5b0-3ec3-349c-86fc-8870e424453e,name=rafaxtpa,properties={},legacy=false] (/127.92.134.86:44889) lost connection: Disconnected
+[22:58:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b6ea729[id=35e38185-4a76-32ee-bb09-34cf2ebf04bb,name=Lee,properties={},legacy=false] (/127.71.169.146:44181) lost connection: Disconnected
+[22:58:33] [User Authenticator #3/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[22:58:33] [Server thread/INFO]: rafaxtpa joined the game
+[22:58:33] [Server thread/INFO]: rafaxtpa[/127.92.134.86:41429] logged in with entity id 625 at ([world]74.8358469606338, 80.0, -319.4429997363026)
+[22:58:38] [User Authenticator #3/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[22:58:38] [Server thread/INFO]: Lee joined the game
+[22:58:38] [Server thread/INFO]: Lee[/127.71.169.146:38909] logged in with entity id 1118 at ([world]228.26462831530998, 56.9375, 352.4959672846808)
+[22:58:45] [Server thread/INFO]: refkunMC issued server command: /save-on
+[22:58:49] [Server thread/INFO]: refkunMC issued server command: /save-all
+[22:58:54] [Server thread/INFO]: [refkunMC: Saved the game]
+[22:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[22:58:54] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[22:59:09] [User Authenticator #3/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[22:59:09] [Server thread/INFO]: volcan741 joined the game
+[22:59:09] [Server thread/INFO]: volcan741[/127.69.28.83:55625] logged in with entity id 1715 at ([world]1378.97473746065, 66.0, -228.10431423385222)
+[23:00:25] [Server thread/INFO]: refkunMC issued server command: /save-all
+[23:00:26] [Server thread/INFO]: [refkunMC: Saved the game]
+[23:00:36] [Server thread/INFO]: Lee issued server command: /home casa
+[23:00:43] [User Authenticator #4/INFO]: UUID of player Magma852 is 9916defb-2c4d-3f0a-9e17-cb49a881c906
+[23:00:43] [Server thread/INFO]: Magma852 joined the game
+[23:00:43] [Server thread/INFO]: Magma852[/127.127.242.163:46337] logged in with entity id 2612 at ([world]61.58727689330747, 20.0, -581.7466620953101)
+[23:00:43] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[23:00:51] [Server thread/INFO]: Magma852 issued server command: /home nether
+[23:02:40] [Server thread/INFO]: Lee issued server command: /home c
+[23:02:44] [Server thread/INFO]: Lee lost connection: Disconnected
+[23:02:44] [Server thread/INFO]: Lee left the game
+[23:03:36] [User Authenticator #5/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[23:03:36] [Server thread/INFO]: Lee joined the game
+[23:03:36] [Server thread/INFO]: Lee[/127.71.169.146:33017] logged in with entity id 4645 at ([world]220.9204186471764, 57.0, 368.77730233481344)
+[23:03:41] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[23:04:26] [Server thread/INFO]: Lee issued server command: /home c
+[23:04:28] [Server thread/INFO]: Lee issued server command: /home casa
+[23:04:41] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:04:59] [Server thread/INFO]: Magma852 issued server command: /home forest
+[23:05:04] [Async Chat Thread - #1/INFO]: [Not Secure] <volcan741> zzz
+[23:05:07] [Async Chat Thread - #0/INFO]: [Not Secure] <volcan741> Lee
+[23:05:19] [Server thread/INFO]: rafaxtpa was slain by Iron Golem
+[23:05:24] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[23:06:04] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:06:27] [Server thread/INFO]: Magma852 issued server command: /home forest
+[23:06:32] [Server thread/INFO]: Lee was slain by Iron Golem
+[23:06:38] [Server thread/INFO]: Lee issued server command: /home casa
+[23:06:51] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:07:01] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[23:07:11] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:07:30] [Server thread/INFO]: Magma852 issued server command: /home forest
