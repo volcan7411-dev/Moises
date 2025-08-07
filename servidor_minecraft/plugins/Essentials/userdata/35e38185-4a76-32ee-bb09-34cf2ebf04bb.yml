@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754609972417
+  lastteleport: 1754610274220
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754607764671
+  logout: 1754610476520
   login: 1754607816256
 money: '0'
 last-account-name: Lee
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 214.5
+  x: 214.30000001192093
   y: 56.5625
-  z: 369.5
-  yaw: -90.0
-  pitch: 0.23243623971939087
+  z: 369.2570736425921
+  yaw: -121.97343444824219
+  pitch: 5.9904046058654785
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 220.9204186471764
-  y: 57.0
-  z: 368.77730233481344
-  yaw: 88.6841812133789
-  pitch: 14.530647277832031
+  x: 48.086559646312764
+  y: 72.0
+  z: -324.1552700353311
+  yaw: 164.4477996826172
+  pitch: 5.669717311859131
 homes:
   mina:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -93,3 +93,11 @@ homes:
     z: -305.7367244416342
     yaw: 175.14556884765625
     pitch: 25.85256004333496
+  ald:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 45.42057755636025
+    y: 72.0
+    z: -325.80581569523093
+    yaw: -124.56018829345703
+    pitch: 38.60895538330078

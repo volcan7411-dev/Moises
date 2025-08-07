@@ -2470,27 +2470,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-08-07 23:03:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-07 22:59:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-07 23:03:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_copper_ingot": "2025-08-07 22:59:30 +0000"
+      "has_quartz": "2025-08-07 23:03:50 +0000"
     },
     "done": true
   },
