@@ -1090,6 +1090,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-07 14:39:40 +0000",
+      "minecraft:hoglin": "2025-08-07 20:03:13 +0000",
       "minecraft:spider": "2025-08-07 15:12:30 +0000",
       "minecraft:creeper": "2025-08-07 15:08:44 +0000",
       "minecraft:piglin": "2025-08-07 16:23:04 +0000",
@@ -1388,7 +1389,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-07 16:09:20 +0000"
+      "minecraft:crimson_forest": "2025-08-07 16:09:20 +0000",
+      "minecraft:nether_wastes": "2025-08-07 20:02:57 +0000"
     },
     "done": false
   },
@@ -1713,6 +1715,30 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-07 17:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-07 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-07 20:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-07 20:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-07 20:01:21 +0000"
     },
     "done": true
   },

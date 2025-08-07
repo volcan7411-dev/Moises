@@ -78,3 +78,28 @@
 [19:54:24] [User Authenticator #3/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
 [19:54:24] [Server thread/INFO]: Rixenta joined the game
 [19:54:24] [Server thread/INFO]: Rixenta[/127.195.114.124:49323] logged in with entity id 5269 at ([world]1314.2137902993384, 69.0, -277.41607261002787)
+[19:57:42] [Server thread/INFO]: ADL33R was shot by Skeleton
+[19:59:29] [Server thread/INFO]: Rixenta fell from a high place
+[19:59:36] [Server thread/INFO]: Rixenta issued server command: /tpa volcan741
+[19:59:39] [Server thread/INFO]: volcan741 issued server command: /tpaccept
+[20:00:06] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> zzz
+[20:00:08] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> labubu
+[20:00:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Lee> vale bro
+[20:00:18] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[20:00:21] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
+[20:02:01] [Server thread/INFO]: Rixenta lost connection: Disconnected
+[20:02:01] [Server thread/INFO]: Rixenta left the game
+[20:03:05] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R
+[20:03:17] [Server thread/INFO]: volcan741 issued server command: /home casa
+[20:03:22] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[20:03:39] [Server thread/INFO]: Lee has made the advancement [Hot Stuff]
+[20:03:43] [Server thread/INFO]: Lee issued server command: /home c
+[20:04:00] [Server thread/INFO]: volcan741 has made the advancement [What a Deal!]
+[20:04:30] [Server thread/INFO]: Lee issued server command: /home c
+[20:04:49] [Server thread/INFO]: Lee tried to swim in lava
+[20:05:06] [Server thread/INFO]: Lee issued server command: /home c
+[20:05:18] [Server thread/INFO]: Lee tried to swim in lava
+[20:05:32] [Server thread/INFO]: Lee issued server command: /home c
+[20:05:42] [Server thread/INFO]: Lee tried to swim in lava
+[20:05:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Lee> home c
+[20:05:56] [Server thread/INFO]: Lee tried to swim in lava
