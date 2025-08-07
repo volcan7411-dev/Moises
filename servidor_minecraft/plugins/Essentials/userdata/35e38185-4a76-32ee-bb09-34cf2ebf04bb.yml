@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754607998319
+  lastteleport: 1754608719036
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Lee
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 214.5
-  y: 56.5625
-  z: 369.5
-  yaw: -92.85565948486328
-  pitch: -0.6308982968330383
+  x: 219.8667483421908
+  y: 57.0
+  z: 368.4098129433761
+  yaw: 88.381103515625
+  pitch: 13.328668594360352
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754578094496
-  login: 1754607504626
+  logout: 1754608501424
+  login: 1754608424953
 money: '0'
 last-account-name: refkunMC
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1342.300000011921
-  y: 50.0
-  z: -250.24824450194947
-  yaw: 169.42945861816406
-  pitch: 9.937353134155273
+  x: 1397.90882993152
+  y: 66.0
+  z: -246.4043157615554
+  yaw: 82.009521484375
+  pitch: 16.796932220458984
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world

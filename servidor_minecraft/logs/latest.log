@@ -110,3 +110,31 @@
 [23:07:01] [Server thread/INFO]: Magma852 issued server command: /home casaderef
 [23:07:11] [Server thread/INFO]: Magma852 issued server command: /home home
 [23:07:30] [Server thread/INFO]: Magma852 issued server command: /home forest
+[23:09:37] [Server thread/INFO]: refkunMC issued server command: /save-all
+[23:09:37] [Server thread/INFO]: [refkunMC: Saved the game]
+[23:09:39] [Server thread/INFO]: Magma852 issued server command: /home
+[23:09:42] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:09:53] [Server thread/INFO]: Magma852 issued server command: /home fores
+[23:09:55] [Server thread/INFO]: Magma852 issued server command: /home forest
+[23:10:39] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:10:42] [Server thread/INFO]: Rixenta has made the advancement [What a Deal!]
+[23:10:48] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[23:11:16] [Server thread/INFO]: Magma852 issued server command: /home home
+[23:11:23] [Server thread/INFO]: Magma852 issued server command: /home forest
+[23:11:33] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[23:11:33] [Server thread/INFO]: refkunMC left the game
+[23:13:44] [User Authenticator #6/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[23:13:44] [Server thread/INFO]: refkunMC joined the game
+[23:13:44] [Server thread/INFO]: refkunMC[/127.236.40.244:45545] logged in with entity id 9608 at ([world]1390.7684712126609, 66.0, -244.1893517393492)
+[23:14:18] [Server thread/INFO]: Lee issued server command: /home c
+[23:14:52] [Server thread/INFO]: Rixenta has made the advancement [Cover Me with Diamonds]
+[23:14:59] [Server thread/INFO]: Lee issued server command: /home casa
+[23:15:01] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[23:15:01] [Server thread/INFO]: refkunMC left the game
+[23:15:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[23:15:58] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[23:16:43] [Server thread/INFO]: Rixenta has made the advancement [Sweet Dreams]
+[23:16:43] [Server thread/INFO]: Lee issued server command: /home cueva3
+[23:17:30] [Server thread/INFO]: Magma852 issued server command: /sethome aldea2
+[23:17:49] [Server thread/INFO]: Lee issued server command: /home c
+[23:18:39] [Server thread/INFO]: Lee issued server command: /home casa
