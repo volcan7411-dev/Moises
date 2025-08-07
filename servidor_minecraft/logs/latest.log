@@ -183,3 +183,18 @@
 [20:44:23] [Server thread/INFO]: Lee issued server command: /home c
 [20:44:48] [Server thread/INFO]: Lee lost connection: Disconnected
 [20:44:48] [Server thread/INFO]: Lee left the game
+[20:47:53] [Server thread/INFO]: rafaxtpa tried to swim in lava
+[20:52:53] [Server thread/INFO]: volcan741 lost connection: Disconnected
+[20:52:53] [Server thread/INFO]: volcan741 left the game
+[20:52:54] [User Authenticator #6/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[20:52:55] [Server thread/INFO]: volcan741 joined the game
+[20:52:55] [Server thread/INFO]: volcan741[/127.127.82.182:60383] logged in with entity id 32177 at ([world]1399.0332002210714, 66.0, -243.56735062070538)
+[20:53:06] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[20:53:10] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
+[20:53:53] [Server thread/INFO]: volcan741 issued server command: /home casa
+[20:53:55] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[20:54:16] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> si es
+[20:56:43] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
+[20:56:43] [Server thread/INFO]: rafaxtpa left the game
+[20:56:58] [Server thread/INFO]: volcan741 lost connection: Disconnected
+[20:56:58] [Server thread/INFO]: volcan741 left the game
