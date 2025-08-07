@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754608283767
+  lastteleport: 1754609350423
   lastheal: 0
   mute: 0
   jail: 0
@@ -96,16 +96,16 @@ homes:
   aldea2:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
-    x: -216.37357264147516
-    y: 64.0
-    z: -1354.699999988079
-    yaw: 154.4547576904297
-    pitch: 21.822452545166016
+    x: -177.0018448644996
+    y: 63.0
+    z: -1354.3090093852009
+    yaw: -85.48907470703125
+    pitch: 16.89103889465332
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 66.40684368823123
+  x: 67.5
   y: 20.0
-  z: -579.7120030398834
-  yaw: 31.592273712158203
-  pitch: 15.156596183776855
+  z: -576.5
+  yaw: -90.0
+  pitch: 0.0
