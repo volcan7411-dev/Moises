@@ -103,3 +103,32 @@
 [20:05:42] [Server thread/INFO]: Lee tried to swim in lava
 [20:05:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Lee> home c
 [20:05:56] [Server thread/INFO]: Lee tried to swim in lava
+[20:06:10] [Server thread/INFO]: Lee issued server command: /home c
+[20:06:22] [Server thread/INFO]: Lee tried to swim in lava
+[20:06:26] [Server thread/INFO]: ADL33R lost connection: Disconnected
+[20:06:26] [Server thread/INFO]: ADL33R left the game
+[20:06:33] [Async Chat Thread - #5/INFO]: [Not Secure] <rafaxtpa> vale
+[20:06:37] [Server thread/INFO]: Lee issued server command: /home c
+[20:06:50] [Server thread/INFO]: Lee tried to swim in lava
+[20:07:23] [Server thread/INFO]: Lee issued server command: /home c
+[20:07:37] [Server thread/INFO]: Lee tried to swim in lava
+[20:09:47] [Server thread/INFO]: rafaxtpa tried to swim in lava to escape Lee
+[20:10:03] [Server thread/INFO]: rafaxtpa was slain by Lee
+[20:10:04] [Server thread/INFO]: Lee tried to swim in lava to escape rafaxtpa
+[20:10:24] [User Authenticator #4/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[20:10:24] [Server thread/INFO]: ADL33R joined the game
+[20:10:24] [Server thread/INFO]: ADL33R[/127.228.144.141:54587] logged in with entity id 13968 at ([world]-12.942944355038602, 79.0, -53.40479370082916)
+[20:10:28] [Server thread/INFO]: ADL33R issued server command: /home
+[20:10:32] [Server thread/INFO]: ADL33R issued server command: /home c
+[20:10:39] [Server thread/INFO]: rafaxtpa was slain by Zombified Piglin
+[20:10:40] [Server thread/INFO]: ADL33R issued server command: /home casa
+[20:12:18] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
+[20:12:54] [Server thread/INFO]: Lee issued server command: /tpa volcan741
+[20:13:20] [Server thread/INFO]: ADL33R lost connection: Disconnected
+[20:13:20] [Server thread/INFO]: ADL33R left the game
+[20:13:55] [Server thread/INFO]: Lee issued server command: /tpa volcan741
+[20:14:19] [User Authenticator #5/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[20:14:19] [Server thread/INFO]: ADL33R joined the game
+[20:14:19] [Server thread/INFO]: ADL33R[/127.228.144.141:36593] logged in with entity id 15161 at ([world]1392.8036413948055, 71.0, -255.01135970955903)
+[20:14:55] [Server thread/INFO]: volcan741 issued server command: /tp Lee
+[20:15:01] [Server thread/INFO]: volcan741 issued server command: /home casa
