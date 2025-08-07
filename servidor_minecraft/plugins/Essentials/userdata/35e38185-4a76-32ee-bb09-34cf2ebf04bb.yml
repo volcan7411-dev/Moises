@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754597243160
+  lastteleport: 1754598392170
   lastheal: 0
   mute: 0
   jail: 0
@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: Lee
 lastlocation:
-  world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
-  world-name: world_nether
-  x: 28.762950568676892
-  y: 23.64159398753894
-  z: 36.19058502631277
-  yaw: 64.9942626953125
-  pitch: 81.71841430664062
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 216.43768885500015
+  y: 57.0
+  z: 364.2351351712774
+  yaw: 5.5350341796875
+  pitch: 32.62003707885742
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
