@@ -88,3 +88,18 @@
 [09:17:07] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58959] logged in with entity id 5092 at ([world]221.06022992773134, 57.0, 366.4924267052832)
 [09:17:17] [Server thread/INFO]: rafaxtpa issued server command: /home casa
 [09:17:22] [Server thread/INFO]: rafaxtpa issued server command: /home comida
+[09:18:01] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
+[09:18:30] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:20:28] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[09:22:42] [User Authenticator #4/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:22:42] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
+[09:22:42] [Server thread/INFO]: rafaxtpa left the game
+[09:22:42] [Server thread/INFO]: rafaxtpa joined the game
+[09:22:42] [Server thread/INFO]: rafaxtpa[/127.92.134.86:36685] logged in with entity id 8180 at ([world]219.3661385890254, 57.0, 367.89085187384785)
+[09:22:45] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:24:49] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[09:25:14] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:25:16] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[09:26:05] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
+[09:26:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:27:42] [Server thread/INFO]: Villager EntityVillager['Villager'/211, uuid='12a0a829-9c75-4e4c-94fb-fb5c50f121aa', l='ServerLevel[world]', x=48.30, y=72.00, z=-320.70, cpos=[3, -21], tl=415917, v=true] died, message: 'Villager was slain by Zombie'
