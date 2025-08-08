@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754597957423
+  logout: 1754655711574
   login: 1754651880228
 money: '0'
 last-account-name: ADL33R
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1392.8884074122009
-  y: 66.0
-  z: -230.02175259248742
-  yaw: 2.0095701217651367
-  pitch: 17.249231338500977
+  x: 1417.074999988079
+  y: 73.0
+  z: -305.12172800595425
+  yaw: 173.829833984375
+  pitch: 56.999813079833984
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world

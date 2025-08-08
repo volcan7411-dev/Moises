@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754609855551
+  lastteleport: 1754655102370
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Rixenta
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1568.300000011921
-  y: -59.0
-  z: -501.69999998807907
-  yaw: 175.81561279296875
-  pitch: 20.10006332397461
+  x: 1572.9360542651243
+  y: -56.0
+  z: -501.30000001192093
+  yaw: -114.43466186523438
+  pitch: 22.500051498413086
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world

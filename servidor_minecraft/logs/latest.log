@@ -162,3 +162,95 @@
 [12:06:50] [Server thread/INFO]: Magma852 issued server command: /home forest
 [12:07:06] [Async Chat Thread - #6/INFO]: [Not Secure] <volcan741> Rixenta
 [12:09:32] [Server thread/INFO]: Magma852 issued server command: /home aldea2
+[12:10:20] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
+[12:11:09] [Server thread/INFO]: Rixenta issued server command: /home
+[12:11:14] [Server thread/INFO]: Rixenta issued server command: /home caca
+[12:11:18] [Server thread/INFO]: Rixenta issued server command: /home home
+[12:11:42] [Server thread/INFO]: Rixenta issued server command: /home caca
+[12:12:29] [Server thread/INFO]: refkunMC issued server command: /lp user ADL33R permission
+[12:12:35] [Server thread/INFO]: refkunMC issued server command: /lp user ADL33R parent add default
+[12:12:38] [Server thread/INFO]: refkunMC issued server command: /lp user ADL33R parent add gerardo
+[12:12:38] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [U] (adl33r)
+[12:12:38] [luckperms-command-executor/INFO]: [LP] LOG > parent add gerardo
+[12:12:43] [Server thread/INFO]: refkunMC issued server command: /lp user Magma852 parent add default
+[12:12:47] [Server thread/INFO]: refkunMC issued server command: /lp user Magma852 parent add gerardo
+[12:12:47] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [U] (magma852)
+[12:12:47] [luckperms-command-executor/INFO]: [LP] LOG > parent add gerardo
+[12:12:48] [Server thread/INFO]: Rixenta has made the advancement [Enchanter]
+[12:12:51] [Server thread/INFO]: rafaxtpa issued server command: /sethome villager
+[12:12:54] [Server thread/INFO]: refkunMC issued server command: /lp user rafaxtpa parent add gerardo
+[12:12:54] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [U] (rafaxtpa)
+[12:12:54] [luckperms-command-executor/INFO]: [LP] LOG > parent add gerardo
+[12:12:56] [Server thread/INFO]: refkunMC issued server command: /lp user rafaxtpa parent add default
+[12:13:01] [Server thread/INFO]: refkunMC issued server command: /lp user refkunMC parent add gerardo
+[12:13:01] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [U] (refkunmc)
+[12:13:01] [luckperms-command-executor/INFO]: [LP] LOG > parent add gerardo
+[12:13:03] [Server thread/INFO]: refkunMC issued server command: /lp user refkunMC parent add default
+[12:13:12] [Server thread/INFO]: refkunMC issued server command: /lp user Rixenta parent add default
+[12:13:13] [Server thread/INFO]: refkunMC issued server command: /lp user Rixenta parent add gerardo
+[12:13:13] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [U] (rixenta)
+[12:13:13] [luckperms-command-executor/INFO]: [LP] LOG > parent add gerardo
+[12:13:21] [Server thread/INFO]: refkunMC issued server command: /lp user volcan741 parent add gerardo
+[12:13:23] [Server thread/INFO]: refkunMC issued server command: /lp user volcan741 parent add default
+[12:13:27] [Server thread/INFO]: refkunMC issued server command: /deop refkunMC
+[12:13:27] [Server thread/INFO]: [refkunMC: Made refkunMC no longer a server operator]
+[12:13:42] [Server thread/INFO]: volcan741 issued server command: /w *
+[12:13:54] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta voy a buscar una aldea para hacer la base?
+[12:14:02] [Server thread/INFO]: Rixenta issued server command: /msg refkunMC
+[12:14:17] [Server thread/INFO]: Rixenta issued server command: /msg refkunMC vale avisame cuando encuentras y me hago tp con todo
+[12:14:32] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[12:14:47] [Server thread/INFO]: refkunMC issued server command: /tell pilla recursos de los cofres pillales piedra y minerales
+[12:14:53] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta pilla recursos de los cofres pillales piedra y minerales
+[12:15:04] [Server thread/INFO]: Rixenta issued server command: /msg refkunMC voy
+[12:15:06] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:15:09] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta q muchos son nuestros
+[12:15:43] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:16:15] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:16:27] [Server thread/INFO]: rafaxtpa issued server command: /tell ADL33R nigga boy
+[12:16:38] [Server thread/INFO]: rafaxtpa issued server command: /tell volcan741 niga
+[12:16:44] [Server thread/INFO]: rafaxtpa issued server command: /tell refkunMC niga
+[12:16:48] [Server thread/INFO]: rafaxtpa issued server command: /tell Magma852 niga
+[12:16:52] [Server thread/INFO]: rafaxtpa issued server command: /tell Rixenta niga
+[12:17:04] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta nos esperamos a traigan los brotes de taiga
+[12:17:08] [Server thread/INFO]: rafaxtpa issued server command: /tell ** niga
+[12:17:16] [Server thread/INFO]: Rixenta issued server command: /msg RefkunMc
+[12:17:30] [Server thread/INFO]: Rixenta issued server command: /msg refkunMC vale, yo voy a irme lejos a buscar aldea
+[12:17:42] [Server thread/INFO]: Rixenta issued server command: /msg rafaxtpa nigga boy
+[12:17:55] [Async Chat Thread - #8/INFO]: [Not Secure] <rafaxtpa> ss
+[12:18:18] [Server thread/INFO]: Magma852 issued server command: /sethome adlea3
+[12:18:24] [Server thread/INFO]: Magma852 issued server command: /sethome adlea3
+[12:18:54] [Server thread/INFO]: Villager EntityVillager['Villager'/2911, uuid='ccf3922f-8e1b-4307-88b4-90a70e774132', l='ServerLevel[world]', x=73.43, y=78.00, z=-291.56, cpos=[4, -19], tl=469219, v=true] died, message: 'Villager was slain by rafaxtpa'
+[12:21:29] [Server thread/INFO]: refkunMC fell from a high place
+[12:21:51] [Server thread/INFO]: ADL33R lost connection: Disconnected
+[12:21:51] [Server thread/INFO]: ADL33R left the game
+[12:23:21] [Server thread/INFO]: volcan741 issued server command: /tp Magma852
+[12:23:55] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:25:02] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:25:42] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta ponte un home en su casa para tradearle a sus aldeanos hasta que los consigamos nosotros
+[12:25:44] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:25:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:25:55] [Server thread/INFO]: volcan741 issued server command: /home casa
+[12:26:07] [Server thread/INFO]: Rixenta issued server command: /msg refkunMC ya tengo el home ahí, estoy buscando aldea
+[12:26:16] [Server thread/INFO]: Magma852 issued server command: /sethome teto
+[12:26:21] [Server thread/INFO]: refkunMC issued server command: /tell ok luego me tepeo
+[12:26:27] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta ok luego me tepeo
+[12:26:58] [Server thread/INFO]: rafaxtpa issued server command: /home nether
+[12:27:32] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:27:39] [Server thread/INFO]: rafaxtpa fell from a high place
+[12:27:45] [Server thread/INFO]: rafaxtpa issued server command: /home nether2
+[12:28:21] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:28:22] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:29:12] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta le podemos decir a rafa q si se viene y somos los 3 con R
+[12:29:24] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta la alianza de la R
+[12:29:27] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:29:29] [Server thread/INFO]: refkunMC issued server command: /tell Rixenta yalai
+[12:29:33] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:29:56] [Server thread/INFO]: Rixenta issued server command: /msg RefkunMC lo he pensado y todo pero te recomiendo que te hagas una mini base aparte para que no te robe todo que el es de coger todo, lo que sea muy valioso tuyo guardatelo
+[12:30:09] [Server thread/INFO]: Villager EntityVillager['Villager'/301, uuid='fd288efc-7ee1-4e93-ac2c-7342a05d9b4e', l='ServerLevel[world]', x=1383.50, y=62.76, z=-247.35, cpos=[86, -16], tl=265441, v=true] died, message: 'Villager tried to swim in lava'
+[12:30:13] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> zzz
+[12:30:13] [Async Chat Thread - #11/INFO]: [Not Secure] <volcan741> <<<<
+[12:30:14] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> <
+[12:30:14] [Async Chat Thread - #11/INFO]: [Not Secure] <volcan741> <<
+[12:30:14] [Async Chat Thread - #11/INFO]: [Not Secure] <volcan741> <
+[12:30:14] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> <
+[12:30:15] [Server thread/INFO]: Villager EntityVillager['Villager'/302, uuid='53824d1e-1e8e-48f0-8bba-0ac8f2687629', l='ServerLevel[world]', x=1381.50, y=62.79, z=-247.30, cpos=[86, -16], tl=457416, v=true] died, message: 'Villager tried to swim in lava'

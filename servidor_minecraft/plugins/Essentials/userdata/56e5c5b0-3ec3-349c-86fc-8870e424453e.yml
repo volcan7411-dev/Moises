@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754654805650
+  lastteleport: 1754656173181
   lastheal: 0
   mute: 0
   jail: 0
@@ -141,11 +141,19 @@ homes:
     z: -293.8032158030128
     yaw: 3.0464043617248535
     pitch: 20.41628646850586
+  villager:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1587.7883207206912
+    y: 65.0
+    z: -1384.4287360118012
+    yaw: 126.87213134765625
+    pitch: 26.899755477905273
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 73.04013132473005
-  y: 78.0
-  z: -289.69863815272134
-  yaw: -107.90815734863281
-  pitch: 29.536861419677734
+  x: 219.8111576208253
+  y: 57.0
+  z: 368.1792749940489
+  yaw: -62.020416259765625
+  pitch: 14.019962310791016
