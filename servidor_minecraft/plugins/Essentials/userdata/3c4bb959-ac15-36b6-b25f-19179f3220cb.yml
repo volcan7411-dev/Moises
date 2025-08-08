@@ -11,48 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754661137995
+  lastteleport: 1754687838588
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754662135824
-  login: 1754662003552
+  logout: 1754688343314
+  login: 1754688163252
 money: '0'
 last-account-name: ADL33R
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1415.0635612717754
-  y: 73.0
-  z: -299.35080794721415
-  yaw: 160.99534606933594
-  pitch: 32.610565185546875
+  x: 3101.4994573059175
+  y: 70.0
+  z: 30.016883798245903
+  yaw: -17.243072509765625
+  pitch: 49.499595642089844
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1131.7891428884361
-  y: 65.0
-  z: -344.11797474383144
-  yaw: -24.990966796875
-  pitch: 43.199954986572266
+  x: 1418.5050672217708
+  y: 69.0
+  z: -315.53434330435636
+  yaw: 26.30621337890625
+  pitch: 34.260929107666016
 homes:
-  vic:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1374.6272245010587
-    y: 66.0
-    z: -224.5419878836131
-    yaw: 60.599708557128906
-    pitch: 47.549861907958984
-  megacueva:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 64.06435805517579
-    y: -41.0
-    z: -12.163943397751211
-    yaw: 87.47439575195312
-    pitch: 32.54448699951172
   casa:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -61,3 +45,43 @@ homes:
     z: -300.8860582837867
     yaw: 94.40347290039062
     pitch: 18.211299896240234
+  megacueva:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 765.5794669780043
+    y: -16.0
+    z: -345.1464184531135
+    yaw: -178.6318359375
+    pitch: 16.799510955810547
+  megacueva2:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 576.660378050357
+    y: -32.0
+    z: -315.88068696446663
+    yaw: 28.42431640625
+    pitch: 12.150701522827148
+  portal:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 220.47275998481066
+    y: 57.0
+    z: 373.7320642715621
+    yaw: -173.81976318359375
+    pitch: 39.04296112060547
+  netherite:
+    world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
+    world-name: world_nether
+    x: 77.05613879338168
+    y: 11.0
+    z: -120.53431684894666
+    yaw: 12.300392150878906
+    pitch: 15.749588012695312
+  plana:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 3116.890055156767
+    y: 70.0
+    z: 79.3766870207016
+    yaw: 112.66748046875
+    pitch: 25.452701568603516

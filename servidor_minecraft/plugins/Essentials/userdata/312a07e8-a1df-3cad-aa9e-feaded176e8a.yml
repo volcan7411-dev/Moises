@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754661132683
+  lastteleport: 1754675852524
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754662135776
-  login: 1754660714220
+  logout: 1754691698267
+  login: 1754691462479
 money: '0'
 last-account-name: Rixenta
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: -919.4376874014056
-  y: 66.0
-  z: 5619.342543574465
-  yaw: 160.83596801757812
-  pitch: 21.148244857788086
+  x: -3152.7821128303112
+  y: 71.5
+  z: 3611.5180297962593
+  yaw: -165.89999389648438
+  pitch: 40.94999313354492
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: -1658.1965509946801
-  y: 64.17675927506424
-  z: 7847.998666290496
-  yaw: -101.1995849609375
-  pitch: 30.000362396240234
+  x: -3141.339808423602
+  y: 71.0
+  z: 3590.178204411921
+  yaw: 84.9002685546875
+  pitch: 6.450002193450928
 homes:
   home:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -45,14 +45,6 @@ homes:
     z: -501.69999998807907
     yaw: -148.3338623046875
     pitch: 60.15006637573242
-  caca:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1321.5494497441427
-    y: 64.0
-    z: -272.52018761544576
-    yaw: 144.15765380859375
-    pitch: 30.795604705810547
   pillagers:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -61,3 +53,19 @@ homes:
     z: -4238.03067384131
     yaw: 126.4144515991211
     pitch: 33.300052642822266
+  verdadera:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: -3156.9914519931112
+    y: 70.0
+    z: 3615.5772971587826
+    yaw: 176.87548828125
+    pitch: 17.399965286254883
+  nigga:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 216.93019283735865
+    y: 57.0
+    z: 357.7237388975856
+    yaw: -83.72843933105469
+    pitch: 17.582149505615234

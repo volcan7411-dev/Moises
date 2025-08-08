@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754658657181
+  lastteleport: 1754691361609
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754661006923
-  login: 1754653926818
+  logout: 1754691421762
+  login: 1754690770902
 money: '0'
 last-account-name: Magma852
 homes:
@@ -133,19 +133,27 @@ homes:
     z: -1493.133903937006
     yaw: 14.191732406616211
     pitch: 17.968759536743164
+  stefii:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 3077.2614681852733
+    y: 70.0
+    z: 64.65324020206906
+    yaw: -127.03146362304688
+    pitch: 26.561429977416992
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 64.85510642704017
-  y: 19.0
-  z: -581.8301988305975
-  yaw: -124.80020904541016
-  pitch: -3.8157784938812256
+  x: -144.39227595478326
+  y: 242.0
+  z: -1493.406975814174
+  yaw: 57.3144416809082
+  pitch: 34.697086334228516
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: -146.6445953476213
-  y: 242.0
-  z: -1493.3461985463787
-  yaw: 2.852283239364624
-  pitch: 20.123403549194336
+  x: 66.15567742024834
+  y: 19.0
+  z: -583.1546213584213
+  yaw: 154.70228576660156
+  pitch: 3.456134557723999

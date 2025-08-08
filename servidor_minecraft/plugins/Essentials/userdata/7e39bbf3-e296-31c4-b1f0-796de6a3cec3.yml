@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.71.169.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754683388665
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754684267218
+  login: 1754682708562
+money: '0'
+last-account-name: Leechuga
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1278.525488191848
+  y: 128.0
+  z: -475.03477774022093
+  yaw: -179.14842224121094
+  pitch: 47.18879699707031
+lastlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 1485.9241166003515
+  y: 64.0
+  z: -862.469616010997
+  yaw: 27.03057861328125
+  pitch: 27.541555404663086
+homes:
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 67.36767132155963
+    y: 63.0
+    z: -195.80779171220055
+    yaw: 88.34451293945312
+    pitch: 23.00267219543457
+  c:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 219.7103298141403
+    y: 57.0
+    z: 366.39612011697244
+    yaw: 100.51773071289062
+    pitch: 20.95716667175293
+  aldeanos:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1392.4998354639586
+    y: 66.0
+    z: -242.2878022815692
+    yaw: 28.558624267578125
+    pitch: 29.654508590698242
+  nether:
+    world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
+    world-name: world_nether
+    x: -202.3083551615169
+    y: 12.0
+    z: 153.36880816440737
+    yaw: 111.49295806884766
+    pitch: 20.47742462158203
+  ca:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: 1279.9725001062666
+    y: 128.0
+    z: -475.82029267400685
+    yaw: -69.62060546875
+    pitch: 31.81385040283203

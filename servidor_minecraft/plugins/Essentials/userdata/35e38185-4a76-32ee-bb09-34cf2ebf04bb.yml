@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754660856033
-  login: 1754660835915
+  logout: 1754676304620
+  login: 1754676264716
 money: '0'
 last-account-name: Lee
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 62.870515172750295
-  y: 67.0
-  z: -194.82453086329286
-  yaw: -170.37498474121094
-  pitch: 16.09311294555664
+  x: 65.03964197685535
+  y: 63.0
+  z: -195.92746444512434
+  yaw: -157.66741943359375
+  pitch: 4.571130275726318
 homes:
   mina:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
