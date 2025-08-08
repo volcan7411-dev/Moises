@@ -1684,6 +1684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-07 23:02:34 +0000"
@@ -1876,6 +1882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-07 23:01:23 +0000"
@@ -1978,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-08-07 23:18:44 +0000"
@@ -2026,6 +2044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-08 00:00:17 +0000"
@@ -2041,6 +2065,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-08-07 23:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
     },
     "done": true
   },
@@ -2065,6 +2095,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-08 00:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-08 01:20:14 +0000"
     },
     "done": true
   },
