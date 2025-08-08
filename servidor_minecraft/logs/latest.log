@@ -92,3 +92,38 @@
 [11:47:21] [Server thread/INFO]: rafaxtpa was doomed to fall by Hoglin
 [11:47:37] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
 [11:48:55] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:52:06] [User Authenticator #2/INFO]: UUID of player Magma852 is 9916defb-2c4d-3f0a-9e17-cb49a881c906
+[11:52:06] [Server thread/INFO]: Magma852 joined the game
+[11:52:06] [Server thread/INFO]: Magma852[/127.127.242.163:37265] logged in with entity id 15918 at ([world]67.5, 19.0, -576.5)
+[11:53:16] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[11:53:30] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:53:35] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[11:53:44] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:54:28] [Server thread/INFO]: Magma852 issued server command: /home forest
+[11:55:00] [User Authenticator #3/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[11:55:00] [Server thread/INFO]: refkunMC joined the game
+[11:55:00] [Server thread/INFO]: refkunMC[/127.236.40.244:44289] logged in with entity id 17511 at ([world]1397.90882993152, 66.0, -246.4043157615554)
+[11:55:01] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> zzz
+[11:55:03] [Async Chat Thread - #3/INFO]: [Not Secure] <volcan741> ADL33R
+[11:55:06] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> rafaxtpa
+[11:55:13] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:55:42] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:56:14] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:57:39] [User Authenticator #4/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
+[11:57:39] [Server thread/INFO]: Rixenta joined the game
+[11:57:39] [Server thread/INFO]: Rixenta[/127.195.114.124:55429] logged in with entity id 18931 at ([world]1397.0405022766374, 68.5, -250.42917499651807)
+[11:58:15] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[11:58:17] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:58:22] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[11:58:34] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:58:37] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:58:42] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[11:58:54] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[11:58:55] [Server thread/INFO]: volcan741 issued server command: /op refkunMC
+[11:58:55] [Server thread/INFO]: [volcan741: Made refkunMC a server operator]
+[11:59:03] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:59:09] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:59:16] [Server thread/INFO]: refkunMC issued server command: /lp group gerardo permission set minecraft.msg
+[11:59:16] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [G] (gerardo)
+[11:59:16] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.msg true
+[11:59:21] [Server thread/INFO]: Magma852 issued server command: /home casaderef
