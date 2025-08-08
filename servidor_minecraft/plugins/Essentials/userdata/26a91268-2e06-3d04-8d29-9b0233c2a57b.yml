@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754646714932
+  logout: 1754662135820
   login: 1754651880864
 money: '0'
 last-account-name: volcan741
@@ -64,8 +64,8 @@ lastlocation:
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1392.9955130606031
+  x: 1398.8721301335972
   y: 66.0
-  z: -228.87992080188758
-  yaw: 174.1195526123047
-  pitch: 20.500028610229492
+  z: -243.49840569435975
+  yaw: -125.3153076171875
+  pitch: 7.620830059051514

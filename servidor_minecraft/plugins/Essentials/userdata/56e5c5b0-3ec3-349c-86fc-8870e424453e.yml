@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754658312822
+  logout: 1754662135740
   login: 1754658314702
 money: '0'
 last-account-name: rafaxtpa
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1386.471136919587
-  y: 66.0
-  z: -243.9232790296306
-  yaw: -81.17526245117188
-  pitch: 14.762513160705566
+  x: -4280.404048873506
+  y: 62.07326432466507
+  z: 4646.525850834318
+  yaw: 144.83827209472656
+  pitch: 7.814040184020996
 homes:
   casa:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
