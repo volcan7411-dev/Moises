@@ -415,3 +415,35 @@
 [13:21:32] [Server thread/INFO]: volcan741 issued server command: /save-all
 [13:21:34] [Server thread/INFO]: [volcan741: Saved the game]
 [13:22:07] [Server thread/INFO]: Villager EntityVillager['Villager'/305, uuid='5595415e-c2d8-4146-843b-82d7327e0208', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=299797, v=true] died, message: 'Villager was squished too much'
+[13:24:37] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:24:46] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:25:19] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:25:32] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:26:07] [Server thread/INFO]: Villager EntityVillager['Villager'/311, uuid='80fc81a2-af40-4126-87b9-b1b4171e4efc', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=243101, v=true] died, message: 'Villager was squished too much'
+[13:26:11] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:26:13] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:27:12] [Async Chat Thread - #18/INFO]: [Not Secure] <volcan741> ZZZZZZZZZZZZZZZZZZ
+[13:27:19] [Server thread/INFO]: refkunMC issued server command: /o
+[13:27:23] [Async Chat Thread - #19/INFO]: [Not Secure] <refkunMC> -/o
+[13:27:24] [Async Chat Thread - #18/INFO]: [Not Secure] <volcan741> o/
+[13:27:45] [Server thread/INFO]: volcan741 issued server command: /home Magma852:teto
+[13:27:59] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R volcan741
+[13:28:03] [Server thread/INFO]: volcan741 issued server command: /home casa
+[13:28:45] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:28:47] [Server thread/INFO]: ADL33R issued server command: /HOME CASA
+[13:28:55] [Server thread/INFO]: ADL33R issued server command: /home casa
+[13:29:06] [User Authenticator #10/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[13:29:07] [Server thread/INFO]: Lee joined the game
+[13:29:07] [Server thread/INFO]: Lee[/127.71.169.146:36203] logged in with entity id 137925 at ([world]48.086559646312764, 72.0, -324.1552700353311)
+[13:29:19] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
+[13:29:26] [Server thread/INFO]: Lee issued server command: /tpa rafaxtpa
+[13:29:27] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
+[13:31:05] [Server thread/INFO]: Lee lost connection: Disconnected
+[13:31:05] [Server thread/INFO]: Lee left the game
+[13:31:49] [Server thread/INFO]: rafaxtpa issued server command: /home nether
+[13:31:54] [Server thread/INFO]: rafaxtpa issued server command: /delhome nether
+[13:31:56] [Server thread/INFO]: rafaxtpa issued server command: /home nether2
+[13:31:59] [Server thread/INFO]: rafaxtpa issued server command: /delhome nether2
+[13:32:01] [Server thread/INFO]: rafaxtpa issued server command: /sethome nether
+[13:32:25] [Server thread/INFO]: rafaxtpa was doomed to fall by Ghast
+[13:32:29] [Server thread/INFO]: rafaxtpa issued server command: /home casa
