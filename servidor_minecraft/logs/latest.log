@@ -127,3 +127,38 @@
 [11:59:16] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [G] (gerardo)
 [11:59:16] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.msg true
 [11:59:21] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[11:59:43] [Server thread/INFO]: refkunMC issued server command: /lp group gerardo permission set essentials.msg
+[11:59:43] [luckperms-command-executor/INFO]: [LP] LOG > (refkunMC) [G] (gerardo)
+[11:59:43] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.msg true
+[11:59:47] [Server thread/INFO]: Magma852 issued server command: /home home
+[11:59:48] [Server thread/INFO]: refkunMC issued server command: /deop refkunMC
+[11:59:48] [Server thread/INFO]: [refkunMC: Made refkunMC no longer a server operator]
+[11:59:52] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:59:55] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:00:02] [Server thread/INFO]: volcan741 issued server command: /op refkunMC
+[12:00:02] [Server thread/INFO]: [volcan741: Made refkunMC a server operator]
+[12:00:28] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[12:01:21] [Async Chat Thread - #4/INFO]: [Not Secure] <volcan741> ADL33R
+[12:01:24] [Server thread/INFO]: volcan741 issued server command: /home casa
+[12:01:25] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:01:41] [Server thread/INFO]: Magma852 issued server command: /home nether
+[12:01:48] [Server thread/INFO]: refkunMC issued server command: /msg Rixenta vamonos a otro lado a vivir que parece esto china es mas fea esta muralla q la de AOT
+[12:01:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:01:48] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:01:52] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[12:01:56] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[12:02:14] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[12:02:19] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[12:02:45] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:03:06] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:03:19] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:03:33] [Server thread/INFO]: Magma852 issued server command: /home nether
+[12:03:58] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:04:16] [Server thread/INFO]: Rixenta issued server command: /home
+[12:05:27] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:06:12] [Server thread/INFO]: Magma852 issued server command: /home forest
+[12:06:29] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:06:45] [Server thread/INFO]: rafaxtpa issued server command: /home comida
+[12:06:50] [Server thread/INFO]: Magma852 issued server command: /home forest
+[12:07:06] [Async Chat Thread - #6/INFO]: [Not Secure] <volcan741> Rixenta
+[12:09:32] [Server thread/INFO]: Magma852 issued server command: /home aldea2
