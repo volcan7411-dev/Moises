@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754610150066
+  logout: 1754658405625
   login: 1754654259303
 money: '0'
 last-account-name: Rixenta
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1397.0405022766374
-  y: 68.5
-  z: -250.42917499651807
-  yaw: 146.10540771484375
-  pitch: 18.79559898376465
+  x: -2686.448565313455
+  y: 62.07326432466506
+  z: -6608.544213357895
+  yaw: -133.3252410888672
+  pitch: 20.55001449584961
 homes:
   home:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -53,3 +53,11 @@ homes:
     z: -272.52018761544576
     yaw: 144.15765380859375
     pitch: 30.795604705810547
+  pillagers:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: -2069.1287503221715
+    y: 81.0
+    z: -4238.03067384131
+    yaw: 126.4144515991211
+    pitch: 33.300052642822266

@@ -312,3 +312,91 @@
 [12:51:19] [Server thread/INFO]: Rixenta issued server command: /tpaccept
 [12:51:21] [Server thread/INFO]: Magma852 issued server command: /home casaderef
 [12:51:26] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:51:38] [Server thread/INFO]: refkunMC fell from a high place
+[12:51:40] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:51:41] [Server thread/INFO]: refkunMC issued server command: /tpa Rixenta
+[12:51:48] [Server thread/INFO]: Rixenta issued server command: /tpaccept
+[12:52:06] [Server thread/INFO]: Magma852 issued server command: /tpaccept
+[12:52:18] [Server thread/INFO]: Magma852 issued server command: /home home
+[12:52:34] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
+[12:52:38] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[12:53:54] [Server thread/INFO]: ADL33R lost connection: Disconnected
+[12:53:54] [Server thread/INFO]: ADL33R left the game
+[12:54:29] [User Authenticator #7/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[12:54:29] [Server thread/INFO]: ADL33R joined the game
+[12:54:29] [Server thread/INFO]: ADL33R[/127.228.144.141:53207] logged in with entity id 81270 at ([world]1399.3794944681258, 66.0, -243.9548344522388)
+[12:54:34] [Server thread/INFO]: refkunMC issued server command: /tp 0 1000 0
+[12:54:34] [Server thread/INFO]: [Essentials] refkunMC was denied access to command.
+[12:54:56] [Server thread/INFO]: volcan741 issued server command: /tp refkunMC 0 100 0
+[12:56:53] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:57:30] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:57:41] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[12:57:50] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:57:52] [Server thread/INFO]: Rixenta issued server command: /sethome pillagers
+[12:58:03] [Tuinity Chunk System Worker #0/WARN]: Skipping Entity with id minecraft:camel
+[12:59:07] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[12:59:13] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:59:30] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:00:08] [Server thread/INFO]: Magma852 issued server command: /home home
+[13:00:22] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[13:00:26] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[13:00:58] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:01:27] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:01:31] [Server thread/INFO]: Magma852 issued server command: /home home
+[13:02:01] [Server thread/INFO]: Magma852 issued server command: /home forest
+[13:03:07] [Async Chat Thread - #14/INFO]: [Not Secure] <rafaxtpa> zz
+[13:03:10] [Async Chat Thread - #15/INFO]: [Not Secure] <rafaxtpa> niggs
+[13:03:11] [Async Chat Thread - #14/INFO]: [Not Secure] <rafaxtpa> niga
+[13:03:16] [Async Chat Thread - #15/INFO]: [Not Secure] <Rixenta> PUTOS NEGROS
+[13:03:22] [Async Chat Thread - #15/INFO]: [Not Secure] <volcan741> callalallalallala
+[13:03:29] [Async Chat Thread - #14/INFO]: [Not Secure] <volcan741> calalalalalalalalalalalala
+[13:03:30] [Server thread/INFO]: refkunMC issued server command: /save
+[13:03:33] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[13:03:34] [Server thread/INFO]: refkunMC issued server command: /save-all
+[13:03:34] [Async Chat Thread - #14/INFO]: [Not Secure] <rafaxtpa> teta
+[13:03:37] [Server thread/INFO]: [refkunMC: Saved the game]
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.2157406030796665,-9.227659987232073E-7,-20.344946811149384
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.2235772130966325,-9.228919282122661E-7,-20.744568386639912
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.2270607410323464,-9.229632098595175E-7,-21.144068217624408
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.2257603475090946,-9.22987659635055E-7,-21.543371366367865
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.21937401558489,-9.229749764472217E-7,-21.942402651483462
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.2077115809320276,-9.229354844819682E-7,-22.341091079313628
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.1913651387239952,-9.228791242321677E-7,-22.739480524493047
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.1715514508232445,-9.228147419548804E-7,-23.137704314253824
+[13:03:37] [Server thread/WARN]: rafaxtpa moved too quickly! -5.091721647827626,1.1767592750642422,11.861409037609462
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.1492911864779671,-9.22749620713148E-7,-23.535859875292772
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.1254393216586323,-9.226892885294546E-7,-23.934017274737016
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.1007012529730673,-9.226375041748724E-7,-24.33222492515779
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.0756588900335373,-9.225963779613267E-7,-24.730515210821068
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.05079043331898,-9.225666133261257E-7,-25.12890851940938
+[13:03:37] [Server thread/WARN]: Boat (vehicle of Rixenta) moved too quickly! 1.026476759263005,-9.225478194707648E-7,-25.527415801408097
+[13:04:03] [Async Chat Thread - #15/INFO]: [Not Secure] <volcan741> lalalalavachikchikchikchiken
+[13:04:20] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[13:05:12] [Server thread/INFO]: rafaxtpa lost connection: Timed out
+[13:05:12] [Server thread/INFO]: rafaxtpa left the game
+[13:05:14] [User Authenticator #8/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[13:05:14] [Server thread/INFO]: rafaxtpa joined the game
+[13:05:14] [Server thread/INFO]: rafaxtpa[/127.92.134.86:60781] logged in with entity id 105217 at ([world]1386.471136919587, 66.0, -243.9232790296306)
+[13:06:16] [Server thread/INFO]: Magma852 issued server command: /homes casaderef
+[13:06:28] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[13:06:45] [Server thread/INFO]: Rixenta lost connection: Disconnected
+[13:06:45] [Server thread/INFO]: Rixenta left the game
+[13:06:52] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[13:06:52] [Server thread/INFO]: refkunMC left the game
+[13:06:56] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:07:15] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:08:26] [Server thread/INFO]: Magma852 fell from a high place
+[13:08:31] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[13:08:36] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:09:09] [Server thread/INFO]: Magma852 issued server command: /delhome granjaexp
+[13:09:18] [Server thread/INFO]: Magma852 issued server command: /sethome granjaexp
+[13:09:22] [Server thread/INFO]: Magma852 issued server command: /home
+[13:09:25] [Server thread/INFO]: Magma852 issued server command: /home home
+[13:09:37] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:09:53] [Server thread/INFO]: rafaxtpa fell from a high place
+[13:09:56] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:10:57] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
+[13:11:23] [Server thread/INFO]: rafaxtpa issued server command: /sethome megacueva
+[13:11:26] [Server thread/INFO]: rafaxtpa issued server command: /delhome cueva2
+[13:11:28] [Server thread/INFO]: rafaxtpa issued server command: /delhome cueva3
+[13:11:34] [Server thread/INFO]: rafaxtpa issued server command: /delhome aldea

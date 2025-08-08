@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754657271022
+  lastteleport: 1754658596622
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754649245902
-  login: 1754652335759
+  logout: 1754658312822
+  login: 1754658314702
 money: '0'
 last-account-name: rafaxtpa
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 42.268963836863016
-  y: 77.0
-  z: -326.8087188929561
-  yaw: -90.75592041015625
-  pitch: 49.13963317871094
+  x: 1386.471136919587
+  y: 66.0
+  z: -243.9232790296306
+  yaw: -81.17526245117188
+  pitch: 14.762513160705566
 homes:
   casa:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -37,22 +37,6 @@ homes:
     z: -254.9516894551343
     yaw: -0.115966796875
     pitch: 37.468875885009766
-  cueva2:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 721.6195022447235
-    y: 26.0
-    z: -406.61752026936614
-    yaw: -139.43487548828125
-    pitch: 25.693296432495117
-  cueva3:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 728.4437966577935
-    y: -17.0
-    z: -466.26409579807904
-    yaw: -89.65518188476562
-    pitch: 40.6209602355957
   obsidiana:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -93,14 +77,6 @@ homes:
     z: -410.91961345692783
     yaw: 80.5543212890625
     pitch: 27.275955200195312
-  aldea:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1399.571021122387
-    y: 63.0
-    z: -352.12013849528137
-    yaw: 55.89892578125
-    pitch: 9.257684707641602
   aldeanos:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -152,8 +128,8 @@ homes:
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 66.30541749624994
-  y: 71.0
-  z: -260.398649101196
-  yaw: 128.7132568359375
-  pitch: 15.98330020904541
+  x: 49.5
+  y: 72.5625
+  z: -330.5
+  yaw: 91.80926513671875
+  pitch: -1.2062243223190308

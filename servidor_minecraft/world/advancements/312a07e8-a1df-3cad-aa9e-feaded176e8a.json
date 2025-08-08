@@ -8,10 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-08 12:24:29 +0000",
+      "minecraft:deep_ocean": "2025-08-08 13:06:37 +0000",
       "minecraft:birch_forest": "2025-08-08 12:41:28 +0000",
       "minecraft:bamboo_jungle": "2025-08-08 12:45:23 +0000",
       "minecraft:beach": "2025-08-08 12:26:24 +0000",
       "minecraft:dark_forest": "2025-08-08 12:41:01 +0000",
+      "minecraft:mangrove_swamp": "2025-08-08 12:55:03 +0000",
       "minecraft:sparse_jungle": "2025-08-08 12:44:23 +0000",
       "minecraft:river": "2025-08-07 14:25:18 +0000",
       "minecraft:lukewarm_ocean": "2025-08-08 12:42:37 +0000",
@@ -20,8 +22,10 @@
       "minecraft:grove": "2025-08-08 12:36:32 +0000",
       "minecraft:cold_ocean": "2025-08-08 12:39:26 +0000",
       "minecraft:forest": "2025-08-07 14:20:37 +0000",
+      "minecraft:lush_caves": "2025-08-08 12:51:46 +0000",
       "minecraft:deep_cold_ocean": "2025-08-08 12:39:47 +0000",
       "minecraft:desert": "2025-08-08 12:46:30 +0000",
+      "minecraft:jungle": "2025-08-08 13:00:15 +0000",
       "minecraft:ocean": "2025-08-08 12:40:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-08 12:40:42 +0000",
       "minecraft:warm_ocean": "2025-08-08 12:46:31 +0000",
@@ -559,6 +563,7 @@
       "cooked_mutton": "2025-08-07 14:29:46 +0000",
       "porkchop": "2025-08-07 16:33:25 +0000",
       "bread": "2025-08-07 17:12:11 +0000",
+      "melon_slice": "2025-08-08 12:50:39 +0000",
       "carrot": "2025-08-07 17:01:27 +0000"
     },
     "done": false
@@ -1723,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-08-08 12:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2025-08-08 12:10:58 +0000"
@@ -1771,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-08 12:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-08 12:44:36 +0000"
@@ -1804,6 +1821,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-08 12:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-08 12:55:07 +0000"
     },
     "done": true
   },
