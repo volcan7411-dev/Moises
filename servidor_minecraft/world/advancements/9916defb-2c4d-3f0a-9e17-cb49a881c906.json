@@ -1858,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-08 01:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-08 00:00:17 +0000"
