@@ -11,12 +11,12 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754645165400
+  lastteleport: 1754646571319
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754616743710
+  logout: 1754646714932
   login: 1754644148366
 money: '0'
 last-account-name: volcan741
@@ -56,16 +56,16 @@ homes:
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1544.4327383155714
-  y: -47.0
-  z: -777.3000000119209
-  yaw: -96.20751953125
-  pitch: 25.970874786376953
+  x: 1512.6428222806092
+  y: -50.005
+  z: -925.2904414054403
+  yaw: 35.57421875
+  pitch: 29.113798141479492
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1383.2414936598088
+  x: 1392.9955130606031
   y: 66.0
-  z: -245.03746917388978
-  yaw: -90.015380859375
-  pitch: 9.278167724609375
+  z: -228.87992080188758
+  yaw: 174.1195526123047
+  pitch: 20.500028610229492

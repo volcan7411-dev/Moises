@@ -105,3 +105,54 @@
 [09:27:42] [Server thread/INFO]: Villager EntityVillager['Villager'/211, uuid='12a0a829-9c75-4e4c-94fb-fb5c50f121aa', l='ServerLevel[world]', x=48.30, y=72.00, z=-320.70, cpos=[3, -21], tl=415917, v=true] died, message: 'Villager was slain by Zombie'
 [09:29:30] [Server thread/INFO]: Villager EntityVillager['Villager'/212, uuid='c30e53e2-4386-485d-9996-41cb5fa7086b', l='ServerLevel[world]', x=22.70, y=76.00, z=-331.62, cpos=[1, -21], tl=423580, v=true] died, message: 'Villager was slain by Zombie'
 [09:35:30] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[09:40:01] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:42:19] [Server thread/INFO]: volcan741 issued server command: /difficulty normal
+[09:42:19] [Server thread/INFO]: [volcan741: The difficulty has been set to Normal]
+[09:42:21] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[09:44:26] [Server thread/INFO]: rafaxtpa lost connection: Timed out
+[09:44:26] [Server thread/INFO]: rafaxtpa left the game
+[09:44:48] [User Authenticator #5/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:44:48] [Server thread/INFO]: rafaxtpa joined the game
+[09:44:48] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58045] logged in with entity id 16916 at ([world]219.45857272225751, 57.0, 365.907795708539)
+[09:45:37] [Server thread/INFO]: rafaxtpa lost connection: Timed out
+[09:45:37] [Server thread/INFO]: rafaxtpa left the game
+[09:47:58] [User Authenticator #6/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:47:58] [Server thread/INFO]: rafaxtpa joined the game
+[09:47:58] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58801] logged in with entity id 17632 at ([world]220.1915420459504, 57.0, 366.43697473656147)
+[09:48:07] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:49:31] [Server thread/INFO]: volcan741 issued server command: /home casa
+[09:49:46] [Server thread/INFO]: rafaxtpa lost connection: Timed out
+[09:49:46] [Server thread/INFO]: rafaxtpa left the game
+[09:51:54] [Server thread/INFO]: volcan741 lost connection: Disconnected
+[09:51:54] [Server thread/INFO]: volcan741 left the game
+[09:52:02] [Server thread/INFO]: Stopping the server
+[09:52:02] [Server thread/INFO]: Stopping server
+[09:52:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+107-7b02d22
+[09:52:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.137
+[09:52:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:52:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:52:02] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:52:02] [Server thread/INFO]: Saving players
+[09:52:02] [Server thread/INFO]: Saving worlds
+[09:52:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:52:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:52:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:52:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:52:02] [Server thread/INFO]: [ChunkHolderManager] Saved 73 block chunks, 299 entity chunks, 0 poi chunks in world 'world' in 0.14s
+[09:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:52:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 78 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[09:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:52:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:52:03] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[09:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:52:03] [Server thread/INFO]: Flushing Chunk IO
+[09:52:03] [Server thread/INFO]: Closing Thread Pool
+[09:52:03] [Server thread/INFO]: Closing Server
