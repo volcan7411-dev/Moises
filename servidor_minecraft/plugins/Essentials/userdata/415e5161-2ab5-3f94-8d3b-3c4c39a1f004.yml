@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.55.254.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754660999573
+  login: 1754660809056
+money: '0'
+last-account-name: Mario7188371628
+logoutlocation:
+  world: 64598a45-9630-4870-af2e-8d1213ba82f7
+  world-name: world
+  x: 132.83696894120675
+  y: 63.0
+  z: -94.46308069729247
+  yaw: -86.24630737304688
+  pitch: 7.6444854736328125

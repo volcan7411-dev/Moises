@@ -461,3 +461,45 @@
 [13:45:14] [User Authenticator #12/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
 [13:45:14] [Server thread/INFO]: Rixenta joined the game
 [13:45:14] [Server thread/INFO]: Rixenta[/127.195.114.124:42487] logged in with entity id 159222 at ([world]-2686.448565313455, 62.07326432466506, -6608.544213357895)
+[13:46:02] [Server thread/INFO]: ADL33R issued server command: /delhome casa
+[13:46:08] [Server thread/INFO]: ADL33R issued server command: /sethome casa
+[13:46:48] [User Authenticator #13/INFO]: UUID of player Mario7188371628 is 415e5161-2ab5-3f94-8d3b-3c4c39a1f004
+[13:46:48] [Server thread/INFO]: Mario7188371628 joined the game
+[13:46:49] [Server thread/INFO]: Mario7188371628[/127.55.254.63:59563] logged in with entity id 162125 at ([world]-16.5, 73.0, -37.5)
+[13:47:15] [User Authenticator #13/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
+[13:47:15] [Server thread/INFO]: Lee joined the game
+[13:47:15] [Server thread/INFO]: Lee[/127.71.169.146:41973] logged in with entity id 162538 at ([world]61.958748310368854, 67.0, -195.28508254910238)
+[13:47:36] [Server thread/INFO]: Lee lost connection: Disconnected
+[13:47:36] [Server thread/INFO]: Lee left the game
+[13:47:43] [Server thread/INFO]: volcan741 has made the advancement [Glow and Behold!]
+[13:47:55] [Server thread/INFO]: Mario7188371628 issued server command: /tpa volcan741
+[13:47:59] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[13:47:59] [Server thread/INFO]: refkunMC left the game
+[13:48:04] [Server thread/INFO]: volcan741 issued server command: /tpacancel
+[13:48:25] [User Authenticator #14/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[13:48:25] [Server thread/INFO]: refkunMC joined the game
+[13:48:25] [Server thread/INFO]: refkunMC[/127.236.40.244:54695] logged in with entity id 164603 at ([world]-740.7287432635471, 81.0, 5594.334070417724)
+[13:48:26] [Server thread/INFO]: Rixenta issued server command: /tpa RefkunMC
+[13:48:31] [Server thread/INFO]: refkunMC issued server command: /tpaccept
+[13:48:43] [Server thread/INFO]: Villager EntityVillager['Villager'/134968, uuid='10bb6dda-0e1b-4418-931c-dcd45668ef94', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=95450, v=true] died, message: 'Villager was squished too much'
+[13:49:59] [Server thread/INFO]: Mario7188371628 lost connection: Disconnected
+[13:49:59] [Server thread/INFO]: Mario7188371628 left the game
+[13:50:06] [Server thread/INFO]: Magma852 lost connection: Disconnected
+[13:50:06] [Server thread/INFO]: Magma852 left the game
+[13:50:11] [Server thread/INFO]: Rixenta issued server command: /msg RefkunMC vamos a dupear tottem
+[13:50:12] [Async Chat Thread - #22/INFO]: [Not Secure] <volcan741> zzza
+[13:50:14] [Async Chat Thread - #23/INFO]: [Not Secure] <volcan741> ark
+[13:50:25] [Server thread/INFO]: refkunMC issued server command: /tell en server no se si se puede
+[13:52:09] [Server thread/INFO]: Rixenta issued server command: /tpa refkunMC
+[13:52:12] [Server thread/INFO]: refkunMC issued server command: /tpaccept
+[13:52:17] [Server thread/INFO]: ADL33R issued server command: /home casa
+[13:55:00] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:55:25] [Async Chat Thread - #24/INFO]: [Not Secure] <rafaxtpa> refkun
+[13:55:27] [Async Chat Thread - #25/INFO]: [Not Secure] <refkunMC> q
+[13:55:34] [Async Chat Thread - #24/INFO]: [Not Secure] <refkunMC> q
+[13:55:35] [Async Chat Thread - #25/INFO]: [Not Secure] <rafaxtpa> manda tpa que te quiero enseñar una obra de arte
+[13:55:37] [Async Chat Thread - #24/INFO]: [Not Secure] <refkunMC> no
+[13:55:46] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
+[13:55:48] [Async Chat Thread - #24/INFO]: [Not Secure] <refkunMC> comparte pantalla
+[13:55:54] [Async Chat Thread - #26/INFO]: [Not Secure] <rafaxtpa> que no es nada malo
+[13:55:56] [Async Chat Thread - #24/INFO]: [Not Secure] <rafaxtpa> que te lo diga stefan

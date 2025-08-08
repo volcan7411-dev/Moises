@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754616742319
+  logout: 1754661006923
   login: 1754653926818
 money: '0'
 last-account-name: Magma852
@@ -144,8 +144,8 @@ lastlocation:
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 67.5
-  y: 19.0
-  z: -576.5
-  yaw: -1.2062451839447021
-  pitch: 15.665367126464844
+  x: -146.6445953476213
+  y: 242.0
+  z: -1493.3461985463787
+  yaw: 2.852283239364624
+  pitch: 20.123403549194336
