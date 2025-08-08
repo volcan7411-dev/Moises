@@ -447,3 +447,17 @@
 [13:32:01] [Server thread/INFO]: rafaxtpa issued server command: /sethome nether
 [13:32:25] [Server thread/INFO]: rafaxtpa was doomed to fall by Ghast
 [13:32:29] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:36:15] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[13:36:15] [Server thread/INFO]: refkunMC left the game
+[13:36:16] [User Authenticator #11/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[13:36:16] [Server thread/INFO]: refkunMC joined the game
+[13:36:16] [Server thread/INFO]: refkunMC[/127.236.40.244:50815] logged in with entity id 148188 at ([world]487.91403509778644, 62.07326432466506, 6536.961088814672)
+[13:37:30] [Server thread/INFO]: Villager EntityVillager['Villager'/134964, uuid='4c9e605a-4b79-436b-ae42-279cae863120', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=150708, v=true] died, message: 'Villager was squished too much'
+[13:38:38] [Server thread/INFO]: ADL33R issued server command: /home megacueva
+[13:38:48] [Async Chat Thread - #20/INFO]: [Not Secure] <volcan741> zzz
+[13:38:50] [Server thread/INFO]: ADL33R issued server command: /home casa
+[13:39:35] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:39:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:45:14] [User Authenticator #12/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
+[13:45:14] [Server thread/INFO]: Rixenta joined the game
+[13:45:14] [Server thread/INFO]: Rixenta[/127.195.114.124:42487] logged in with entity id 159222 at ([world]-2686.448565313455, 62.07326432466506, -6608.544213357895)

@@ -1164,6 +1164,7 @@
       "minecraft:spider": "2025-08-07 19:53:15 +0000",
       "minecraft:creeper": "2025-08-08 12:09:04 +0000",
       "minecraft:zombified_piglin": "2025-08-08 12:52:06 +0000",
+      "minecraft:enderman": "2025-08-08 13:41:31 +0000",
       "minecraft:zombie": "2025-08-07 16:32:57 +0000",
       "minecraft:drowned": "2025-08-08 10:24:05 +0000"
     },
@@ -1970,6 +1971,48 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-08 12:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-08 13:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-08 13:39:09 +0000"
     },
     "done": true
   },
