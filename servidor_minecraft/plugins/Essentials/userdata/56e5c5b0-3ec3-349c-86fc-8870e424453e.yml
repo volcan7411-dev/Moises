@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754661300773
+  lastteleport: 1754661856250
   lastheal: 0
   mute: 0
   jail: 0
@@ -53,54 +53,6 @@ homes:
     z: 365.6862434274402
     yaw: -17.937744140625
     pitch: 22.840505599975586
-  comida:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1471.3274305265745
-    y: 75.0
-    z: -406.4302875637604
-    yaw: 80.5543212890625
-    pitch: 27.275955200195312
-  vaca:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1469.6862388043974
-    y: 76.0
-    z: -409.5242431005401
-    yaw: 80.5543212890625
-    pitch: 27.275955200195312
-  oveja:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1464.5187795974996
-    y: 77.0
-    z: -410.91961345692783
-    yaw: 80.5543212890625
-    pitch: 27.275955200195312
-  aldeanos:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1406.9578804050611
-    y: 70.0
-    z: -306.6823624152569
-    yaw: 56.271026611328125
-    pitch: 14.762073516845703
-  caca:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1395.3054967930582
-    y: 69.0
-    z: -270.5954873062453
-    yaw: -88.1123046875
-    pitch: 14.46048641204834
-  stefan:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 1404.5361617740155
-    y: 71.0
-    z: -293.8032158030128
-    yaw: 3.0464043617248535
-    pitch: 20.41628646850586
   villager:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -120,8 +72,8 @@ homes:
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 66.28870512506306
+  x: 64.76249998807907
   y: 63.0
-  z: -192.08213409932537
-  yaw: 137.712158203125
-  pitch: 35.22029495239258
+  z: -197.37432873081042
+  yaw: -33.90753173828125
+  pitch: 31.51277732849121
