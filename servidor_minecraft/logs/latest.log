@@ -1,51 +1,90 @@
-[00:01:18] [Server thread/INFO]: Magma852 issued server command: /tpa volcan741
-[00:01:20] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[00:01:36] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:02:05] [Async Chat Thread - #22/INFO]: [Not Secure] <volcan741> zz
-[00:07:52] [Server thread/INFO]: volcan741 issued server command: /save-all
-[00:07:53] [Server thread/INFO]: [volcan741: Saved the game]
-[00:11:09] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[00:11:20] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:12:53] [Async Chat Thread - #24/INFO]: [Not Secure] <volcan741> zzz
-[00:21:45] [Server thread/INFO]: volcan741 issued server command: /tp Magma852
-[00:22:11] [Server thread/INFO]: volcan741 issued server command: /home casa
-[00:31:37] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[00:31:55] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:33:18] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:36:09] [Server thread/INFO]: volcan741 issued server command: /home casa
-[00:38:51] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[00:39:12] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:40:53] [Server thread/INFO]: volcan741 issued server command: /save-all
-[00:40:54] [Server thread/INFO]: [volcan741: Saved the game]
-[00:43:49] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[00:44:01] [Server thread/INFO]: Magma852 issued server command: /home forest
-[00:44:28] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[00:44:32] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[00:44:37] [Server thread/INFO]: Magma852 issued server command: /home ca_a
-[00:45:38] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:55:44] [Server thread/INFO]: Magma852 issued server command: /home forest
-[00:57:11] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:58:46] [Server thread/INFO]: Magma852 issued server command: /home forest
-[00:58:52] [Server thread/INFO]: Magma852 issued server command: /home home
-[00:59:04] [Server thread/INFO]: Magma852 issued server command: /home forest
-[01:01:24] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:01:42] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:02:01] [Server thread/INFO]: Magma852 issued server command: /home forest
-[01:04:11] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:04:32] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:04:52] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:05:11] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:05:34] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:06:11] [Server thread/INFO]: Magma852 issued server command: /home forest
-[01:08:09] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:08:30] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:08:56] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:09:23] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:09:27] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:09:36] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:16:33] [Server thread/INFO]: volcan741 issued server command: /home casavlad
-[01:17:34] [Server thread/INFO]: volcan741 issued server command: /home casa
-[01:20:05] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:20:16] [Server thread/INFO]: Magma852 issued server command: /home home
-[01:21:51] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[01:22:05] [Server thread/INFO]: Magma852 issued server command: /home home
+[09:07:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:07:52] [ServerMain/INFO]: Loaded 7 recipes
+[09:07:53] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[09:07:53] [Server thread/INFO]: Loading properties
+[09:07:53] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[09:07:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:07:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:07:53] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[09:07:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[09:07:53] [Server thread/INFO]: Default game type: SURVIVAL
+[09:07:53] [Server thread/INFO]: Generating keypair
+[09:07:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:07:54] [Server thread/INFO]: Using epoll channel type
+[09:07:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:07:54] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[09:07:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
+[09:07:54] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
+[09:07:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:07:54] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
+[09:07:55] [Server thread/INFO]:         __    
+[09:07:55] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
+[09:07:55] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:07:55] [Server thread/INFO]: 
+[09:07:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:07:55] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:07:55] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:07:55] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:07:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1269ms)
+[09:07:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:07:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:07:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:07:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:07:56] [Server thread/INFO]: Preparing level "world"
+[09:07:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:07:57] [Server thread/INFO]: Time elapsed: 330 ms
+[09:07:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:07:57] [Server thread/INFO]: Time elapsed: 97 ms
+[09:07:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:07:57] [Server thread/INFO]: Time elapsed: 58 ms
+[09:07:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
+[09:07:58] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[09:07:58] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[09:07:58] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[09:07:58] [Server thread/INFO]: [Essentials] Using locale en
+[09:07:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:07:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:07:58] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[09:07:58] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[09:07:58] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[09:07:59] [Server thread/INFO]: Running delayed init tasks
+[09:07:59] [Server thread/INFO]: Done (6.014s)! For help, type "help"
+[09:07:59] [Server thread/INFO]: Timings Reset
+[09:07:59] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[09:07:59] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:07:59] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
+[09:07:59] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[09:07:59] [Server thread/INFO]: rafaxtpa joined the game
+[09:07:59] [Server thread/INFO]: rafaxtpa[/127.92.134.86:51125] logged in with entity id 2 at ([world]48.284156194210446, 72.0, -327.3644466606254)
+[09:08:04] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:08:04] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
+[09:08:05] [Server thread/INFO]: rafaxtpa left the game
+[09:08:05] [Server thread/INFO]: rafaxtpa joined the game
+[09:08:05] [Server thread/INFO]: rafaxtpa[/127.92.134.86:48533] logged in with entity id 280 at ([world]48.284156194210446, 72.0, -327.3644466606254)
+[09:09:08] [User Authenticator #1/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[09:09:08] [Server thread/INFO]: volcan741 joined the game
+[09:09:08] [Server thread/INFO]: volcan741[/127.69.28.83:60101] logged in with entity id 856 at ([world]1383.2414936598088, 66.0, -245.03746917388978)
+[09:09:59] [User Authenticator #1/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:09:59] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
+[09:09:59] [Server thread/INFO]: rafaxtpa left the game
+[09:09:59] [Server thread/INFO]: rafaxtpa joined the game
+[09:09:59] [Server thread/INFO]: rafaxtpa[/127.92.134.86:41969] logged in with entity id 1634 at ([world]48.125466830422575, 72.0, -327.0087042347865)
+[09:10:51] [Async Chat Thread - #1/INFO]: [Not Secure] <volcan741> zzz
+[09:11:04] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
+[09:12:06] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
+[09:12:22] [Server thread/INFO]: rafaxtpa lost connection: Timed out
+[09:12:22] [Server thread/INFO]: rafaxtpa left the game
+[09:12:30] [User Authenticator #2/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:12:30] [Server thread/INFO]: rafaxtpa joined the game
+[09:12:30] [Server thread/INFO]: rafaxtpa[/127.92.134.86:50149] logged in with entity id 2750 at ([world]53.75379772207004, 64.3415999853611, -193.0894477701483)
+[09:15:13] [Server thread/WARN]: volcan741 moved wrongly!
+[09:15:37] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[09:17:07] [User Authenticator #3/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[09:17:07] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
+[09:17:07] [Server thread/INFO]: rafaxtpa left the game
+[09:17:07] [Server thread/INFO]: rafaxtpa joined the game
+[09:17:07] [Server thread/INFO]: rafaxtpa[/127.92.134.86:58959] logged in with entity id 5092 at ([world]221.06022992773134, 57.0, 366.4924267052832)
+[09:17:17] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[09:17:22] [Server thread/INFO]: rafaxtpa issued server command: /home comida
