@@ -71,3 +71,13 @@
 [11:27:02] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
 [11:27:27] [Server thread/INFO]: rafaxtpa issued server command: /home casa
 [11:27:33] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
+[11:29:14] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:29:17] [Server thread/INFO]: volcan741 issued server command: /tp rafaxtpa
+[11:30:32] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R
+[11:30:44] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:31:33] [Server thread/INFO]: rafaxtpa issued server command: /home comida
+[11:31:56] [Server thread/INFO]: Villager EntityVillager['Villager'/298, uuid='829003d3-4349-46a8-a53f-3373476c5f9d', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=259922, v=true] died, message: 'Villager was squished too much'
+[11:36:39] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:36:55] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[11:37:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[11:38:24] [Server thread/INFO]: rafaxtpa has made the advancement [A Seedy Place]
