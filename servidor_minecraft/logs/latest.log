@@ -281,3 +281,34 @@
 [12:40:20] [Server thread/INFO]: refkunMC issued server command: /tpa Rixenta
 [12:40:33] [Server thread/INFO]: Magma852 issued server command: /home home
 [12:40:36] [Server thread/INFO]: Rixenta issued server command: /tpaccept
+[12:41:33] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[12:42:04] [Server thread/INFO]: Magma852 issued server command: /home aldea2
+[12:42:27] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:43:03] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:43:21] [Server thread/INFO]: refkunMC lost connection: Disconnected
+[12:43:21] [Server thread/INFO]: refkunMC left the game
+[12:43:23] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:43:40] [User Authenticator #5/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[12:43:40] [Server thread/INFO]: refkunMC joined the game
+[12:43:40] [Server thread/INFO]: refkunMC[/127.236.40.244:43087] logged in with entity id 65118 at ([world]-198.69999998807907, 80.0, -3359.3935090330524)
+[12:43:40] [Server thread/INFO]: rafaxtpa issued server command: /home nether
+[12:44:59] [Server thread/INFO]: rafaxtpa fell from a high place
+[12:45:04] [Server thread/INFO]: rafaxtpa issued server command: /home nether 2
+[12:45:09] [Server thread/INFO]: rafaxtpa issued server command: /home nether2
+[12:45:16] [Server thread/INFO]: refkunMC has made the advancement [Sneak 100]
+[12:45:59] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[12:46:01] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
+[12:47:17] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:47:39] [Tuinity Chunk System Worker #0/WARN]: Skipping Entity with id minecraft:camel
+[12:47:51] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
+[12:47:51] [Tuinity Chunk System Worker #0/WARN]: Skipping Entity with id minecraft:camel
+[12:48:39] [Server thread/INFO]: refkunMC issued server command: /tpa Rixenta
+[12:49:08] [Server thread/INFO]: Rixenta issued server command: /tpaccept
+[12:51:03] [User Authenticator #6/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[12:51:03] [Server thread/INFO]: ADL33R joined the game
+[12:51:03] [Server thread/INFO]: ADL33R[/127.228.144.141:48871] logged in with entity id 77350 at ([world]1417.074999988079, 73.0, -305.12172800595425)
+[12:51:16] [Server thread/INFO]: refkunMC issued server command: /tpa Rixenta
+[12:51:17] [Server thread/INFO]: Magma852 issued server command: /sethome granjaexp
+[12:51:19] [Server thread/INFO]: Rixenta issued server command: /tpaccept
+[12:51:21] [Server thread/INFO]: Magma852 issued server command: /home casaderef
+[12:51:26] [Server thread/INFO]: Magma852 issued server command: /home home
