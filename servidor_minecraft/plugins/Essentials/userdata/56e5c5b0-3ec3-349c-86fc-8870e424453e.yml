@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754646487562
+  lastteleport: 1754652447811
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754646586488
-  login: 1754646478275
+  logout: 1754649245902
+  login: 1754652335759
 money: '0'
 last-account-name: rafaxtpa
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 43.30000001192093
-  y: 72.0
-  z: -328.9579490423906
-  yaw: 77.36662292480469
-  pitch: 12.815926551818848
+  x: 42.268963836863016
+  y: 77.0
+  z: -326.8087188929561
+  yaw: -90.75592041015625
+  pitch: 49.13963317871094
 homes:
   casa:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -144,8 +144,8 @@ homes:
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 218.87941503496066
-  y: 57.0
-  z: 368.7606153186351
-  yaw: -103.84793853759766
-  pitch: 13.793594360351562
+  x: 1418.8527126221134
+  y: 68.9375
+  z: -297.42111168745055
+  yaw: 95.44134521484375
+  pitch: 52.456871032714844

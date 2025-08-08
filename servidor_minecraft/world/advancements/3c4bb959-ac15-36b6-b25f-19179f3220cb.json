@@ -1161,7 +1161,8 @@
       "minecraft:skeleton": "2025-08-07 14:25:25 +0000",
       "minecraft:hoglin": "2025-08-07 16:51:20 +0000",
       "minecraft:spider": "2025-08-07 19:53:15 +0000",
-      "minecraft:zombie": "2025-08-07 16:32:57 +0000"
+      "minecraft:zombie": "2025-08-07 16:32:57 +0000",
+      "minecraft:drowned": "2025-08-08 10:24:05 +0000"
     },
     "done": false
   },
@@ -1750,6 +1751,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-07 19:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-08 10:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-08 10:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-08 10:45:47 +0000"
     },
     "done": true
   },

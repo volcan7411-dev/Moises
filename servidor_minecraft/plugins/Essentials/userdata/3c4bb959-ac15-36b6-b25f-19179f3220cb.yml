@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754597440830
+  lastteleport: 1754651929965
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1754597957423
-  login: 1754597659911
+  login: 1754651880228
 money: '0'
 last-account-name: ADL33R
 logoutlocation:
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: -12.942944355038602
-  y: 79.0
-  z: -53.40479370082916
-  yaw: 53.85441589355469
-  pitch: 36.450164794921875
+  x: 1363.2091688639616
+  y: 76.0
+  z: -145.51716976636595
+  yaw: -66.9665298461914
+  pitch: 20.25006675720215
 homes:
   casa:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
