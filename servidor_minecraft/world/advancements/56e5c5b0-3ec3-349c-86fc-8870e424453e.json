@@ -840,6 +840,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-08 12:12:58 +0000",
       "minecraft:skeleton": "2025-08-07 15:06:25 +0000",
+      "minecraft:creeper": "2025-08-08 13:19:13 +0000",
       "minecraft:enderman": "2025-08-07 14:54:13 +0000",
       "minecraft:zombie": "2025-08-07 14:40:34 +0000"
     },

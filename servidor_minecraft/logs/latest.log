@@ -400,3 +400,18 @@
 [13:11:26] [Server thread/INFO]: rafaxtpa issued server command: /delhome cueva2
 [13:11:28] [Server thread/INFO]: rafaxtpa issued server command: /delhome cueva3
 [13:11:34] [Server thread/INFO]: rafaxtpa issued server command: /delhome aldea
+[13:13:30] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:14:28] [Server thread/INFO]: rafaxtpa issued server command: /home nether2
+[13:15:01] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:15:11] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:15:19] [Server thread/INFO]: rafaxtpa issued server command: /home nether2
+[13:16:23] [Async Chat Thread - #16/INFO]: [Not Secure] <volcan741> alguien tiene abeto
+[13:16:37] [Server thread/INFO]: rafaxtpa fell from a high place
+[13:16:43] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[13:18:22] [User Authenticator #9/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
+[13:18:22] [Server thread/INFO]: refkunMC joined the game
+[13:18:22] [Server thread/INFO]: refkunMC[/127.236.40.244:50127] logged in with entity id 116890 at ([world]821.2524760592178, 61.256585995714374, 3058.6733427400623)
+[13:19:05] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[13:21:32] [Server thread/INFO]: volcan741 issued server command: /save-all
+[13:21:34] [Server thread/INFO]: [volcan741: Saved the game]
+[13:22:07] [Server thread/INFO]: Villager EntityVillager['Villager'/305, uuid='5595415e-c2d8-4146-843b-82d7327e0208', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=299797, v=true] died, message: 'Villager was squished too much'
