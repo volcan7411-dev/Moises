@@ -1,1045 +1,258 @@
-[14:12:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:12:14] [ServerMain/INFO]: Loaded 7 recipes
-[14:12:15] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[14:12:15] [Server thread/INFO]: Loading properties
-[14:12:15] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
-[14:12:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:12:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:12:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[10:14:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:14:33] [ServerMain/INFO]: Loaded 7 recipes
+[10:14:34] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[10:14:34] [Server thread/INFO]: Loading properties
+[10:14:34] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[10:14:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:14:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:14:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[14:12:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[14:12:15] [Server thread/INFO]: Default game type: SURVIVAL
-[14:12:15] [Server thread/INFO]: Generating keypair
-[14:12:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:12:15] [Server thread/INFO]: Using epoll channel type
-[14:12:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:12:15] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[14:12:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
-[14:12:16] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
-[14:12:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:12:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
-[14:12:16] [Server thread/INFO]:         __    
-[14:12:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
-[14:12:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:12:16] [Server thread/INFO]: 
-[14:12:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:12:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:12:17] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:12:17] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:12:17] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1405ms)
-[14:12:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:12:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:12:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:12:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:12:17] [Server thread/INFO]: Preparing level "world"
-[14:12:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:12:19] [Server thread/INFO]: Time elapsed: 264 ms
-[14:12:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:12:19] [Server thread/INFO]: Time elapsed: 85 ms
-[14:12:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:12:19] [Server thread/INFO]: Time elapsed: 67 ms
-[14:12:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
-[14:12:20] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[14:12:20] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[14:12:20] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[14:12:20] [Server thread/INFO]: [Essentials] Using locale en
-[14:12:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[14:12:21] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[14:12:21] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[14:12:21] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[14:12:21] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[14:12:21] [Server thread/INFO]: Running delayed init tasks
-[14:12:21] [Server thread/INFO]: Done (6.073s)! For help, type "help"
-[14:12:21] [Server thread/INFO]: Timings Reset
-[14:12:21] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[14:12:21] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
-[14:12:21] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[14:12:26] [User Authenticator #0/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
-[14:12:26] [Server thread/INFO]: volcan741 joined the game
-[14:12:26] [Server thread/INFO]: volcan741[/127.69.28.83:49459] logged in with entity id 197 at ([world]1398.8721301335972, 66.0, -243.49840569435975)
-[14:13:00] [User Authenticator #0/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[14:13:00] [Server thread/INFO]: refkunMC joined the game
-[14:13:00] [Server thread/INFO]: refkunMC[/127.236.40.244:37741] logged in with entity id 817 at ([world]-4449.034854065194, 61.99486432313918, 4073.984520716168)
-[14:13:30] [User Authenticator #0/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[14:13:30] [Server thread/INFO]: ADL33R joined the game
-[14:13:30] [Server thread/INFO]: ADL33R[/127.228.144.141:41153] logged in with entity id 1910 at ([world]1415.0635612717754, 73.0, -299.35080794721415)
-[14:14:13] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[14:14:13] [Server thread/INFO]: rafaxtpa joined the game
-[14:14:13] [Server thread/INFO]: rafaxtpa[/127.92.134.86:35105] logged in with entity id 2577 at ([world]-4280.404048873506, 61.99486432313919, 4646.525850834318)
-[14:14:46] [User Authenticator #0/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
-[14:14:46] [Server thread/INFO]: Rixenta joined the game
-[14:14:46] [Server thread/INFO]: Rixenta[/127.195.114.124:36805] logged in with entity id 4003 at ([world]-1658.0705770834202, 63.949070787519254, 7847.924449473559)
-[14:14:51] [Server thread/INFO]: Rixenta lost connection: Disconnected
-[14:14:51] [Server thread/INFO]: Rixenta left the game
-[14:15:31] [Server thread/INFO]: ADL33R issued server command: /home megacueva
-[14:15:52] [Server thread/INFO]: ADL33R issued server command: /home casa
-[14:19:47] [Server thread/INFO]: Villager EntityVillager['Villager'/9623, uuid='7bbf2767-f010-46a4-8059-d37873826474', l='ServerLevel[world]', x=-3522.70, y=125.00, z=3001.50, cpos=[-221, 187], tl=1600, v=true] died, message: 'Villager froze to death'
-[14:20:11] [Server thread/INFO]: rafaxtpa issued server command: /tpa refkunMC
-[14:20:13] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[14:21:04] [Server thread/INFO]: ADL33R issued server command: /home megacueva
-[14:23:18] [Server thread/INFO]: Villager EntityVillager['Villager'/323, uuid='c1161426-dac7-42a1-9729-9476ea016de9', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=212227, v=true] died, message: 'Villager was squished too much'
-[14:25:25] [Server thread/INFO]: rafaxtpa has made the advancement [Best Friends Forever]
-[14:26:52] [Server thread/INFO]: Villager EntityVillager['Villager'/320, uuid='54172db5-1f8a-48b9-92c0-617d44890bb8', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=237678, v=true] died, message: 'Villager was squished too much'
-[14:27:09] [Server thread/INFO]: rafaxtpa issued server command: /sethome teta
-[14:27:49] [Async Chat Thread - #1/INFO]: [Not Secure] <refkunMC> dont sleep
-[14:27:52] [Async Chat Thread - #0/INFO]: [Not Secure] <volcan741> si
-[14:28:58] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[14:30:09] [Server thread/INFO]: refkunMC issued server command: /tpa rafaxtpa
-[14:30:12] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[14:30:37] [Server thread/INFO]: volcan741 issued server command: /tp refkunMC
-[14:30:50] [Server thread/INFO]: volcan741 issued server command: /home casa
-[14:30:57] [Server thread/INFO]: volcan741 issued server command: /eremhome casa
-[14:31:06] [Server thread/INFO]: volcan741 issued server command: /sethome casa
-[14:31:35] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[14:32:21] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[14:35:27] [Server thread/INFO]: Villager EntityVillager['Villager'/18275, uuid='a3a9a7b0-2a1e-4dd4-90f4-7033dee66425', l='ServerLevel[world]', x=1360.15, y=68.00, z=-317.85, cpos=[85, -20], tl=24215, v=true] died, message: 'Villager suffocated in a wall'
-[14:36:29] [Server thread/INFO]: ADL33R burned to death
-[14:40:28] [Server thread/INFO]: volcan741 issued server command: /home casa
-[14:40:44] [Server thread/INFO]: Villager EntityVillager['Villager'/18257, uuid='58d74a46-ed92-40a5-9562-f682e1e8cb62', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=208006, v=true] died, message: 'Villager was squished too much'
-[14:41:33] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> zzz
-[14:41:36] [Async Chat Thread - #3/INFO]: [Not Secure] <volcan741> besugo
-[14:43:03] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva2
-[14:46:57] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[14:47:09] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[14:48:14] [Server thread/INFO]: ADL33R fell from a high place
-[14:48:15] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[14:48:20] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[14:48:53] [Server thread/INFO]: ADL33R issued server command: /home megacueva2
-[14:49:30] [Server thread/INFO]: refkunMC issued server command: /sethome base
-[14:49:33] [Server thread/INFO]: ADL33R issued server command: /delhome megacueva2
-[14:49:39] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva2
-[14:50:53] [Async Chat Thread - #4/INFO]: [Not Secure] <refkunMC> &/
-[14:50:59] [Async Chat Thread - #5/INFO]: [Not Secure] <rafaxtpa> niga
-[14:51:12] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[14:53:10] [Server thread/INFO]: refkunMC issued server command: /home base
-[14:53:20] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[14:53:46] [Server thread/INFO]: refkunMC issued server command: /home base
-[14:53:47] [Server thread/INFO]: ADL33R was blown up by Creeper
-[14:56:15] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[14:56:19] [Server thread/INFO]: rafaxtpa issued server command: /tpa refkunMC
-[14:56:24] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[14:56:41] [Server thread/INFO]: refkunMC fell from a high place
-[14:57:50] [Server thread/INFO]: volcan741 issued server command: /home casavlad
-[14:58:09] [Server thread/INFO]: volcan741 issued server command: /home casa
-[14:58:14] [Server thread/INFO]: volcan741 issued server command: /invsee
-[14:58:18] [Server thread/INFO]: volcan741 issued server command: /invsee refkunMC
-[15:01:59] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[15:02:39] [Server thread/INFO]: ADL33R issued server command: /home megacueva2
-[15:03:20] [Server thread/INFO]: volcan741 issued server command: /invsee
-[15:03:26] [Server thread/INFO]: volcan741 issued server command: /invsee refkunMC
-[15:04:21] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[15:04:21] [Server thread/INFO]: Villager EntityVillager['Villager'/18264, uuid='6663a52d-af1f-42a8-89d2-fe785b2551f6', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.30, cpos=[85, -20], tl=389269, v=true] died, message: 'Villager was squished too much'
-[15:04:23] [Server thread/INFO]: refkunMC issued server command: /home base
-[15:04:28] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[15:04:30] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[15:04:42] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[15:04:46] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[15:04:52] [Server thread/INFO]: volcan741 issued server command: /invsee refkunMC
-[15:04:52] [Server thread/INFO]: refkunMC issued server command: /home base
-[15:06:38] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[15:06:49] [Server thread/INFO]: refkunMC issued server command: /home base
-[15:08:33] [User Authenticator #1/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
-[15:08:33] [Server thread/INFO]: Rixenta joined the game
-[15:08:33] [Server thread/INFO]: Rixenta[/127.195.114.124:57517] logged in with entity id 39286 at ([world]-1658.0705770834202, 63.0, 7847.924449473559)
-[15:08:43] [Server thread/INFO]: Rixenta issued server command: /tpa refkunMC
-[15:08:46] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[15:09:35] [Server thread/INFO]: Rixenta issued server command: /home caca
-[15:10:53] [Server thread/INFO]: Villager EntityVillager['Librarian'/18325, uuid='5dab743a-a7e3-4231-b503-51b0298e4919', l='ServerLevel[world]', x=1387.50, y=62.95, z=-247.30, cpos=[86, -16], tl=934868, v=true] died, message: 'Librarian drowned'
-[15:11:09] [Server thread/INFO]: Villager EntityVillager['Villager'/18255, uuid='38b6ba77-ba45-4cde-8ad2-d90d9eaf88a4', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=107440, v=true] died, message: 'Villager was squished too much'
-[15:11:13] [Server thread/INFO]: Rixenta issued server command: /tpa refkunMC
-[15:11:15] [Server thread/INFO]: refkunMC issued server command: /tpaccpet
-[15:11:19] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[15:11:23] [Server thread/INFO]: ADL33R issued server command: /home casa
-[15:21:07] [Server thread/INFO]: rafaxtpa issued server command: /sethome cañá
-[15:21:10] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[15:21:20] [Server thread/INFO]: rafaxtpa issued server command: /home cañá
-[15:21:24] [Server thread/INFO]: rafaxtpa issued server command: /home caña
-[15:21:30] [Server thread/INFO]: rafaxtpa issued server command: /home ca__
-[15:21:33] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[15:24:20] [Server thread/INFO]: ADL33R issued server command: /home casa
-[15:27:10] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[15:27:46] [User Authenticator #2/INFO]: UUID of player Magma852 is 9916defb-2c4d-3f0a-9e17-cb49a881c906
-[15:27:46] [Server thread/INFO]: Magma852 joined the game
-[15:27:46] [Server thread/INFO]: Magma852[/127.127.242.163:37339] logged in with entity id 46426 at ([world]-146.6445953476213, 242.0, -1493.3461985463787)
-[15:27:49] [Server thread/INFO]: ADL33R issued server command: /tpa refkunMC
-[15:28:45] [Server thread/INFO]: volcan741 issued server command: /home refkunMC:base
-[15:28:50] [Server thread/INFO]: volcan741 issued server command: /home refkunMC:basecomunitaria
-[15:28:56] [Server thread/INFO]: volcan741 issued server command: /eremhome refkunMC:basecomunitaria
-[15:29:13] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:caca+
-[15:29:16] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:caca
-[15:29:24] [Server thread/INFO]: volcan741 issued server command: /eremhome Rixenta:caca
-[15:29:28] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:home
-[15:29:34] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:bed
-[15:29:38] [Server thread/INFO]: volcan741 issued server command: /home casa
-[15:29:41] [Server thread/INFO]: Magma852 issued server command: /home home
-[15:29:47] [Server thread/INFO]: ADL33R issued server command: /tpa Magma852
-[15:29:55] [Server thread/INFO]: Magma852 issued server command: /tpadeny
-[15:30:00] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[15:30:10] [Server thread/INFO]: Magma852 issued server command: /tpa ADL33R
-[15:30:13] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[15:30:28] [Server thread/INFO]: Magma852 issued server command: /home home
-[15:31:17] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[15:31:45] [Server thread/INFO]: Magma852 issued server command: /home home
-[15:32:05] [Server thread/INFO]: Magma852 issued server command: /home forest
-[15:33:04] [User Authenticator #3/INFO]: UUID of player Mario7188371628 is 415e5161-2ab5-3f94-8d3b-3c4c39a1f004
-[15:33:05] [Server thread/INFO]: Mario7188371628 joined the game
-[15:33:05] [Server thread/INFO]: Mario7188371628[/127.55.254.63:44389] logged in with entity id 51726 at ([world]132.83696894120675, 63.0, -94.46308069729247)
-[15:33:43] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
-[15:33:43] [Server thread/INFO]: rafaxtpa left the game
-[15:34:09] [Server thread/INFO]: ADL33R issued server command: /delhome megacueva2
-[15:34:16] [Server thread/INFO]: ADL33R issued server command: /delhome vic
-[15:34:24] [Server thread/INFO]: ADL33R issued server command: /delhome megacueva
-[15:35:03] [Server thread/INFO]: Mario7188371628 lost connection: Disconnected
-[15:35:03] [Server thread/INFO]: Mario7188371628 left the game
-[15:35:15] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[15:35:21] [Server thread/INFO]: Villager EntityVillager['Villager'/18259, uuid='bcec9574-38c4-409c-86bc-f46ad0345341', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=122500, v=true] died, message: 'Villager was squished too much'
-[15:35:34] [Server thread/INFO]: Magma852 issued server command: /home aldea2ç
-[15:35:36] [Server thread/INFO]: Magma852 issued server command: /home aldea2
-[15:35:44] [Server thread/INFO]: Magma852 issued server command: /home home
-[15:35:51] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[15:36:35] [Server thread/INFO]: Magma852 issued server command: /home forest
-[15:36:46] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[15:36:53] [Server thread/INFO]: Magma852 issued server command: /home home
-[15:37:11] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[15:38:45] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva
-[15:38:55] [User Authenticator #4/INFO]: UUID of player Mario7188371628 is 415e5161-2ab5-3f94-8d3b-3c4c39a1f004
-[15:38:55] [Server thread/INFO]: Mario7188371628 joined the game
-[15:38:55] [Server thread/INFO]: Mario7188371628[/127.55.254.63:47423] logged in with entity id 60529 at ([world]146.20806251587362, 64.0, -76.96973100264415)
-[15:39:11] [Server thread/INFO]: Mario7188371628 issued server command: /tpa Magma852
-[15:39:12] [Server thread/INFO]: Rixenta issued server command: /sethome verdadera
-[15:39:16] [Server thread/INFO]: Rixenta issued server command: /home caca
-[15:39:27] [Server thread/INFO]: Rixenta issued server command: /home
-[15:39:30] [Server thread/INFO]: Rixenta issued server command: /home
-[15:39:34] [Server thread/INFO]: Rixenta issued server command: /home
-[15:39:54] [Server thread/INFO]: Rixenta issued server command: /home caca
-[15:41:43] [Server thread/INFO]: ADL33R has made the advancement [Take Aim]
-[15:48:37] [Server thread/INFO]: ADL33R issued server command: /sethome megacueva2
-[15:50:11] [Server thread/INFO]: Villager EntityVillager['Villager'/55300, uuid='6d1d106a-54a9-4066-ae49-855ffc4dce2b', l='ServerLevel[world]', x=631.30, y=53.05, z=-490.98, cpos=[39, -31], tl=182491, v=true] died, message: 'Villager drowned'
-[15:50:23] [Server thread/INFO]: refkunMC issued server command: /tpa volcan741
-[15:51:23] [Server thread/INFO]: Mario7188371628 has made the advancement [Stone Age]
-[15:51:34] [Server thread/INFO]: Mario7188371628 has made the advancement [Getting an Upgrade]
-[15:52:02] [Server thread/INFO]: ADL33R issued server command: /home casa
-[15:52:41] [Server thread/INFO]: refkunMC issued server command: /tpa volcan741
-[15:53:41] [Server thread/INFO]: refkunMC issued server command: /home basecomunitaria
-[15:53:52] [Server thread/INFO]: refkunMC issued server command: /tpa ADL33R
-[15:54:00] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[15:54:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Mario7188371628> gamma 5
-[15:55:22] [Server thread/INFO]: ADL33R was slain by refkunMC
-[15:56:12] [Server thread/INFO]: Mario7188371628 has made the advancement [Monster Hunter]
-[15:56:24] [Async Chat Thread - #8/INFO]: [Not Secure] <volcan741> gama
-[15:56:31] [Async Chat Thread - #9/INFO]: [Not Secure] <volcan741> xray
-[15:59:55] [Server thread/INFO]: refkunMC issued server command: /home base
-[16:01:04] [Server thread/INFO]: ADL33R issued server command: /tpa refkunMC
-[16:01:07] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[16:02:18] [Server thread/INFO]: ADL33R was slain by refkunMC
-[16:02:23] [Server thread/INFO]: Villager EntityVillager['Villager'/80598, uuid='51e379a6-05f5-46f1-b8df-fcc1398be2a7', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.30, cpos=[85, -20], tl=347170, v=true] died, message: 'Villager was squished too much'
-[16:02:34] [Server thread/INFO]: volcan741 issued server command: /home csaa
-[16:02:36] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:03:32] [Server thread/INFO]: Magma852 issued server command: /home forest
-[16:04:27] [Server thread/INFO]: Rixenta was slain by refkunMC
-[16:04:37] [Server thread/INFO]: Mario7188371628 has made the advancement [Acquire Hardware]
-[16:04:55] [Server thread/INFO]: Mario7188371628 issued server command: /tpa Magma852
-[16:05:00] [Server thread/INFO]: Magma852 issued server command: /tpaccept
-[16:05:17] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[16:05:21] [Server thread/INFO]: volcan741 issued server command: /tp Magma852
-[16:05:31] [Server thread/INFO]: volcan741 issued server command: /tp refkunMC
-[16:05:42] [Server thread/INFO]: refkunMC lost connection: Disconnected
-[16:05:42] [Server thread/INFO]: refkunMC left the game
-[16:05:46] [User Authenticator #5/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[16:05:46] [Server thread/INFO]: refkunMC joined the game
-[16:05:46] [Server thread/INFO]: refkunMC[/127.236.40.244:44603] logged in with entity id 82957 at ([world]-3333.044656294707, 72.0, 3653.466846756615)
-[16:06:01] [Server thread/INFO]: volcan741 issued server command: /tp Mario7188371628
-[16:06:06] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> mario te veo
-[16:06:15] [Server thread/INFO]: Villager EntityVillager['Villager'/80609, uuid='b688f421-4756-44d6-9ba5-5539b787420d', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.30, cpos=[85, -20], tl=417632, v=true] died, message: 'Villager was squished too much'
-[16:06:24] [Server thread/INFO]: Rixenta issued server command: /home
-[16:06:29] [Server thread/INFO]: Rixenta issued server command: /home verdadera
-[16:06:32] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:06:33] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[16:06:34] [Server thread/INFO]: refkunMC issued server command: /home base
-[16:08:07] [Server thread/INFO]: Rixenta was shot by refkunMC
-[16:09:27] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:09:41] [Server thread/INFO]: Mario7188371628 issued server command: /tpa Magma852
-[16:09:45] [Server thread/INFO]: Magma852 issued server command: /tpaccept
-[16:09:53] [Server thread/INFO]: refkunMC was slain by Rixenta
-[16:09:54] [Server thread/INFO]: Mario7188371628 has made the advancement [Cover Me with Diamonds]
-[16:10:21] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:10:24] [Server thread/INFO]: Magma852 issued server command: /home forest
-[16:10:42] [Server thread/INFO]: Mario7188371628 issued server command: /tpa Magma852
-[16:10:50] [Server thread/INFO]: Magma852 issued server command: /tpaccept
-[16:11:01] [Server thread/INFO]: Mario7188371628 issued server command: /sethome madera
-[16:11:19] [Server thread/INFO]: refkunMC lost connection: Disconnected
-[16:11:19] [Server thread/INFO]: refkunMC left the game
-[16:11:22] [Server thread/INFO]: Rixenta lost connection: Disconnected
-[16:11:22] [Server thread/INFO]: Rixenta left the game
-[16:12:50] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:12:55] [Server thread/INFO]: Magma852 issued server command: /tpask
-[16:12:57] [Server thread/INFO]: Mario7188371628 issued server command: /tpa Magma852
-[16:13:03] [Server thread/INFO]: Magma852 issued server command: /tpaccept
-[16:13:26] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:verdadera
-[16:13:54] [Server thread/INFO]: Mario7188371628 issued server command: /sethome rathole
-[16:13:57] [Server thread/INFO]: volcan741 issued server command: /sethome rekun
-[16:14:04] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[16:14:38] [Server thread/INFO]: volcan741 issued server command: /home refkunMC:base
-[16:14:47] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:14:50] [Server thread/INFO]: volcan741 issued server command: /gamemode adventure
-[16:14:51] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[16:15:02] [Server thread/INFO]: Magma852 issued server command: /home aldea2
-[16:15:16] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:15:29] [Server thread/INFO]: Magma852 issued server command: /home aldea2
-[16:15:31] [Server thread/INFO]: volcan741 issued server command: /invsee refkunMC
-[16:15:41] [Server thread/INFO]: volcan741 issued server command: /home rekun
-[16:15:42] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:16:54] [Server thread/INFO]: ADL33R issued server command: /home casa
-[16:17:16] [Server thread/INFO]: Villager EntityVillager['Villager'/80605, uuid='f35dbbba-23b6-46f6-98da-813228f93b0e', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.30, cpos=[85, -20], tl=292240, v=true] died, message: 'Villager was squished too much'
-[16:17:20] [Server thread/INFO]: Mario7188371628 issued server command: /tpa volcan741
-[16:17:24] [Server thread/INFO]: volcan741 issued server command: /home cas
-[16:17:25] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:17:48] [Async Chat Thread - #12/INFO]: [Not Secure] <volcan741> zzz
-[16:18:21] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[16:18:30] [Server thread/INFO]: Mario7188371628 has made the advancement [What a Deal!]
-[16:18:35] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[16:19:12] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:19:40] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[16:20:21] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[16:20:59] [Server thread/INFO]: Villager EntityVillager['Fisherman'/80689, uuid='5547755e-72e1-49d8-a833-99b32096efa6', l='ServerLevel[world]', x=1379.52, y=67.05, z=-247.46, cpos=[86, -16], tl=397401, v=true] died, message: 'Fisherman drowned'
-[16:21:24] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:21:58] [Server thread/INFO]: Magma852 issued server command: /home aldea2
-[16:22:17] [Server thread/INFO]: Magma852 issued server command: /home home
-[16:22:27] [Server thread/INFO]: Magma852 issued server command: /home aldea2
-[16:22:33] [Server thread/INFO]: Mario7188371628 issued server command: /homes
-[16:22:37] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[16:22:41] [Server thread/INFO]: Mario7188371628 issued server command: /home rathole
-[16:23:25] [Server thread/INFO]: Mario7188371628 has made the advancement [Isn't It Iron Pick]
-[16:23:51] [Server thread/INFO]: Mario7188371628 issued server command: /home madera
-[16:24:08] [Server thread/INFO]: Mario7188371628 issued server command: /home rathole
-[16:25:32] [Server thread/INFO]: Mario7188371628 issued server command: /home madera
-[16:26:50] [Server thread/INFO]: Mario7188371628 issued server command: /home rathole
-[16:27:28] [Server thread/INFO]: Mario7188371628 issued server command: /home madera
-[16:29:47] [Async Chat Thread - #14/INFO]: [Not Secure] <volcan741> zzz
-[16:30:49] [Server thread/INFO]: Magma852 lost connection: Disconnected
-[16:30:49] [Server thread/INFO]: Magma852 left the game
-[16:31:17] [Server thread/INFO]: Mario7188371628 lost connection: Disconnected
-[16:31:17] [Server thread/INFO]: Mario7188371628 left the game
-[16:35:36] [Server thread/INFO]: volcan741 issued server command: /home rekun
-[16:35:48] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:37:39] [Server thread/INFO]: volcan741 issued server command: /home rekun
-[16:40:06] [Server thread/INFO]: volcan741 issued server command: /home casa
-[16:40:10] [Server thread/INFO]: ADL33R issued server command: /home casa
-[16:45:50] [Server thread/INFO]: Villager EntityVillager['Farmer'/80679, uuid='f650bd56-2858-4ed6-9685-2e92e005a88b', l='ServerLevel[world]', x=1379.51, y=67.03, z=-240.47, cpos=[86, -16], tl=809478, v=true] died, message: 'Farmer drowned'
-[17:02:03] [User Authenticator #6/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[17:02:03] [Server thread/INFO]: rafaxtpa joined the game
-[17:02:03] [Server thread/INFO]: rafaxtpa[/127.92.134.86:41689] logged in with entity id 104777 at ([world]-3120.1502273515343, 74.0, 3582.5796036534566)
-[17:05:45] [Server thread/INFO]: volcan741 issued server command: /home casa
-[17:05:52] [Async Chat Thread - #16/INFO]: [Not Secure] <volcan741> zzz
-[17:13:12] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:18:14] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[17:18:18] [Async Chat Thread - #18/INFO]: [Not Secure] <volcan741> zzz
-[17:18:45] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[17:18:49] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[17:19:08] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:19:30] [Server thread/INFO]: rafaxtpa was shot by Skeleton
-[17:19:59] [Server thread/INFO]: rafaxtpa issued server command: /delhome ca__
-[17:20:01] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:21:12] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[17:21:17] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[17:21:21] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[17:21:49] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:22:35] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:23:10] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:25:19] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[17:25:22] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[17:25:35] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:28:05] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:28:12] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[17:28:22] [Server thread/INFO]: rafaxtpa issued server command: /home tetta
-[17:28:24] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:29:06] [Server thread/INFO]: rafaxtpa issued server command: /hom teta
-[17:29:08] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:31:34] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[17:32:55] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:33:32] [Server thread/INFO]: ADL33R issued server command: /home megacueva2
-[17:33:38] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[17:33:40] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[17:33:48] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[17:33:58] [Server thread/INFO]: rafaxtpa issued server command: /sethome cueva
-[17:35:17] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:35:30] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[17:35:39] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:38:00] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:38:26] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:40:28] [User Authenticator #7/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
-[17:40:28] [Server thread/INFO]: Rixenta joined the game
-[17:40:28] [Server thread/INFO]: Rixenta[/127.195.114.124:45261] logged in with entity id 120102 at ([world]-3152.156706788162, 71.0, 3579.6252536105476)
-[17:40:34] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:41:03] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:43:06] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[17:43:10] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[17:43:59] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:44:13] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[17:44:15] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[17:44:53] [Async Chat Thread - #20/INFO]: [Not Secure] <rafaxtpa> mira
-[17:45:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Rixenta> jajajajaj
-[17:45:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Rixenta> el gato chaval que le pasa
-[17:45:18] [Async Chat Thread - #21/INFO]: [Not Secure] <rafaxtpa> estamos culo muerto
-[17:45:34] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[17:45:54] [Server thread/INFO]: rafaxtpa issued server command: /sethome nazi
-[17:46:13] [Server thread/INFO]: rafaxtpa tried to swim in lava to escape Dinnerbone
-[17:46:17] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:46:21] [Server thread/INFO]: rafaxtpa issued server command: /home nazi
-[17:46:25] [Server thread/INFO]: Rixenta issued server command: /tpa rafaxtpa
-[17:46:29] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[17:46:48] [Server thread/INFO]: Rixenta issued server command: /sethome nigga
-[17:46:58] [Server thread/INFO]: Rixenta issued server command: /sethome nigga
-[17:47:06] [Server thread/INFO]: Rixenta has made the advancement [We Need to Go Deeper]
-[17:47:09] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:47:13] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[17:47:19] [Server thread/INFO]: Rixenta issued server command: /tpaccept
-[17:47:50] [Server thread/INFO]: rafaxtpa issued server command: /tpa Rixenta
-[17:47:51] [Server thread/INFO]: ADL33R tried to swim in lava
-[17:48:00] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[17:48:02] [Server thread/INFO]: Rixenta issued server command: /tpaccept
-[17:48:08] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[17:48:09] [Server thread/INFO]: rafaxtpa tried to swim in lava to escape Rixenta
-[17:48:13] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[17:48:28] [Server thread/INFO]: Rixenta burned to death
-[17:48:33] [Server thread/INFO]: ADL33R tried to swim in lava
-[17:48:34] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:48:58] [Server thread/INFO]: Rixenta tried to swim in lava to escape Hoglin
-[17:49:03] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:49:19] [Server thread/INFO]: ADL33R tried to swim in lava
-[17:50:35] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:50:47] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:51:08] [Server thread/INFO]: Rixenta burned to death
-[17:51:09] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[17:51:14] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:51:50] [Server thread/INFO]: Rixenta tried to swim in lava
-[17:51:54] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:52:09] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:52:36] [Server thread/INFO]: ADL33R tried to swim in lava to escape Rixenta
-[17:52:45] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[17:52:50] [Server thread/INFO]: Rixenta issued server command: /tpaccept
-[17:54:04] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[17:54:08] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[17:54:47] [Server thread/INFO]: ADL33R has made the advancement [Hidden in the Depths]
-[17:55:06] [Server thread/INFO]: volcan741 issued server command: /home casa
-[17:55:19] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[17:55:59] [Server thread/INFO]: Rixenta tried to swim in lava
-[17:56:06] [Server thread/INFO]: Rixenta issued server command: /tpa ADL33R
-[17:56:08] [Server thread/INFO]: ADL33R burned to death
-[17:56:08] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[17:56:22] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[17:56:34] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:56:51] [Server thread/INFO]: Rixenta issued server command: /accept
-[17:56:57] [Server thread/INFO]: Rixenta issued server command: /tpaccept
-[17:57:02] [Server thread/INFO]: ADL33R tried to swim in lava
-[17:57:07] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[17:57:12] [Server thread/INFO]: Rixenta issued server command: /tpaccept
-[17:57:28] [Server thread/INFO]: Rixenta tried to swim in lava
-[17:57:32] [Server thread/INFO]: Rixenta issued server command: /home nigga
-[17:57:50] [Server thread/INFO]: ADL33R issued server command: /home casa
-[17:58:53] [Server thread/INFO]: rafaxtpa discovered the floor was lava
-[17:59:02] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[17:59:08] [Server thread/INFO]: ADL33R issued server command: /tpa Rixenta
-[18:00:53] [User Authenticator #8/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[18:00:53] [Server thread/INFO]: Leechuga joined the game
-[18:00:53] [Server thread/INFO]: Leechuga[/127.71.169.146:58075] logged in with entity id 135247 at ([world]-6.5, 69.0, -55.5)
-[18:02:13] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[18:02:13] [Server thread/INFO]: Leechuga left the game
-[18:02:39] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:02:52] [Server thread/INFO]: Villager EntityVillager['Fisherman'/102975, uuid='1829560c-a0dd-4f07-8878-080489c5d998', l='ServerLevel[world]', x=1399.55, y=68.50, z=-250.60, cpos=[87, -16], tl=85098, v=true] died, message: 'Fisherman was slain by volcan741'
-[18:03:25] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[18:04:24] [User Authenticator #9/INFO]: UUID of player Lee is 35e38185-4a76-32ee-bb09-34cf2ebf04bb
-[18:04:24] [Server thread/INFO]: Lee joined the game
-[18:04:24] [Server thread/INFO]: Lee[/127.71.169.146:45223] logged in with entity id 137622 at ([world]62.870515172750295, 67.0, -194.82453086329286)
-[18:04:28] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[18:04:48] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[18:05:04] [Server thread/INFO]: Lee lost connection: Disconnected
-[18:05:04] [Server thread/INFO]: Lee left the game
-[18:05:34] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[18:05:45] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[18:05:48] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[18:05:50] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[18:06:22] [Server thread/INFO]: ADL33R issued server command: /sethome portal
-[18:07:08] [User Authenticator #10/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[18:07:08] [Server thread/INFO]: Leechuga joined the game
-[18:07:08] [Server thread/INFO]: Leechuga[/127.71.169.146:41779] logged in with entity id 139365 at ([world]-3.5486063145686173, 69.0, -56.37436642046181)
-[18:07:21] [Server thread/INFO]: Leechuga issued server command: /tpa rafaxtpa
-[18:07:23] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[18:07:34] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R
-[18:07:51] [Server thread/INFO]: Leechuga has made the advancement [Stone Age]
-[18:07:52] [Server thread/INFO]: Leechuga has made the advancement [Suit Up]
-[18:07:53] [Server thread/INFO]: Leechuga has made the advancement [Cover Me with Diamonds]
-[18:09:31] [Server thread/INFO]: Leechuga has made the advancement [What a Deal!]
-[18:09:48] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:09:51] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[18:09:55] [Server thread/INFO]: ADL33R issued server command: /tpa volcan741
-[18:10:00] [Server thread/INFO]: Leechuga issued server command: /sethome casa
-[18:10:01] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[18:10:02] [Server thread/INFO]: Leechuga issued server command: /tpa rafaxtpa
-[18:10:14] [Server thread/INFO]: rafaxtpa issued server command: /tpacccept
-[18:10:16] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[18:10:43] [Server thread/INFO]: Leechuga issued server command: /sethome c
-[18:11:22] [Server thread/INFO]: Leechuga issued server command: /home casa
-[18:11:39] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[18:11:58] [Server thread/INFO]: ADL33R issued server command: /sethome netherite
-[18:12:07] [Server thread/INFO]: ADL33R issued server command: /delhome portal
-[18:12:41] [Server thread/INFO]: Leechuga issued server command: /home c
-[18:12:46] [Server thread/INFO]: volcan741 has made the advancement [Hidden in the Depths]
-[18:12:49] [Server thread/INFO]: Leechuga has made the advancement [We Need to Go Deeper]
-[18:12:57] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:13:20] [Server thread/INFO]: Leechuga has made the advancement [Not Today, Thank You]
-[18:13:24] [Server thread/INFO]: Leechuga has made the advancement [Monster Hunter]
-[18:13:45] [Server thread/INFO]: Leechuga issued server command: /home c
-[18:13:49] [Server thread/INFO]: Leechuga issued server command: /home casa
-[18:13:54] [Server thread/INFO]: Leechuga issued server command: /home c
-[18:14:16] [Server thread/INFO]: Leechuga has made the advancement [Diamonds!]
-[18:14:28] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:14:44] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[18:14:49] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:15:01] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[18:15:05] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:15:24] [Server thread/INFO]: rafaxtpa issued server command: /delhome nether
-[18:15:26] [Server thread/INFO]: rafaxtpa issued server command: /sethome nether
-[18:15:32] [Server thread/INFO]: Leechuga issued server command: /tpa rafaxtpa
-[18:15:35] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[18:15:39] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:15:42] [Server thread/INFO]: volcan741 issued server command: /sethome netherita
-[18:15:43] [Server thread/INFO]: Leechuga issued server command: /tpacancel
-[18:16:07] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[18:16:12] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:16:20] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[18:16:20] [Server thread/INFO]: Leechuga left the game
-[18:16:23] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[18:16:35] [Server thread/INFO]: rafaxtpa tried to swim in lava
-[18:16:36] [User Authenticator #11/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[18:16:36] [Server thread/INFO]: Leechuga joined the game
-[18:16:36] [Server thread/INFO]: Leechuga[/127.71.169.146:58559] logged in with entity id 151982 at ([world]217.09332563135592, 57.0, 360.22345223584136)
-[18:16:45] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[18:16:50] [Server thread/INFO]: Leechuga issued server command: /tpa ADL33r
-[18:16:50] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[18:17:32] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[18:17:35] [Server thread/INFO]: Villager EntityVillager['Mason'/151858, uuid='e78c2a83-20f7-4b4e-b20c-01f3586e4921', l='ServerLevel[world]', x=-3136.70, y=72.00, z=3607.42, cpos=[-197, 225], tl=202551, v=true] died, message: 'Mason was slain by Zombie'
-[18:17:36] [Server thread/INFO]: rafaxtpa issued server command: /tpa Leechuga
-[18:17:40] [Server thread/INFO]: Leechuga issued server command: /tpaccept
-[18:17:40] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:17:47] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[18:17:47] [Server thread/INFO]: rafaxtpa burned to death
-[18:17:52] [Server thread/INFO]: rafaxtpa issued server command: /tpa Leechuga
-[18:18:03] [Server thread/INFO]: Leechuga issued server command: /tpa volcan741
-[18:18:13] [Server thread/INFO]: rafaxtpa issued server command: /tpa ADL33R
-[18:18:21] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[18:19:30] [Server thread/INFO]: rafaxtpa issued server command: /sethome netherita
-[18:20:53] [Server thread/INFO]: rafaxtpa has made the advancement [Hidden in the Depths]
-[18:21:35] [Server thread/INFO]: ADL33R issued server command: /home casa
-[18:21:38] [Server thread/INFO]: Leechuga issued server command: /tpa adl33r
-[18:21:58] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[18:22:24] [Server thread/INFO]: Leechuga issued server command: /sethome aldeanos
-[18:24:03] [Server thread/INFO]: Leechuga issued server command: /tpa adl33r
-[18:24:07] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[18:24:16] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[18:24:21] [Server thread/INFO]: Leechuga issued server command: /sethome nether
-[18:24:40] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[18:25:00] [Server thread/INFO]: Leechuga tried to swim in lava
-[18:25:05] [Server thread/INFO]: Leechuga issued server command: /home nether
-[18:26:45] [Server thread/INFO]: rafaxtpa issued server command: /delhome nether
-[18:26:49] [Server thread/INFO]: rafaxtpa issued server command: /sethome nether
-[18:27:09] [Server thread/INFO]: volcan741 issued server command: /ermhome netherita
-[18:27:20] [Server thread/INFO]: rafaxtpa issued server command: /home netherita
-[18:27:46] [Server thread/INFO]: Leechuga has made the advancement [Hidden in the Depths]
-[18:31:26] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:31:31] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[18:31:40] [Server thread/INFO]: rafaxtpa burned to death
-[18:31:58] [Server thread/INFO]: rafaxtpa was slain by Zombie
-[18:32:02] [Server thread/INFO]: Villager EntityVillager['Armorer'/177355, uuid='dfc20f0c-8b85-4e5f-94b1-5bce07d7c083', l='ServerLevel[world]', x=-3143.20, y=70.00, z=3606.69, cpos=[-197, 225], tl=203602, v=true] died, message: 'Armorer was slain by Zombie'
-[18:33:19] [Server thread/INFO]: volcan741 tried to swim in lava
-[18:33:52] [Server thread/INFO]: rafaxtpa issued server command: /home netherita
-[18:34:02] [Async Chat Thread - #23/INFO]: [Not Secure] <volcan741> zzz
-[18:34:35] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[18:34:42] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[18:34:48] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[18:34:55] [Server thread/INFO]: ADL33R tried to swim in lava
-[18:35:32] [Server thread/INFO]: Rixenta tried to swim in lava to escape Ghast
-[18:35:52] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[18:36:04] [Server thread/INFO]: Leechuga issued server command: /home aldeanos
-[18:36:04] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[18:37:41] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[18:37:52] [Server thread/INFO]: rafaxtpa issued server command: /delhome casa+
-[18:37:57] [Server thread/INFO]: rafaxtpa issued server command: /delhome casa
-[18:37:58] [Server thread/INFO]: rafaxtpa issued server command: /sethome casa
-[18:39:12] [Server thread/INFO]: Leechuga issued server command: /home c
-[18:40:41] [Server thread/INFO]: Leechuga issued server command: /home aldeanos
-[18:41:56] [Server thread/INFO]: volcan741 issued server command: /home casa
-[18:42:35] [Server thread/INFO]: volcan741 issued server command: /tp ADL33R
-[18:44:23] [Server thread/INFO]: Leechuga issued server command: /home ca
-[18:45:01] [Async Chat Thread - #24/INFO]: [Not Secure] <volcan741> zzz
-[18:45:14] [Server thread/INFO]: ADL33R issued server command: /home
-[18:45:17] [Server thread/INFO]: ADL33R issued server command: /home casa
-[18:46:16] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[18:46:25] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[18:48:37] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[18:49:09] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[18:49:15] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[18:49:34] [Server thread/INFO]: ADL33R lost connection: Disconnected
-[18:49:34] [Server thread/INFO]: ADL33R left the game
-[18:57:53] [Async Chat Thread - #26/INFO]: [Not Secure] <volcan741> dormi
-[18:57:57] [Async Chat Thread - #27/INFO]: [Not Secure] <volcan741> tuffo
-[19:00:22] [Async Chat Thread - #28/INFO]: [Not Secure] <volcan741> zzz
-[19:00:28] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[19:02:02] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[19:02:15] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[19:02:20] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[19:03:29] [Server thread/INFO]: Leechuga issued server command: /delhome ca
-[19:03:45] [Server thread/INFO]: Leechuga issued server command: /sethome ca
-[19:07:15] [Server thread/INFO]: Leechuga issued server command: /home c
-[19:07:44] [Server thread/INFO]: volcan741 issued server command: /tp Leechuga
-[19:07:53] [Server thread/INFO]: volcan741 issued server command: /home casa
-[19:07:56] [Server thread/INFO]: Leechuga issued server command: /home ca
-[19:07:58] [Server thread/INFO]: volcan741 issued server command: /tp Leechuga
-[19:09:40] [Server thread/INFO]: volcan741 issued server command: /home casa
-[19:10:52] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[19:12:04] [Async Chat Thread - #30/INFO]: [Not Secure] <volcan741> zzz
-[19:12:22] [User Authenticator #12/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[19:12:23] [Server thread/INFO]: ADL33R joined the game
-[19:12:23] [Server thread/INFO]: ADL33R[/127.228.144.141:33121] logged in with entity id 205974 at ([world]-3196.4814478132766, 74.0, 3619.9492554455755)
-[19:12:26] [Server thread/INFO]: rafaxtpa was slain by Zombie
-[19:12:42] [Server thread/INFO]: ADL33R issued server command: /home casa
-[19:12:56] [Server thread/INFO]: rafaxtpa issued server command: /tpa volcan741
-[19:13:01] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[19:13:37] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[19:14:02] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[19:14:35] [Server thread/INFO]: rafaxtpa was doomed to fall
-[19:14:41] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[19:16:11] [Server thread/INFO]: rafaxtpa was shot by Skeleton
-[19:16:24] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[19:18:33] [Server thread/INFO]: rafaxtpa hit the ground too hard whilst trying to escape Skeleton
-[19:18:41] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[19:20:16] [Server thread/INFO]: Leechuga issued server command: /home ca
-[19:20:37] [Server thread/INFO]: rafaxtpa issued server command: /sethome cueva2
-[19:21:44] [Server thread/INFO]: rafaxtpa was impaled on a stalagmite whilst fighting Zombie
-[19:21:59] [Server thread/INFO]: rafaxtpa issued server command: /home cueva2
-[19:22:42] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[19:25:14] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[19:26:50] [Server thread/INFO]: rafaxtpa issued server command: /tpa Leechuga
-[19:26:54] [Server thread/INFO]: Leechuga issued server command: /tpa rafaxtpa
-[19:27:02] [Server thread/INFO]: Leechuga issued server command: /tpacancel
-[19:27:05] [Server thread/INFO]: Leechuga issued server command: /tpaccept
-[19:27:17] [Server thread/INFO]: Leechuga issued server command: /home ca
-[19:27:54] [Server thread/INFO]: Leechuga has made the advancement [Acquire Hardware]
-[19:29:00] [Server thread/INFO]: rafaxtpa fell from a high place
-[19:29:05] [Server thread/INFO]: rafaxtpa issued server command: /tpa Leechuga
-[19:29:08] [Server thread/INFO]: Leechuga issued server command: /tpaccept
-[19:30:20] [Server thread/INFO]: ADL33R tried to swim in lava
-[19:30:27] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[19:32:54] [Server thread/INFO]: ADL33R tried to swim in lava
-[19:33:25] [Server thread/INFO]: Villager EntityVillager['Villager'/201902, uuid='75bcbfb2-7db4-4387-af0f-38dfe71abf0a', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=105993, v=true] died, message: 'Villager was squished too much'
-[19:33:29] [Server thread/INFO]: rafaxtpa issued server command: /sethome stefan
-[19:33:31] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[19:33:44] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[19:33:56] [Async Chat Thread - #32/INFO]: [Not Secure] <volcan741> ZZZZZZZ
-[19:34:08] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[19:34:14] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[19:34:21] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:34:25] [Server thread/INFO]: ADL33R issued server command: /sethome portal
-[19:34:46] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[19:34:46] [Server thread/INFO]: Leechuga left the game
-[19:36:24] [Server thread/INFO]: ADL33R was doomed to fall by Piglin
-[19:36:34] [Server thread/INFO]: ADL33R issued server command: /home portal
-[19:37:45] [Server thread/INFO]: ADL33R was slain by Zombified Piglin
-[19:37:49] [Server thread/INFO]: rafaxtpa fell from a high place
-[19:37:52] [Server thread/INFO]: ADL33R issued server command: /home portal
-[19:38:05] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:38:16] [User Authenticator #13/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[19:38:16] [Server thread/INFO]: Leechuga joined the game
-[19:38:16] [Server thread/INFO]: Leechuga[/127.71.169.146:53493] logged in with entity id 225551 at ([world]1280.1190868584654, 128.0, -473.1044601155511)
-[19:38:21] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[19:38:21] [Server thread/INFO]: Leechuga left the game
-[19:38:23] [User Authenticator #13/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[19:38:23] [Server thread/INFO]: Leechuga joined the game
-[19:38:23] [Server thread/INFO]: Leechuga[/127.71.169.146:48111] logged in with entity id 225655 at ([world]1280.1190868584654, 128.0, -473.1044601155511)
-[19:39:53] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[19:39:53] [Server thread/INFO]: Leechuga left the game
-[19:39:54] [User Authenticator #14/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[19:39:54] [Server thread/INFO]: Leechuga joined the game
-[19:39:54] [Server thread/INFO]: Leechuga[/127.71.169.146:51981] logged in with entity id 226760 at ([world]1279.3397451224778, 128.0, -467.5488181544103)
-[19:40:55] [Server thread/INFO]: rafaxtpa fell from a high place
-[19:40:59] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:43:56] [Server thread/INFO]: ADL33R issued server command: /home casa
-[19:44:20] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[19:44:33] [Server thread/INFO]: ADL33R burned to death
-[19:44:43] [Server thread/INFO]: rafaxtpa fell from a high place
-[19:44:47] [Server thread/INFO]: ADL33R issued server command: /home portal
-[19:44:48] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:45:07] [Server thread/INFO]: ADL33R has made the advancement [Hot Stuff]
-[19:45:09] [Server thread/INFO]: ADL33R tried to swim in lava
-[19:45:41] [Server thread/INFO]: Leechuga has made the advancement [Sweet Dreams]
-[19:46:12] [Server thread/INFO]: ADL33R has made the advancement [Ice Bucket Challenge]
-[19:46:14] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[19:46:32] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:46:38] [Server thread/INFO]: ADL33R issued server command: /home portal
-[19:46:54] [Server thread/INFO]: rafaxtpa issued server command: /home obsidiana
-[19:47:05] [Server thread/INFO]: ADL33R issued server command: /tpa rafaxtpa
-[19:47:09] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[19:47:12] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:48:03] [Server thread/INFO]: ADL33R issued server command: /home casa
-[19:48:38] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[19:48:38] [Server thread/INFO]: Leechuga left the game
-[19:49:08] [Server thread/INFO]: volcan741 issued server command: /efly
-[19:50:31] [Server thread/INFO]: volcan741 issued server command: /home casa
-[19:51:11] [Server thread/INFO]: ADL33R was slain by Hoglin
-[19:51:32] [Server thread/INFO]: rafaxtpa fell from a high place
-[19:51:48] [User Authenticator #15/INFO]: UUID of player Leechuga is 7e39bbf3-e296-31c4-b1f0-796de6a3cec3
-[19:51:48] [Server thread/INFO]: Leechuga joined the game
-[19:51:48] [Server thread/INFO]: Leechuga[/127.71.169.146:47725] logged in with entity id 238816 at ([world]1280.4951319130976, 128.0, -475.0815470230234)
-[19:52:25] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:52:37] [Server thread/INFO]: Villager EntityVillager['Villager'/201904, uuid='9209178e-d4f1-43c0-a6e4-7697a57d7885', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.30, cpos=[85, -20], tl=681761, v=true] died, message: 'Villager was squished too much'
-[19:52:53] [Server thread/INFO]: ADL33R tried to swim in lava
-[19:53:07] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[19:53:30] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:54:35] [Server thread/INFO]: ADL33R issued server command: /home casa
-[19:55:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7357ms or 147 ticks behind
-[19:55:40] [Server thread/WARN]: rafaxtpa moved too quickly! 12.384200406296486,-2.07520089011895,20.065229185692203
-[19:55:57] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[19:57:11] [Server thread/INFO]: Leechuga fell from a high place
-[19:58:19] [Server thread/INFO]: Leechuga fell from a high place
-[19:58:37] [Server thread/INFO]: volcan741 issued server command: /efly disable
-[19:59:06] [Server thread/INFO]: volcan741 issued server command: /sethome obras
-[19:59:14] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[20:00:35] [Server thread/INFO]: Villager EntityVillager['Armorer'/250084, uuid='1ac7f215-f14f-4290-9f55-9cf20c569151', l='ServerLevel[world]', x=-3176.49, y=70.00, z=3618.32, cpos=[-199, 226], tl=244098, v=true] died, message: 'Armorer was slain by Zombie'
-[20:00:39] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
-[20:00:39] [Server thread/INFO]: rafaxtpa left the game
-[20:00:44] [Server thread/INFO]: Leechuga issued server command: /tpa adl33r
-[20:00:45] [Server thread/INFO]: ADL33R issued server command: /tpaccept
-[20:03:08] [Server thread/INFO]: Leechuga issued server command: /home ca
-[20:03:15] [Server thread/INFO]: ADL33R tried to swim in lava
-[20:03:24] [Server thread/INFO]: ADL33R issued server command: /tpa Leechuga
-[20:03:28] [Server thread/INFO]: Leechuga issued server command: /tpaccept
-[20:05:12] [Server thread/INFO]: ADL33R was shot by Skeleton
-[20:06:32] [Server thread/INFO]: Villager EntityVillager['Villager'/253118, uuid='f2bd4e8e-5394-4475-9993-66e8d2adc814', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=178741, v=true] died, message: 'Villager was squished too much'
-[20:06:32] [Server thread/INFO]: Villager EntityVillager['Villager'/253125, uuid='0fd080b2-dcaa-4e85-a870-60d0c4bbe28c', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=163793, v=true] died, message: 'Villager was squished too much'
-[20:07:46] [Server thread/INFO]: ADL33R issued server command: /sethome netheter
-[20:08:46] [Server thread/INFO]: ADL33R fell from a high place
-[20:08:52] [Server thread/INFO]: ADL33R issued server command: /home netheter
-[20:12:16] [Server thread/INFO]: ADL33R issued server command: /delhome netheter
-[20:12:23] [Server thread/INFO]: ADL33R issued server command: /delhome netherite
-[20:12:40] [Server thread/INFO]: ADL33R issued server command: /sethome netherite
-[20:17:47] [Server thread/INFO]: Leechuga lost connection: Disconnected
-[20:17:47] [Server thread/INFO]: Leechuga left the game
-[20:20:01] [User Authenticator #16/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[20:20:01] [Server thread/INFO]: refkunMC joined the game
-[20:20:01] [Server thread/INFO]: refkunMC[/127.236.40.244:34237] logged in with entity id 265017 at ([world]-3153.2550903954525, 71.0, 3580.300000011921)
-[20:22:36] [User Authenticator #17/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[20:22:36] [Server thread/INFO]: rafaxtpa joined the game
-[20:22:36] [Server thread/INFO]: rafaxtpa[/127.92.134.86:34411] logged in with entity id 267956 at ([world]-3264.472934132731, 79.0, 3648.150753616285)
-[20:22:49] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[20:24:27] [Server thread/INFO]: ADL33R burned to death
-[20:24:33] [Server thread/INFO]: ADL33R issued server command: /tpa refkunMC
-[20:24:34] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[20:24:46] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[20:27:01] [Server thread/INFO]: ADL33R tried to swim in lava
-[20:27:08] [Server thread/INFO]: ADL33R issued server command: /home netherite
-[20:29:54] [Async Chat Thread - #34/INFO]: [Not Secure] <rafaxtpa> zeta
-[20:32:45] [Server thread/INFO]: ADL33R burned to death
-[20:35:46] [Server thread/INFO]: volcan741 issued server command: /gamemode adventure
-[20:35:48] [Server thread/INFO]: volcan741 issued server command: /gamemode creative
-[20:36:39] [Server thread/INFO]: volcan741 issued server command: /gamemode adventure
-[20:36:41] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[20:37:50] [Server thread/INFO]: volcan741 issued server command: /gamemode creative
-[20:39:59] [Server thread/INFO]: Villager EntityVillager['Villager'/278099, uuid='de363cc5-7d4d-42ac-9266-4934e07e2892', l='ServerLevel[world]', x=-3178.35, y=61.76, z=3605.98, cpos=[-199, 225], tl=2681, v=true] died, message: 'Villager was slain by refkunMC'
-[20:40:08] [Server thread/INFO]: volcan741 has reached the goal [Zombie Doctor]
-[20:41:04] [Server thread/INFO]: Villager EntityVillager['Fletcher'/278955, uuid='21c30057-98b5-4135-bc5f-447f079a73cc', l='ServerLevel[world]', x=3085.30, y=70.00, z=60.30, cpos=[192, 3], tl=1114, v=true] died, message: 'Fletcher was slain by volcan741'
-[20:41:12] [Server thread/INFO]: Villager EntityVillager['Villager'/275746, uuid='c35a5a52-19e2-41c9-92ab-b8df71490855', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=798894, v=true] died, message: 'Villager was squished too much'
-[20:41:13] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[20:41:18] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:41:25] [Async Chat Thread - #36/INFO]: [Not Secure] <volcan741> zzz
-[20:42:27] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
-[20:42:48] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:42:53] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[20:43:05] [Server thread/INFO]: ADL33R issued server command: /tpa volcan741
-[20:43:13] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[20:43:53] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[20:44:52] [Server thread/INFO]: ADL33R issued server command: /sethome plana
-[20:45:47] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:45:49] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:46:20] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:46:39] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:46:42] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:47:01] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:47:09] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:47:19] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:47:36] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:47:49] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:47:55] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:48:02] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:48:41] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:49:07] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:49:28] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:49:30] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:50:11] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:50:29] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:51:45] [Server thread/INFO]: volcan741 issued server command: /home cas
-[20:51:47] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:51:54] [Server thread/INFO]: Villager EntityVillager['Villager'/284189, uuid='892b8714-ecaf-4e60-a91f-a64e7477171d', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=83360, v=true] died, message: 'Villager was squished too much'
-[20:52:12] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:52:31] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:52:54] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:53:05] [Async Chat Thread - #38/INFO]: [Not Secure] <volcan741> zzz
-[20:53:07] [Async Chat Thread - #40/INFO]: [Not Secure] <volcan741> ADL33R
-[20:53:31] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:53:35] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:53:54] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:54:15] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:54:28] [Server thread/INFO]: volcan741 issued server command: /home obras
-[20:54:35] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:54:38] [Server thread/INFO]: volcan741 issued server command: /eremhome obras
-[20:54:49] [Server thread/INFO]: volcan741 issued server command: /sethome base
-[20:55:01] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:55:20] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:55:35] [Server thread/INFO]: volcan741 issued server command: /home base
-[20:56:05] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:56:33] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:56:40] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:57:16] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:57:33] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:57:39] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:57:56] [Server thread/INFO]: ADL33R issued server command: /home plana
-[20:58:03] [Server thread/INFO]: volcan741 issued server command: /home base
-[20:58:18] [Server thread/INFO]: ADL33R issued server command: /home casa
-[20:58:44] [Server thread/INFO]: volcan741 issued server command: /home casa
-[20:59:27] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:00:08] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:02:58] [Server thread/INFO]: Villager EntityVillager['Villager'/292761, uuid='80ae61e3-5b4c-46a9-8aec-b732ff4ff62b', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=82470, v=true] died, message: 'Villager was squished too much'
-[21:04:31] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:04:38] [Async Chat Thread - #41/INFO]: [Not Secure] <volcan741> zzz
-[21:05:50] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:05:52] [Async Chat Thread - #43/INFO]: [Not Secure] <volcan741> zzz
-[21:05:56] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:06:17] [Server thread/INFO]: refkunMC issued server command: /tpa volcan741
-[21:06:22] [Async Chat Thread - #45/INFO]: [Not Secure] <volcan741> no
-[21:06:51] [Server thread/INFO]: volcan741 issued server command: /home bas
-[21:07:57] [Server thread/INFO]: volcan741 issued server command: /home bas
-[21:07:59] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:09:13] [Async Chat Thread - #46/INFO]: [Not Secure] <refkunMC> si
-[21:09:27] [Async Chat Thread - #47/INFO]: [Not Secure] <refkunMC> q tengo que pillar reparacion q la he sacado yo
-[21:09:36] [Async Chat Thread - #47/INFO]: [Not Secure] <refkunMC> jurao que no te robo
-[21:12:04] [Server thread/INFO]: refkunMC issued server command: /tpa ADL33R
-[21:12:44] [Server thread/INFO]: ADL33R issued server command: /home plana
-[21:13:22] [Server thread/INFO]: ADL33R issued server command: /home casa
-[21:14:38] [Server thread/INFO]: ADL33R issued server command: /tpa refkunMC
-[21:14:42] [Server thread/INFO]: refkunMC issued server command: /tpaccept
-[21:15:06] [Server thread/INFO]: ADL33R issued server command: /home casa
-[21:15:07] [Async Chat Thread - #48/INFO]: [Not Secure] <rafaxtpa> futush pashtele meti
-[21:15:10] [Server thread/INFO]: Villager EntityVillager['Villager'/301000, uuid='837c7ecd-a0d4-4c44-8091-71dedfac7529', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=47583, v=true] died, message: 'Villager was squished too much'
-[21:17:18] [Server thread/INFO]: ADL33R issued server command: /home plana
-[21:17:18] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[21:20:05] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[21:20:09] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[21:20:16] [Server thread/INFO]: rafaxtpa issued server command: /tpa refkunMC
-[21:21:48] [Server thread/INFO]: Rixenta lost connection: Timed out
-[21:21:48] [Server thread/INFO]: Rixenta left the game
-[21:21:48] [User Authenticator #18/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[21:21:48] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
-[21:21:48] [Server thread/INFO]: rafaxtpa left the game
-[21:21:48] [Server thread/INFO]: rafaxtpa joined the game
-[21:21:48] [Server thread/INFO]: rafaxtpa[/127.92.134.86:47905] logged in with entity id 305347 at ([world]-3150.9546164870376, 71.0, 3570.5242230739336)
-[21:21:56] [User Authenticator #18/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[21:21:56] [Server thread/INFO]: refkunMC lost connection: You logged in from another location
-[21:21:56] [Server thread/INFO]: refkunMC left the game
-[21:21:56] [Server thread/INFO]: refkunMC joined the game
-[21:21:56] [Server thread/INFO]: refkunMC[/127.236.40.244:38925] logged in with entity id 305381 at ([world]-3160.5316623025924, 70.0, 3609.336456494894)
-[21:21:56] [User Authenticator #18/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
-[21:21:56] [Server thread/INFO]: volcan741 lost connection: You logged in from another location
-[21:21:56] [Server thread/INFO]: volcan741 left the game
-[21:21:56] [Server thread/INFO]: volcan741 joined the game
-[21:21:56] [Server thread/INFO]: volcan741[/127.69.28.83:53049] logged in with entity id 305382 at ([world]3101.022556973833, 70.22020278590226, 55.2610392221157)
-[21:21:56] [Server thread/INFO]: ADL33R lost connection: Timed out
-[21:21:56] [Server thread/INFO]: ADL33R left the game
-[21:22:02] [User Authenticator #18/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[21:22:02] [Server thread/INFO]: ADL33R joined the game
-[21:22:02] [Server thread/INFO]: ADL33R[/127.228.144.141:55205] logged in with entity id 305402 at ([world]3123.4084720378437, 70.0, 58.63513789183254)
-[21:22:19] [User Authenticator #18/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[21:22:19] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
-[21:22:19] [Server thread/INFO]: rafaxtpa left the game
-[21:22:19] [Server thread/INFO]: rafaxtpa joined the game
-[21:22:19] [Server thread/INFO]: rafaxtpa[/127.92.134.86:42195] logged in with entity id 305570 at ([world]-3150.4665078661537, 71.0, 3566.226941333639)
-[21:22:22] [Server thread/WARN]: volcan741 was kicked for floating too long!
-[21:22:22] [Server thread/INFO]: volcan741 lost connection: Flying is not enabled on this server
-[21:22:22] [Server thread/INFO]: volcan741 left the game
-[21:22:28] [User Authenticator #18/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
-[21:22:29] [Server thread/INFO]: volcan741 joined the game
-[21:22:29] [Server thread/INFO]: volcan741[/127.69.28.83:45655] logged in with entity id 305611 at ([world]3099.08210463595, 70.78947876269956, 62.085632422962505)
-[21:22:35] [User Authenticator #18/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
-[21:22:35] [Server thread/INFO]: rafaxtpa lost connection: You logged in from another location
-[21:22:35] [Server thread/INFO]: rafaxtpa left the game
-[21:22:35] [Server thread/INFO]: rafaxtpa joined the game
-[21:22:35] [Server thread/INFO]: rafaxtpa[/127.92.134.86:38471] logged in with entity id 305649 at ([world]-3152.5469943094017, 71.0, 3566.4031642225577)
-[21:22:42] [User Authenticator #18/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[21:22:42] [Server thread/INFO]: refkunMC lost connection: You logged in from another location
-[21:22:42] [Server thread/INFO]: refkunMC left the game
-[21:22:42] [Server thread/INFO]: refkunMC joined the game
-[21:22:42] [Server thread/INFO]: refkunMC[/127.236.40.244:39031] logged in with entity id 305681 at ([world]-3140.5677884997376, 71.0, 3577.1502506893275)
-[21:22:43] [User Authenticator #18/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
-[21:22:43] [Server thread/INFO]: ADL33R lost connection: You logged in from another location
-[21:22:43] [Server thread/INFO]: ADL33R left the game
-[21:22:43] [Server thread/INFO]: ADL33R joined the game
-[21:22:43] [Server thread/INFO]: ADL33R[/127.228.144.141:49583] logged in with entity id 305683 at ([world]3115.209499713377, 70.0, 38.94942585554969)
-[21:25:08] [Server thread/INFO]: volcan741 issued server command: /home rafaxtpa:obsidiana
-[21:25:43] [Server thread/INFO]: ADL33R lost connection: Disconnected
-[21:25:43] [Server thread/INFO]: ADL33R left the game
-[21:26:55] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:27:16] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:27:28] [Async Chat Thread - #50/INFO]: [Not Secure] <volcan741> zzz
-[21:27:38] [Server thread/INFO]: Villager EntityVillager['Cleric'/265028, uuid='07853f4e-a66b-4c43-9b6b-7033f2854ebb', l='ServerLevel[world]', x=-3132.98, y=71.50, z=3608.56, cpos=[-196, 225], tl=325233, v=true] died, message: 'Cleric was slain by Zombie'
-[21:28:09] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:29:20] [Server thread/INFO]: rafaxtpa fell from a high place
-[21:31:59] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:33:17] [Server thread/INFO]: volcan741 issued server command: /gamemode creative
-[21:33:19] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[21:33:24] [Server thread/INFO]: volcan741 issued server command: /gamemode creative
-[21:33:26] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[21:33:33] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
-[21:33:38] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
-[21:34:19] [Server thread/INFO]: rafaxtpa issued server command: /home nether
-[21:34:28] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
-[21:35:15] [Server thread/INFO]: rafaxtpa issued server command: /home casa
-[21:35:27] [Server thread/INFO]: rafaxtpa issued server command: /home teta
-[21:36:11] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[21:36:41] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:37:08] [Server thread/INFO]: rafaxtpa drowned
-[21:37:53] [Server thread/INFO]: rafaxtpa drowned
-[21:38:41] [Server thread/INFO]: volcan741 fell from a high place
-[21:38:45] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:39:39] [Server thread/INFO]: refkunMC issued server command: /tell rafaxtpa para saber las coordenadas de la base de estefan y hacer un home cerca
-[21:39:40] [Server thread/INFO]: rafaxtpa issued server command: /sethome arbol
-[21:39:50] [Server thread/INFO]: rafaxtpa issued server command: /tell refkunMC ya tengo uno
-[21:40:15] [Server thread/INFO]: refkunMC issued server command: /tell rafaxtpa ve y te hago tpa para hacerme uno
-[21:40:24] [Server thread/INFO]: rafaxtpa issued server command: /tell refkunMC ya
-[21:40:26] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[21:40:29] [Server thread/INFO]: refkunMC issued server command: /tpa rafaxtpa
-[21:40:32] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[21:40:35] [Server thread/INFO]: rafaxtpa issued server command: /home arbol
-[21:40:39] [Server thread/INFO]: refkunMC issued server command: /home spawn
-[21:40:44] [Server thread/INFO]: refkunMC issued server command: /tpa rafaxtpa
-[21:40:49] [Server thread/INFO]: rafaxtpa issued server command: /home stefan
-[21:40:53] [Server thread/INFO]: rafaxtpa issued server command: /tpaccept
-[21:40:58] [Server thread/INFO]: rafaxtpa issued server command: /home arbol
-[21:40:58] [Server thread/INFO]: refkunMC issued server command: /sethome mobs
-[21:41:01] [Server thread/INFO]: refkunMC issued server command: /home spawn
-[21:41:09] [Server thread/INFO]: refkunMC issued server command: /home base
-[21:41:22] [Server thread/INFO]: rafaxtpa issued server command: /tell refkunMC ponle un nombre que no tenga nada que ver con "stefan"
-[21:42:00] [Server thread/INFO]: refkunMC issued server command: /tell rafaxtpa le he puesto mobs coma para q se piense q spawn para que se piense q es el spawn
-[21:42:26] [Server thread/INFO]: volcan741 issued server command: /home base
-[21:42:28] [Server thread/INFO]: refkunMC issued server command: /tell rafaxtpa le he puesto spawn para q se piense q es el spawn
-[21:42:38] [Async Chat Thread - #52/INFO]: [Not Secure] <rafaxtpa> valebro
-[21:42:38] [Server thread/INFO]: refkunMC issued server command: /sethome spawn
-[21:43:05] [Server thread/INFO]: volcan741 issued server command: /home cass
-[21:43:07] [Server thread/INFO]: volcan741 issued server command: /home casa
-[21:45:48] [Server thread/INFO]: Villager EntityVillager['Librarian'/321935, uuid='d6922b01-3797-461c-a7f9-e417afd765e5', l='ServerLevel[world]', x=-3180.52, y=61.04, z=3611.35, cpos=[-199, 225], tl=60578, v=true] died, message: 'Librarian drowned'
-[21:47:47] [Server thread/INFO]: rafaxtpa issued server command: /sethome 1
-[21:47:56] [Server thread/INFO]: rafaxtpa issued server command: /sethome 111
-[21:51:53] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:02:06] [Server thread/INFO]: Villager EntityVillager['Librarian'/321946, uuid='b9fd9419-c7e9-442a-a514-486138d45e0b', l='ServerLevel[world]', x=-3180.49, y=61.04, z=3611.51, cpos=[-199, 225], tl=72880, v=true] died, message: 'Librarian drowned'
-[22:05:57] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:06:10] [User Authenticator #19/INFO]: UUID of player Magma852 is 9916defb-2c4d-3f0a-9e17-cb49a881c906
-[22:06:10] [Server thread/INFO]: Magma852 joined the game
-[22:06:10] [Server thread/INFO]: Magma852[/127.127.242.163:49339] logged in with entity id 344839 at ([world]-144.91848097324174, 242.0, -1493.5353847287615)
-[22:06:24] [Server thread/INFO]: Magma852 issued server command: /home home
-[22:06:24] [Server thread/INFO]: Magma852 fell from a high place
-[22:06:32] [Server thread/INFO]: Magma852 issued server command: /home home
-[22:07:03] [Server thread/INFO]: Magma852 issued server command: /home casaderef
-[22:08:37] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
-[22:08:37] [Server thread/INFO]: rafaxtpa left the game
-[22:08:59] [Server thread/INFO]: refkunMC lost connection: Disconnected
-[22:08:59] [Server thread/INFO]: refkunMC left the game
-[22:09:00] [Server thread/INFO]: Magma852 issued server command: /tpa volcan741
-[22:09:06] [Server thread/INFO]: volcan741 issued server command: /tpaccept
-[22:09:33] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:09:42] [Server thread/INFO]: Magma852 issued server command: /sethome stefii
-[22:10:18] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[22:10:23] [Server thread/INFO]: Magma852 issued server command: /tpask
-[22:12:48] [Server thread/INFO]: Magma852 issued server command: /home home
-[22:13:08] [Server thread/INFO]: volcan741 issued server command: /tpo Magma852
-[22:13:17] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[22:13:22] [Server thread/INFO]: Magma852 issued server command: /tpask
-[22:13:25] [Server thread/INFO]: volcan741 issued server command: /tpo Magma852
-[22:15:45] [Server thread/INFO]: volcan741 issued server command: /home cuevagrande
-[22:15:46] [Server thread/INFO]: Magma852 issued server command: /home granjaexpç
-[22:15:48] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[22:15:56] [Server thread/INFO]: Magma852 issued server command: /home granjaexp
-[22:16:01] [Server thread/INFO]: Magma852 issued server command: /home home
-[22:16:24] [Server thread/INFO]: volcan741 issued server command: /home mineshaft+
-[22:16:26] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
-[22:16:40] [User Authenticator #20/INFO]: UUID of player Robi08 is dcd48497-2b21-38cd-a93d-296aef7a3274
-[22:16:40] [Server thread/INFO]: Robi08 joined the game
-[22:16:40] [Server thread/INFO]: Robi08[/127.200.123.75:40007] logged in with entity id 354388 at ([world]-10.5, 76.0, -50.5)
-[22:17:01] [Server thread/INFO]: Magma852 lost connection: Disconnected
-[22:17:01] [Server thread/INFO]: Magma852 left the game
-[22:17:42] [User Authenticator #21/INFO]: UUID of player Rixenta is 312a07e8-a1df-3cad-aa9e-feaded176e8a
-[22:17:42] [Server thread/INFO]: Rixenta joined the game
-[22:17:42] [Server thread/INFO]: Rixenta[/127.195.114.124:34671] logged in with entity id 354849 at ([world_nether]26.549146714296114, 30.170218350513096, 45.30000001192093)
-[22:17:56] [Server thread/INFO]: volcan741 issued server command: /home Rixenta:nigga
-[22:17:57] [Server thread/INFO]: Robi08 was shot by Skeleton
-[22:18:58] [Server thread/INFO]: volcan741 issued server command: /home base
-[22:19:01] [Async Chat Thread - #54/INFO]: [Not Secure] <volcan741> zzzz
-[22:19:30] [Server thread/INFO]: Robi08 issued server command: /tp
-[22:19:30] [Server thread/INFO]: [Essentials] Robi08 was denied access to command.
-[22:19:58] [Server thread/INFO]: Robi08 fell from a high place
-[22:20:14] [User Authenticator #22/INFO]: UUID of player refkunMC is 1b468f14-b540-3475-81cd-63a2fa3d37dc
-[22:20:14] [Server thread/INFO]: refkunMC joined the game
-[22:20:14] [Server thread/INFO]: refkunMC[/127.236.40.244:53429] logged in with entity id 357380 at ([world]-3151.883858921161, 71.0, 3613.0287549027653)
-[22:20:52] [Server thread/INFO]: Villager EntityVillager['Villager'/355504, uuid='175cc9f0-3c6b-4e42-81a3-65e53c5260f7', l='ServerLevel[world]', x=-3180.15, y=61.00, z=3611.85, cpos=[-199, 225], tl=14805, v=true] died, message: 'Villager was slain by refkunMC'
-[22:21:38] [Server thread/INFO]: Rixenta lost connection: Disconnected
-[22:21:38] [Server thread/INFO]: Rixenta left the game
-[22:22:01] [Server thread/INFO]: Robi08 has made the advancement [Stone Age]
-[22:23:35] [Server thread/INFO]: Robi08 has made the advancement [Getting an Upgrade]
-[22:26:57] [Server thread/INFO]: refkunMC lost connection: Disconnected
-[22:26:57] [Server thread/INFO]: refkunMC left the game
-[22:30:29] [Async Chat Thread - #56/INFO]: [Not Secure] <volcan741> zzz
-[22:31:34] [Server thread/INFO]: Robi08 has made the advancement [Monster Hunter]
-[22:33:25] [Server thread/INFO]: volcan741 issued server command: /home base
-[22:33:46] [Server thread/INFO]: volcan741 issued server command: /home base
-[22:34:27] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:36:36] [Server thread/INFO]: volcan741 issued server command: /home base
-[22:36:56] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:38:22] [Server thread/INFO]: Robi08 has made the advancement [Acquire Hardware]
-[22:39:55] [Server thread/INFO]: Robi08 was slain by Iron Golem
-[22:41:28] [Server thread/INFO]: volcan741 issued server command: /home casa
-[22:41:54] [Server thread/INFO]: Robi08 was slain by Iron Golem
-[22:43:02] [Server thread/INFO]: volcan741 issued server command: /save-all
-[22:43:03] [Server thread/INFO]: [volcan741: Saved the game]
-[22:43:59] [Server thread/INFO]: volcan741 lost connection: Timed out
-[22:43:59] [Server thread/INFO]: volcan741 left the game
-[22:44:57] [Server thread/INFO]: Robi08 drowned
-[22:46:31] [Server thread/INFO]: Robi08 lost connection: Disconnected
-[22:46:31] [Server thread/INFO]: Robi08 left the game
-[22:57:48] [Server thread/INFO]: Stopping the server
-[22:57:49] [Server thread/INFO]: Stopping server
-[22:57:49] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+107-7b02d22
-[22:57:49] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.137
-[22:57:49] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[22:57:49] [Server thread/INFO]: [LuckPerms] Closing storage...
-[22:57:49] [Server thread/INFO]: [LuckPerms] Goodbye!
-[22:57:49] [Server thread/INFO]: Saving players
-[22:57:49] [Server thread/INFO]: Saving worlds
-[22:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:57:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[22:57:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[22:57:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[22:57:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 282 entity chunks, 0 poi chunks in world 'world' in 0.05s
-[22:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:57:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 164 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[22:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:57:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[22:57:51] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[22:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:57:51] [Server thread/INFO]: Flushing Chunk IO
-[22:57:51] [Server thread/INFO]: Closing Thread Pool
-[22:57:51] [Server thread/INFO]: Closing Server
+[10:14:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[10:14:34] [Server thread/INFO]: Default game type: SURVIVAL
+[10:14:34] [Server thread/INFO]: Generating keypair
+[10:14:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:14:34] [Server thread/INFO]: Using epoll channel type
+[10:14:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:14:34] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[10:14:35] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
+[10:14:35] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
+[10:14:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:14:35] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
+[10:14:35] [Server thread/INFO]:         __    
+[10:14:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
+[10:14:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:14:35] [Server thread/INFO]: 
+[10:14:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:14:36] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:14:36] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:14:36] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:14:37] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1421ms)
+[10:14:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:14:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:14:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:14:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:14:37] [Server thread/INFO]: Preparing level "world"
+[10:14:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:14:38] [Server thread/INFO]: Time elapsed: 269 ms
+[10:14:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:14:38] [Server thread/INFO]: Time elapsed: 111 ms
+[10:14:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:14:38] [Server thread/INFO]: Time elapsed: 92 ms
+[10:14:38] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
+[10:14:39] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:14:39] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:14:39] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[10:14:39] [Server thread/INFO]: [Essentials] Using locale en
+[10:14:39] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:14:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:14:39] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[10:14:39] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[10:14:39] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[10:14:40] [Server thread/INFO]: Running delayed init tasks
+[10:14:40] [Server thread/INFO]: Done (6.071s)! For help, type "help"
+[10:14:40] [Server thread/INFO]: Timings Reset
+[10:14:40] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:14:40] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 155 EssentialsX dev build(s) out of date!
+[10:14:40] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[10:14:45] [User Authenticator #0/INFO]: UUID of player ADL33R is 3c4bb959-ac15-36b6-b25f-19179f3220cb
+[10:14:45] [Server thread/INFO]: ADL33R joined the game
+[10:14:45] [Server thread/INFO]: ADL33R[/127.228.144.141:50055] logged in with entity id 143 at ([world]3108.600827560748, 70.0, 29.999340677775375)
+[10:14:56] [User Authenticator #0/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[10:14:56] [Server thread/INFO]: rafaxtpa joined the game
+[10:14:56] [Server thread/INFO]: rafaxtpa[/127.92.134.86:54481] logged in with entity id 494 at ([world]-3151.8584077634173, 71.0, 3613.0817005198146)
+[10:16:42] [Server thread/INFO]: ADL33R was slain by Zombie
+[10:18:12] [Server thread/INFO]: ADL33R fell from a high place
+[10:19:29] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
+[10:24:39] [Server thread/INFO]: rafaxtpa issued server command: /home nether
+[10:24:43] [Server thread/INFO]: rafaxtpa issued server command: /home netherita
+[10:26:18] [Server thread/INFO]: rafaxtpa tried to swim in lava
+[10:26:23] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[10:37:10] [Server thread/INFO]: rafaxtpa issued server command: /home casa12
+[10:37:12] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[10:37:41] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[10:37:58] [User Authenticator #1/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[10:37:58] [Server thread/INFO]: volcan741 joined the game
+[10:37:58] [Server thread/INFO]: volcan741[/127.171.152.235:54429] logged in with entity id 11485 at ([world]1396.33337058452, 66.0, -245.20294153482362)
+[10:38:03] [Server thread/INFO]: rafaxtpa issued server command: /home casa1
+[10:39:45] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[10:40:06] [Async Chat Thread - #1/INFO]: [Not Secure] <volcan741> se me escucha?
+[10:40:08] [Async Chat Thread - #0/INFO]: [Not Secure] <rafaxtpa> no
+[10:40:57] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:42:49] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
+[10:42:49] [Server thread/INFO]: rafaxtpa left the game
+[10:43:59] [User Authenticator #2/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[10:43:59] [Server thread/INFO]: rafaxtpa joined the game
+[10:43:59] [Server thread/INFO]: rafaxtpa[/127.92.134.86:34329] logged in with entity id 15915 at ([world]-3125.169586478619, 72.0, 3643.6779818177674)
+[10:44:17] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[10:45:08] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:45:11] [Server thread/INFO]: volcan741 issued server command: /home base
+[10:47:16] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:47:37] [Server thread/INFO]: Villager EntityVillager['Villager'/17783, uuid='a8b137d6-c298-4f45-92a0-e635ec3e8eed', l='ServerLevel[world]', x=1361.70, y=64.00, z=-317.70, cpos=[85, -20], tl=99956, v=true] died, message: 'Villager was squished too much'
+[10:47:38] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:49:11] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[10:50:02] [Server thread/INFO]: volcan741 issued server command: /home base
+[10:51:14] [Async Chat Thread - #2/INFO]: [Not Secure] <volcan741> zzz
+[10:52:05] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:56:34] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:58:34] [Server thread/INFO]: volcan741 issued server command: /home casa
+[10:59:56] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
+[10:59:56] [Server thread/INFO]: rafaxtpa left the game
+[11:02:23] [Async Chat Thread - #4/INFO]: [Not Secure] <volcan741> zzz
+[11:02:58] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:03:44] [User Authenticator #3/INFO]: UUID of player rafaxtpa is 56e5c5b0-3ec3-349c-86fc-8870e424453e
+[11:03:44] [Server thread/INFO]: rafaxtpa joined the game
+[11:03:44] [Server thread/INFO]: rafaxtpa[/127.92.134.86:45071] logged in with entity id 27717 at ([world]-3161.887982554847, 70.5, 3610.8066823710615)
+[11:04:06] [Server thread/INFO]: rafaxtpa issued server command: /home cueva
+[11:04:44] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[11:07:04] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:10:51] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[11:11:00] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[11:11:07] [Server thread/INFO]: volcan741 lost connection: Disconnected
+[11:11:07] [Server thread/INFO]: volcan741 left the game
+[11:13:37] [User Authenticator #4/INFO]: UUID of player Robi08 is dcd48497-2b21-38cd-a93d-296aef7a3274
+[11:13:37] [Server thread/INFO]: Robi08 joined the game
+[11:13:37] [Server thread/INFO]: Robi08[/127.200.123.75:44485] logged in with entity id 34211 at ([world]-26.69999998807907, -24.0, 0.699999988079071)
+[11:15:05] [Server thread/INFO]: ADL33R has made the advancement [Best Friends Forever]
+[11:15:37] [Server thread/INFO]: Robi08 was shot by Skeleton
+[11:16:33] [Server thread/INFO]: Robi08 was shot by Skeleton
+[11:16:34] [User Authenticator #5/INFO]: UUID of player volcan741 is 26a91268-2e06-3d04-8d29-9b0233c2a57b
+[11:16:34] [Server thread/INFO]: volcan741 joined the game
+[11:16:34] [Server thread/INFO]: volcan741[/127.171.152.235:58425] logged in with entity id 36001 at ([world]3087.6547043320197, 72.0, 62.339455041324015)
+[11:16:46] [Server thread/INFO]: Robi08 issued server command: /tpa
+[11:16:56] [Server thread/INFO]: Robi08 issued server command: /tpa v
+[11:18:16] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:20:28] [Server thread/INFO]: Robi08 tried to swim in lava
+[11:22:00] [Server thread/INFO]: Robi08 fell from a high place
+[11:22:18] [Server thread/INFO]: volcan741 issued server command: /home base
+[11:26:09] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[11:26:13] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[11:26:33] [Server thread/INFO]: ADL33R issued server command: /delhome plana
+[11:26:44] [Server thread/INFO]: ADL33R issued server command: /home casa
+[11:26:58] [Server thread/INFO]: ADL33R issued server command: /sethome ruinas
+[11:27:04] [Server thread/INFO]: ADL33R issued server command: /delhome casa
+[11:27:11] [Server thread/INFO]: ADL33R issued server command: /tpa volcan741
+[11:27:23] [Server thread/INFO]: volcan741 issued server command: /tpaccept
+[11:28:09] [Server thread/INFO]: ADL33R issued server command: /sethome casa
+[11:28:14] [Server thread/INFO]: Robi08 was slain by Iron Golem
+[11:28:21] [Server thread/INFO]: ADL33R lost connection: Disconnected
+[11:28:21] [Server thread/INFO]: ADL33R left the game
+[11:28:54] [Server thread/INFO]: volcan741 issued server command: /home base
+[11:30:39] [Server thread/INFO]: Robi08 fell from a high place
+[11:31:57] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:32:33] [Server thread/INFO]: Robi08 was slain by Iron Golem
+[11:34:28] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:38:07] [Server thread/INFO]: Robi08 was shot by Skeleton
+[11:38:12] [Async Chat Thread - #6/INFO]: [Not Secure] <volcan741> duerme rafa
+[11:38:15] [Async Chat Thread - #7/INFO]: [Not Secure] <rafaxtpa> niga
+[11:38:16] [Async Chat Thread - #6/INFO]: [Not Secure] <rafaxtpa> z
+[11:38:21] [Async Chat Thread - #7/INFO]: [Not Secure] <volcan741> na
+[11:38:23] [Server thread/INFO]: Robi08 issued server command: /tpa r
+[11:38:24] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:40:14] [Server thread/INFO]: volcan741 issued server command: /home casa
+[11:40:19] [Server thread/INFO]: volcan741 issued server command: /home base
+[11:41:14] [Server thread/INFO]: Robi08 fell from a high place
+[11:44:24] [Server thread/INFO]: volcan741 issued server command: /home mineshaft
+[11:44:33] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[11:44:41] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[11:46:16] [Server thread/INFO]: Robi08 fell from a high place
+[11:47:27] [Server thread/INFO]: Robi08 has made the advancement [Isn't It Iron Pick]
+[11:48:53] [Server thread/INFO]: Robi08 fell from a high place
+[11:51:37] [Server thread/INFO]: Robi08 was slain by Zombie
+[11:52:56] [Server thread/INFO]: Robi08 was shot by Skeleton
+[11:54:23] [Server thread/INFO]: Robi08 drowned whilst trying to escape Skeleton
+[11:54:39] [Server thread/INFO]: Robi08 issued server command: /tpa v
+[11:54:50] [Server thread/INFO]: volcan741 issued server command: /tpaccept
+[11:56:35] [Server thread/INFO]: Robi08 has made the advancement [Diamonds!]
+[11:58:51] [Server thread/INFO]: Robi08 was blown up by Creeper
+[11:59:03] [Server thread/INFO]: Robi08 issued server command: /tpa v
+[11:59:05] [Server thread/INFO]: volcan741 issued server command: /tpaccept
+[12:01:56] [Server thread/INFO]: rafaxtpa issued server command: /delhome casa
+[12:02:02] [Server thread/INFO]: rafaxtpa issued server command: /sethome casa
+[12:03:06] [Server thread/INFO]: Robi08 was slain by Zombie
+[12:03:16] [Server thread/INFO]: Robi08 issued server command: /tpa v
+[12:03:20] [Server thread/INFO]: volcan741 issued server command: /tpaccept
+[12:10:38] [Server thread/INFO]: Robi08 fell from a high place
+[12:10:39] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:10:52] [Server thread/INFO]: rafaxtpa fell from a high place
+[12:10:55] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:11:03] [Server thread/INFO]: Robi08 issued server command: /tpa
+[12:12:10] [Server thread/INFO]: rafaxtpa issued server command: /home teta
+[12:12:39] [Server thread/INFO]: Robi08 was shot by Skeleton
+[12:12:39] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:12:54] [Server thread/INFO]: rafaxtpa issued server command: /home casa
+[12:14:10] [Server thread/INFO]: rafaxtpa lost connection: Disconnected
+[12:14:10] [Server thread/INFO]: rafaxtpa left the game
+[12:15:26] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[12:15:29] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[12:16:00] [Server thread/INFO]: Robi08 has made the advancement [Suit Up]
+[12:16:43] [Server thread/INFO]: volcan741 issued server command: /tp Robi08
+[12:16:53] [Server thread/INFO]: Robi08 has made the advancement [Cover Me with Diamonds]
+[12:17:37] [Server thread/INFO]: volcan741 issued server command: /home casa
+[12:17:40] [Server thread/INFO]: volcan741 issued server command: /home base
+[12:19:53] [Server thread/INFO]: Robi08 issued server command: /home
+[12:22:31] [Server thread/INFO]: Robi08 has made the advancement [Not Today, Thank You]
+[12:22:32] [Server thread/INFO]: Robi08 was blown up by Creeper
+[12:22:57] [Server thread/INFO]: Robi08 lost connection: Disconnected
+[12:22:57] [Server thread/INFO]: Robi08 left the game
+[12:23:51] [Server thread/INFO]: Villager EntityVillager['Villager'/77176, uuid='05d1c496-5677-46c5-a527-e5b3c4410541', l='ServerLevel[world]', x=3065.70, y=71.00, z=73.70, cpos=[191, 4], tl=67615, v=true] died, message: 'Villager was slain by Zombie'
+[12:23:58] [Server thread/INFO]: Villager EntityVillager['Villager'/77179, uuid='aef3151f-a2ea-4ba0-b079-4dbcb28bc76f', l='ServerLevel[world]', x=3065.30, y=71.00, z=73.30, cpos=[191, 4], tl=34301, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:05] [Server thread/INFO]: Villager EntityVillager['Villager'/77177, uuid='6bf0c0a0-e3bc-4d8b-8c03-07a718424762', l='ServerLevel[world]', x=3065.30, y=71.00, z=73.30, cpos=[191, 4], tl=61407, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:06] [Async Chat Thread - #8/INFO]: [Not Secure] <volcan741> zzz
+[12:24:11] [Server thread/INFO]: Villager EntityVillager['Villager'/77178, uuid='64dcff49-037e-4ed3-9565-dabac4050a2b', l='ServerLevel[world]', x=3065.70, y=71.00, z=73.70, cpos=[191, 4], tl=53820, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:17] [Server thread/INFO]: Villager EntityVillager['Villager'/77180, uuid='4edae9d5-39fa-4988-9a73-b3c76936e2fe', l='ServerLevel[world]', x=3065.70, y=71.00, z=73.30, cpos=[191, 4], tl=41077, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:23] [Server thread/INFO]: Villager EntityVillager['Villager'/77181, uuid='d6b519da-c343-4209-87b6-36c4d56db242', l='ServerLevel[world]', x=3065.70, y=71.00, z=73.30, cpos=[191, 4], tl=25861, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:28] [Server thread/INFO]: Villager EntityVillager['Villager'/77182, uuid='62639d1a-e0cd-4d31-9220-39e77499fc02', l='ServerLevel[world]', x=3065.15, y=71.00, z=73.15, cpos=[191, 4], tl=14674, v=true] died, message: 'Villager was slain by Zombie'
+[12:24:33] [Server thread/INFO]: Villager EntityVillager['Villager'/77934, uuid='dcd96946-ff27-4a16-a871-15d6bb355bbc', l='ServerLevel[world]', x=3065.15, y=71.00, z=73.85, cpos=[191, 4], tl=6452, v=true] died, message: 'Villager was slain by Zombie Villager'
+[12:28:54] [Server thread/INFO]: volcan741 issued server command: /home casa
+[12:36:49] [Server thread/INFO]: volcan741 issued server command: /home casa
+[12:36:53] [Server thread/INFO]: volcan741 issued server command: /home base
+[12:36:59] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[12:37:03] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[12:37:11] [Server thread/INFO]: volcan741 issued server command: /home base
+[12:37:26] [Async Chat Thread - #10/INFO]: [Not Secure] <volcan741> zzz
+[12:44:26] [Server thread/INFO]: volcan741 issued server command: /gamemode spectator
+[12:44:35] [Server thread/INFO]: volcan741 issued server command: /gamemode survival
+[12:48:31] [Async Chat Thread - #12/INFO]: [Not Secure] <volcan741> zzz
+[13:15:47] [Async Chat Thread - #14/INFO]: [Not Secure] <volcan741> zzz
+[13:17:10] [Server thread/INFO]: volcan741 issued server command: /home base
+[13:17:19] [Server thread/INFO]: volcan741 issued server command: /home casa
+[13:17:25] [Server thread/INFO]: volcan741 issued server command: /ermhome casa
+[13:17:32] [Server thread/INFO]: volcan741 issued server command: /sethome bas
+[13:23:11] [Server thread/INFO]: Villager EntityVillager['Librarian'/88685, uuid='b7001b83-3860-4ed6-bf3d-f281ca80337e', l='ServerLevel[world]', x=1384.54, y=62.00, z=-243.66, cpos=[86, -16], tl=644678, v=true] died, message: 'Librarian was slain by Zombie'
+[13:26:31] [Server thread/INFO]: volcan741 issued server command: /home base
+[13:26:47] [Server thread/INFO]: volcan741 issued server command: /ermhome base
+[13:26:52] [Server thread/INFO]: volcan741 issued server command: /sethome casa
+[13:27:08] [Server thread/INFO]: volcan741 lost connection: Disconnected
+[13:27:08] [Server thread/INFO]: volcan741 left the game
+[13:27:18] [Server thread/INFO]: Stopping the server
+[13:27:18] [Server thread/INFO]: Stopping server
+[13:27:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+107-7b02d22
+[13:27:18] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.137
+[13:27:18] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:27:18] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:27:18] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:27:18] [Server thread/INFO]: Saving players
+[13:27:18] [Server thread/INFO]: Saving worlds
+[13:27:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:27:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:27:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:27:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:27:18] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 216 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[13:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Saved 11 block chunks, 141 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[13:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:27:19] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[13:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:27:19] [Server thread/INFO]: Flushing Chunk IO
+[13:27:19] [Server thread/INFO]: Closing Thread Pool
+[13:27:19] [Server thread/INFO]: Closing Server

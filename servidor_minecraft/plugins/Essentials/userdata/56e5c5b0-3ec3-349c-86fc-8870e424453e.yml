@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754689258565
+  lastteleport: 1754741574914
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754690917723
-  login: 1754688155152
+  logout: 1754741650293
+  login: 1754737424085
 money: '0'
 last-account-name: rafaxtpa
 logoutlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 743.6388461068542
-  y: 66.0
-  z: -411.9934741472378
-  yaw: -65.671875
-  pitch: 40.005287170410156
+  x: -3113.5294492880566
+  y: 74.0
+  z: 3661.0493611055986
+  yaw: -78.89886474609375
+  pitch: 2.8793764114379883
 homes:
   obsidiana:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
@@ -85,30 +85,6 @@ homes:
     z: 210.69999998807907
     yaw: -63.1832160949707
     pitch: 8.278077125549316
-  nether:
-    world: ce2b4074-ea74-4e5d-ac49-0f2b61e0c1e3
-    world-name: world_nether
-    x: -292.0756748438182
-    y: 51.0
-    z: 34.69999998807907
-    yaw: 162.018798828125
-    pitch: 19.888023376464844
-  casa:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 59.556957490079675
-    y: 63.0
-    z: -188.26386163415242
-    yaw: -77.54042053222656
-    pitch: 23.37097930908203
-  cueva2:
-    world: 64598a45-9630-4870-af2e-8d1213ba82f7
-    world-name: world
-    x: 483.4352291961664
-    y: -1.0
-    z: -72.30000001192093
-    yaw: 27.299591064453125
-    pitch: 16.817270278930664
   stefan:
     world: 64598a45-9630-4870-af2e-8d1213ba82f7
     world-name: world
@@ -125,11 +101,19 @@ homes:
     z: -23.368312809644326
     yaw: 76.94976806640625
     pitch: -7.765069007873535
+  casa:
+    world: 64598a45-9630-4870-af2e-8d1213ba82f7
+    world-name: world
+    x: -3102.5686422930794
+    y: 73.0
+    z: 3657.9869637983816
+    yaw: -59.605743408203125
+    pitch: 19.690786361694336
 lastlocation:
   world: 64598a45-9630-4870-af2e-8d1213ba82f7
   world-name: world
-  x: 1308.275395708198
-  y: 63.0
-  z: -380.69999998807907
-  yaw: -29.648162841796875
-  pitch: 23.35700035095215
+  x: -3136.300000011921
+  y: 71.0
+  z: 3676.3092331001376
+  yaw: -86.87570190429688
+  pitch: 11.9253568649292
